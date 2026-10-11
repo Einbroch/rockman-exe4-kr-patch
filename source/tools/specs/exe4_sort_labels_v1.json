@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "scope": "folder SORT window items (folder edit and two link screens load the same tiles and map)",
+ "tile_first": 256,
+ "tile_count": 61,
+ "map_cells": [
+  8,
+  17
+ ],
+ "tiles_sha256": "6a101e5dcee94929b150d949031ee7f01ed6aff112576c5b2ea0683d852474b3",
+ "map_sha256": "ccfc44dccd5329ebfa9de2153f693ceba91cd1d9a317f2f62bca4c5e855e6e2e",
+ "ink": 1,
+ "shadow": 2,
+ "background": 6,
+ "items": [
+  {
+   "row": 2,
+   "columns": [
+    1,
+    6
+   ],
+   "source": "ID",
+   "text": "ID"
+  },
+  {
+   "row": 4,
+   "columns": [
+    1,
+    6
+   ],
+   "source": "アイウエオ",
+   "text": "가나다순"
+  },
+  {
+   "row": 6,
+   "columns": [
+    1,
+    6
+   ],
+   "source": "コード",
+   "text": "코드"
+  },
+  {
+   "row": 8,
+   "columns": [
+    1,
+    6
+   ],
+   "source": "攻撃力",
+   "text": "공격력"
+  },
+  {
+   "row": 10,
+   "columns": [
+    1,
+    6
+   ],
+   "source": "系統",
+   "text": "속성"
+  },
+  {
+   "row": 12,
+   "columns": [
+    1,
+    6
+   ],
+   "source": "枚数",
+   "text": "장수"
+  },
+  {
+   "row": 14,
+   "columns": [
+    1,
+    6
+   ],
+   "source": "チップ容量",
+   "text": "칩 용량"
+  }
+ ],
+ "evidence": "user save folder-edit SORT snapshot (analysis/runtime/user_save_sort_snap_01): screenblock 28 at char base 0x06008000 equals the ROM map (8x17 cells from screen column 4, row 2); tile block literal 0x086DDA8C used at 0x0802FC18, 0x0803CDFC, 0x0804C354 (red)",
+ "profiles": {
+  "blue_moon": {
+   "source_sha256": "f976a84ef226e47d4a65695052da09b415867b01586dd74bbb1c289a6f607b63",
+   "tiles_offset": 7198152,
+   "map_offset": 7200136
+  },
+  "red_sun": {
+   "source_sha256": "1904692bc383fc2cb7e1d81e1c80bf2d8c616c0d1b1d396c689f71b49a2e3188",
+   "tiles_offset": 7199372,
+   "map_offset": 7201356
+  }
+ }
+}

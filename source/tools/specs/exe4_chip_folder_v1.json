@@ -1,0 +1,117 @@
+{
+  "schema": 1,
+  "scope": "initial ten chip names in private folder chooser clone only; other consumers retain original archive41",
+  "font_sha256": "26321b2d780b859bfee7ca6cc561b50268efed139a852b470a589c0ba9901b24",
+  "profiles": {
+    "blue_moon": {
+      "source_sha256": "f976a84ef226e47d4a65695052da09b415867b01586dd74bbb1c289a6f607b63",
+      "anchors": [
+        {
+          "offset": 192560,
+          "size": 92,
+          "sha256": "4dd883e7b1d06f9328718f83306bd05d71b4daa652dbf1a12c6f26640ddc76ef"
+        },
+        {
+          "offset": 190868,
+          "size": 240,
+          "sha256": "e8116a638c3c4f4c78a62beb095d8c018470eff42f2a89c56f304f2c5c6f5fbc"
+        },
+        {
+          "offset": 2160,
+          "size": 72,
+          "sha256": "1209fd45cd9eb994a26444f140ea1192d32fd60b3f57072124022314139eeb9b"
+        }
+      ],
+      "chooser_entry": 134410288,
+      "upload_patch": {
+        "offset": 190892,
+        "expected_hex": "3c483d493d4ad1f75dff",
+        "continuation": 134408631
+      },
+      "parser_patch": {
+        "offset": 192644,
+        "expected_hex": "2026360100f010fa",
+        "continuation": 134410381
+      },
+      "clone_pointer": 192656,
+      "original_archive_offset": 7625172,
+      "other_archive_claims_preserved": [
+        130208,
+        138264,
+        193212,
+        229400,
+        249484,
+        304780,
+        326204
+      ],
+      "native_font_address": 141090820,
+      "bounded_VRAM_receipt_sha256": "aa6f878efb34e5ac1161b43a5bc48d7c2891bd06d27d5cb7d1699e751d058534"
+    },
+    "red_sun": {
+      "source_sha256": "1904692bc383fc2cb7e1d81e1c80bf2d8c616c0d1b1d396c689f71b49a2e3188",
+      "anchors": [
+        {
+          "offset": 192616,
+          "size": 92,
+          "sha256": "4dd883e7b1d06f9328718f83306bd05d71b4daa652dbf1a12c6f26640ddc76ef"
+        },
+        {
+          "offset": 190924,
+          "size": 240,
+          "sha256": "1e99b1d05959bb1da9022ed03d4a1501719102393ee7cd7a23756c57738b8e7b"
+        },
+        {
+          "offset": 2160,
+          "size": 72,
+          "sha256": "1209fd45cd9eb994a26444f140ea1192d32fd60b3f57072124022314139eeb9b"
+        }
+      ],
+      "chooser_entry": 134410344,
+      "upload_patch": {
+        "offset": 190948,
+        "expected_hex": "3c483d493d4ad1f741ff",
+        "continuation": 134408687
+      },
+      "parser_patch": {
+        "offset": 192700,
+        "expected_hex": "2026360100f010fa",
+        "continuation": 134410437
+      },
+      "clone_pointer": 192712,
+      "original_archive_offset": 7626392,
+      "other_archive_claims_preserved": [
+        130268,
+        138320,
+        193268,
+        229452,
+        249536,
+        304832,
+        326252
+      ],
+      "native_font_address": 141091364,
+      "bounded_VRAM_receipt_sha256": "cc1fcc894aa770a509fbc5f892c4eac00352fac91cb5d474cdf30aac2c39fe03"
+    }
+  },
+  "segments": [
+    {
+      "address": 100690816,
+      "glyphs": 18
+    },
+    {
+      "address": 100692832,
+      "glyphs": 6
+    }
+  ],
+  "queue_helper": 134219889,
+  "glyph_bytes": 64,
+  "native_tile_base": 512,
+  "max_hangul_cells": 8,
+  "cache_lifetime": "upload after native160-glyph enqueue at each folder initialization; survives observed edit and scrolling; runtime regression still required",
+  "open": [
+    "other menu/battle/name consumers",
+    "whole-game and physical device QA",
+    "font and language approval"
+  ],
+  "rejected_candidate": "06006800 begins seven dynamic128-byte chip images; never allocate a Hangul bank there",
+  "IO_evidence_policy": "raw Lua byte reads of display IO are not adopted as PPU register evidence; use actual tilemap/pixel consumption"
+}

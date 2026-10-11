@@ -1,0 +1,83 @@
+{
+  "schema": 1,
+  "scope": "folder edit and seven-row library ten descriptions; NON-DISTRIBUTION needs_review",
+  "cells": 10,
+  "lines": 3,
+  "draft_sha256": "6bc6696a26582951211a22e79e13fd026742e1eee25b6ca7be2f7e06981ba278",
+  "profiles": {
+    "blue_moon": {
+      "source_sha256": "f976a84ef226e47d4a65695052da09b415867b01586dd74bbb1c289a6f607b63",
+      "baseline_sha256": "342642391ead8f10ac1ad99369ed35be3acbb2f1c16033c5fa3f9d654cf540d8",
+      "source_pointer": 141859368,
+      "compiled_sha256": "4e85c779243a00c28a14ef9bb37cd6873b3b7ba7962e786630d39a743eb6ac50",
+      "consumers": {
+        "folder": {
+          "start": 1075796,
+          "call": 1075842,
+          "pointer_offset": 1075908,
+          "context_size": 112,
+          "context_sha256": "dd6f499a2acdde41df25150359136fce58b8fbbe36e10f3ff0b45aa094e9d4c8",
+          "destination": 33650688,
+          "vram": 100734464,
+          "font": 141322652,
+          "observed_hits": 1
+        },
+        "library": {
+          "start": 1087612,
+          "call": 1087648,
+          "pointer_offset": 1087656,
+          "context_size": 44,
+          "context_sha256": "3af300642344465c5e56a8619ef14c065fdc9d9e30c054bde1336833764d17a3",
+          "destination": 33650688,
+          "vram": 100734976,
+          "font": 141322652,
+          "observed_hits": 3
+        }
+      },
+      "preserved_other_menu_claim": 1076652,
+      "native_trace": {
+        "receipt": "analysis/runtime/blue_moon_menu_description_trace_01/result.json",
+        "receipt_sha256": "e649c5db1fd7500c59180fdbfef9f6fddb72c499cf4af3b3b7374da46b70e3d6",
+        "trace": "analysis/runtime/blue_moon_menu_description_trace_01/exectrace_final.json",
+        "trace_sha256": "512db909fc47022e2b11d14e9f33292e327040735093266e5741882deccd2e04"
+      }
+    },
+    "red_sun": {
+      "source_sha256": "1904692bc383fc2cb7e1d81e1c80bf2d8c616c0d1b1d396c689f71b49a2e3188",
+      "baseline_sha256": "c622fb0768f4b3daaaeda3ad8d0bc0f440af50a1df38d0e687e73f6a9443273d",
+      "source_pointer": 141860656,
+      "compiled_sha256": "4e85c779243a00c28a14ef9bb37cd6873b3b7ba7962e786630d39a743eb6ac50",
+      "consumers": {
+        "folder": {
+          "start": 1075908,
+          "call": 1075954,
+          "pointer_offset": 1076020,
+          "context_size": 112,
+          "context_sha256": "188c740cb230f336ba197f3baaeaa9d2470d9eb32f281b491b72a7fc7636142e",
+          "destination": 33650688,
+          "vram": 100734464,
+          "font": 141323872,
+          "observed_hits": 1
+        },
+        "library": {
+          "start": 1087724,
+          "call": 1087760,
+          "pointer_offset": 1087768,
+          "context_size": 44,
+          "context_sha256": "041a856a3bac280eb0e467639f31eaacbaf2e29aae5f4fae5a54fd22e04a12a1",
+          "destination": 33650688,
+          "vram": 100734976,
+          "font": 141323872,
+          "observed_hits": 3
+        }
+      },
+      "preserved_other_menu_claim": 1076764,
+      "native_trace": {
+        "receipt": "analysis/runtime/red_sun_menu_description_trace_01/result.json",
+        "receipt_sha256": "10774bcd5c81ef401b6201e641260f997516fd711cd216d0a511c329eddede4d",
+        "trace": "analysis/runtime/red_sun_menu_description_trace_01/exectrace_final.json",
+        "trace_sha256": "02dca5009958c3a70c6d3ef1e452893e2213b86a9066e4b0c3f8d1acda275e6d"
+      }
+    }
+  }
+}

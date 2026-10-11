@@ -1,0 +1,706 @@
+{
+  "schema": 1,
+  "batch": "002",
+  "state": "needs_review",
+  "scope": "NaviCustomizer program effect descriptions, archive 012, identical in both revisions.",
+  "provenance": "Claude translator-authored Japanese to Korean, 2026-09-20; no independent review yet",
+  "authored": "translations/story_authored/batch_002.json",
+  "authored_sha256": "3b589bc167b46fe9e5ec653bda8e1cb44aff8699f500a66538cb83a1bb394b1e",
+  "sheet_sha256": "29c4410ed42d3cbcf800e9552e1e81bcdd02298b1198be0653230a7349587470",
+  "archives": [
+    12
+  ],
+  "deferred": [],
+  "entries": [
+    {
+      "id": "archive/012/script/1/literal/0",
+      "ja": "攻撃をくらっても\nのけぞらなくなる!",
+      "ko": "공격을 맞아도\n뒤로 밀리지 않는다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/10/literal/0",
+      "ja": "B+左のコマンドで\n攻撃をうけたふりして\nしゅりけんをなげる!",
+      "ko": "B+왼쪽 커맨드로\n공격받은 척하고\n수리검을 던진다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/11/literal/0",
+      "ja": "地面からすこしういて\nいるのでパネルの\nえいきょうをうけない",
+      "ko": "지면에서 살짝 떠\n있어서 패널의\n영향을 받지 않는다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/12/literal/0",
+      "ja": "パネルのないマスでも\nいどうできる!",
+      "ko": "패널이 없는 칸도\n이동할 수 있다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/13/literal/0",
+      "ja": "ちしりょうのダメージ\nをうけてもHP1で\nとりあえずたえる!",
+      "ko": "치명적인 데미지를\n받아도 HP 1로\n일단 버텨낸다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/14/literal/0",
+      "ja": "自分よりよわいてきと\nであわなくなる!",
+      "ko": "자신보다 약한 적과\n만나지 않게 된다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/15/literal/0",
+      "ja": "炎属性ウイルスが\n大スキなオイルをぬり\nねらわれやすくなる!",
+      "ko": "불 속성 바이러스가\n좋아하는 기름을 발라\n노려지기 쉬워진다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/16/literal/0",
+      "ja": "さかなになりきって\n水属性のウイルスから\nみつけられやすくなる",
+      "ko": "물고기인 척해서\n물 속성 바이러스에게\n들키기 쉬워진다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/17/literal/0",
+      "ja": "バッテリーじょうたい\nで電気属性ウイルスが\nよってくるようになる",
+      "ko": "배터리 상태가 되어\n전기 속성 바이러스가\n모여들게 된다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/18/literal/0",
+      "ja": "ジャングルのかおりを\nほうしゅつして木属性\nウイルスをひきつける",
+      "ko": "정글의 향기를\n뿜어내 나무 속성\n바이러스를 끌어당긴다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/19/literal/0",
+      "ja": "てきのざんがいから\nチップデータをみつけ\nだすがんりきがアップ",
+      "ko": "적의 잔해에서\n칩 데이터를 찾아내는\n안력이 올라간다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/2/literal/0",
+      "ja": "カスタム画面で\nさいしょにえらべる\nチップ枚数が+1",
+      "ko": "커스텀 화면에서\n처음에 고를 수 있는\n칩 매수가 +1",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/20/literal/0",
+      "ja": "きまじめすぎるナビに\nくみこんでLボタンで\nはなしてみてください",
+      "ko": "너무 고지식한 내비에\n끼워 넣고 L 버튼으로\n말을 걸어 보세요",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/21/literal/0",
+      "ja": "バスターのアタック、\nラピッド、チャージが\nそれぞれ+3!",
+      "ko": "버스터의 어택、\n래피드、차지가\n각각 +3!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/22/literal/0",
+      "ja": "アーマー、シャツ\nエア、フロートの\n4てんパック!",
+      "ko": "아머、셔츠\n에어、플로트의\n4종 세트!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/23/literal/0",
+      "ja": "せんざいのうりょくを\n100%ひきだす\nキケンなプログラム",
+      "ko": "잠재 능력을\n100% 끌어내는\n위험한 프로그램",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/24/literal/0",
+      "ja": "バグの発生をおさえる\nとくしゅなプログラム",
+      "ko": "버그 발생을 억제하는\n특수한 프로그램",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/25/literal/0",
+      "ja": "おのれのあくぎょうを\nくいあらためるための\nしゅぎょうプログラム",
+      "ko": "자신의 악행을\n뉘우치기 위한\n수행 프로그램",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/26/literal/0",
+      "ja": "たいせんせんよう!\nきえたあいてのニオイ\nをかぎつけとびかかる",
+      "ko": "대전 전용!\n사라진 상대의 냄새를\n맡아내 덤벼든다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/27/literal/0",
+      "ja": "たいせんせんよう!\nメガクラスいじょうの\nチップをうばいさる",
+      "ko": "대전 전용!\n메가 클래스 이상의\n칩을 빼앗는다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/28/literal/0",
+      "ja": "たいせんせんよう!\nひんしになったときに\nてあてをしてくれる!",
+      "ko": "대전 전용!\n빈사 상태가 됐을 때\n치료해 준다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/29/literal/0",
+      "ja": "ヒートウエポン",
+      "ko": "히트 웨폰",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/3/literal/0",
+      "ja": "カスタム画面で\nさいしょにえらべる\nチップ枚数が+2",
+      "ko": "커스텀 화면에서\n처음에 고를 수 있는\n칩 매수가 +2",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/30/literal/0",
+      "ja": "アクアウエポン",
+      "ko": "아쿠아 웨폰",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/31/literal/0",
+      "ja": "エレキウエポン",
+      "ko": "엘렉 웨폰",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/32/literal/0",
+      "ja": "ウッドウエポン",
+      "ko": "우드 웨폰",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/33/literal/0",
+      "ja": "インビジブル",
+      "ko": "인비저블",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/34/literal/0",
+      "ja": "ロックバスターの\n攻撃力が1アップ!",
+      "ko": "록버스터의\n공격력이 1 상승!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/35/literal/0",
+      "ja": "ロックバスターの\n連射力が1アップ!",
+      "ko": "록버스터의\n연사력이 1 상승!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/36/literal/0",
+      "ja": "ロックバスターの\nチャージ力が\n1アップ!",
+      "ko": "록버스터의\n차지력이\n1 상승!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/37/literal/0",
+      "ja": "ロックバスターの\n攻撃力がMAXに!",
+      "ko": "록버스터의\n공격력이 MAX로!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/38/literal/0",
+      "ja": "ロックバスターの\n連射力がMAXに!",
+      "ko": "록버스터의\n연사력이 MAX로!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/39/literal/0",
+      "ja": "ロックバスターの\nチャージ力が\nMAXに!",
+      "ko": "록버스터의\n차지력이\nMAX로!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/4/literal/0",
+      "ja": "フォルダに入れられる\nメガクラスチップの\n枚数が+1",
+      "ko": "폴더에 넣을 수 있는\n메가 클래스 칩의\n매수가 +1",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/40/literal/0",
+      "ja": "ウエポンLV+1",
+      "ko": "웨폰 LV+1",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/41/literal/0",
+      "ja": "マックスHPが\n50ふえる!",
+      "ko": "맥스 HP가\n50 늘어난다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/42/literal/0",
+      "ja": "マックスHPが\n100ふえる!",
+      "ko": "맥스 HP가\n100 늘어난다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/43/literal/0",
+      "ja": "マックスHPが\n200ふえる!",
+      "ko": "맥스 HP가\n200 늘어난다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/44/literal/0",
+      "ja": "マックスHPが\n300ふえる!",
+      "ko": "맥스 HP가\n300 늘어난다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/45/literal/0",
+      "ja": "マックスHPが\n400ふえる!",
+      "ko": "맥스 HP가\n400 늘어난다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/46/literal/0",
+      "ja": "マックスHPが\n500ふえる!",
+      "ko": "맥스 HP가\n500 늘어난다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/5/literal/0",
+      "ja": "フォルダに入れられる\nメガクラスチップの\n枚数が+2",
+      "ko": "폴더에 넣을 수 있는\n메가 클래스 칩의\n매수가 +2",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/6/literal/0",
+      "ja": "フォルダに入れられる\nギガクラスチップの\n枚数が+1",
+      "ko": "폴더에 넣을 수 있는\n기가 클래스 칩의\n매수가 +1",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/7/literal/0",
+      "ja": "さいしょからバリアが\nそうびされている!",
+      "ko": "처음부터 배리어가\n장비되어 있다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/8/literal/0",
+      "ja": "B+左のコマンドで\nほとんどの攻撃を\nふせぐシールド!",
+      "ko": "B+왼쪽 커맨드로\n대부분의 공격을\n막는 실드!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    },
+    {
+      "id": "archive/012/script/9/literal/0",
+      "ja": "B+左のコマンドで\n攻撃をはねかえす\nリフレクト!",
+      "ko": "B+왼쪽 커맨드로\n공격을 튕겨내는\n리플렉트!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "368286f52b977dc57f861d8b5014ba7097bf98ddd465c0bda2108713ccbe95f2"
+        },
+        "red_sun": {
+          "payload_sha256": "55571b3d3d75df1cbff8b9a69ea85d69c7e16be417339f3211096c4520849ac3",
+          "tpl_sha256": "6180789452dcea62f78b76dceeddd016964872950f974839ea5849b3ab04e45c"
+        }
+      }
+    }
+  ]
+}

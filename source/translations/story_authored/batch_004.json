@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "batch": "004",
+  "state": "needs_review",
+  "scope": "Archive 230, the PET pickup message and Rockman's first line, also on the established cold route. Identical in both revisions.",
+  "provenance": "Claude translator-authored Japanese to Korean, 2026-09-20; no independent review yet",
+  "archives": [230],
+  "terms": {
+    "熱斗": "넷토",
+    "けいたいがた じょうほうたんまつ": "휴대형 정보 단말",
+    "ゲットした": "손에 넣었다"
+  },
+  "tone": "A narrated pickup line, then Rockman asking Netto to take him along.",
+  "notes": "script/0 is a split message: literal/0, then an untranslated bracket literal, then the item name the game inserts, then literal/2. The Korean keeps the same split and avoids a subject particle, because the inserted name decides which particle Korean would need; the other pickup archives use the same wording.",
+  "scripts": {
+    "script/0/literal/0": "넷토는、\n휴대형 정보 단말",
+    "script/0/literal/2": "」\n획득!!",
+    "script/1/literal/0": "넷토야、\n나도 데려가 줘!"
+  }
+}

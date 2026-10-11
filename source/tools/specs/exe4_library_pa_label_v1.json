@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "scope": "data library P.A memo panel caption パターン (32x8 sprite, tiles 0xBC..0xBF, OBJ palette 2) in the library sprite sheet; the ?/? sprites after it stay",
+ "evidence": "analysis/runtime/user_save_pa_snap_01 (red user save, library P.A tab): OAM 6 at x10 y25 is a 32x8 sprite of tiles 0xBC..0xBF; those 128 bytes are at 0x11A4 of the LZ77 stream the library decodes to 0x02031000 (0x080374EE), red 0x086F1D0C / blue 0x086F1848, one pointer each",
+ "font_sha256": "26321b2d780b859bfee7ca6cc561b50268efed139a852b470a589c0ba9901b24",
+ "text": "패턴",
+ "ink": 14,
+ "fill": 11,
+ "keep": [],
+ "right_margin": 2,
+ "tile_offset": 4516,
+ "tiles": 4,
+ "compressed_size": 1015,
+ "sheet_sha256": "57a2de50a45821d79d05a35e053d2cbbfe002bac67c5e1c6c8af5ab82a43e1fa",
+ "profiles": {
+  "red_sun": {
+   "source_sha256": "1904692bc383fc2cb7e1d81e1c80bf2d8c616c0d1b1d396c689f71b49a2e3188",
+   "sheet_offset": 7281932,
+   "pointer": 226732
+  },
+  "blue_moon": {
+   "source_sha256": "f976a84ef226e47d4a65695052da09b415867b01586dd74bbb1c289a6f607b63",
+   "sheet_offset": 7280712,
+   "pointer": 226680
+  }
+ },
+ "span_bytes": 1016,
+ "span_note": "the source stream is 1,015 bytes plus one pad byte; the library description sheet (an LZ77 header, red 0x086F2104 / blue 0x086F1C40) starts 1,016 bytes after the sheet in both revisions",
+ "erase_tiles": [
+  4644
+ ],
+ "erase_note": "tile 0xC0 (OAM 5, x10 y17) holds the handakuten of パ: rows 0..4 transparent, rows 5..7 fill 11 with ink 12/14"
+}

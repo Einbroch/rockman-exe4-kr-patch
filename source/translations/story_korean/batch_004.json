@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "batch": "004",
+  "state": "needs_review",
+  "scope": "Archive 230, the PET pickup message and Rockman's first line, also on the established cold route. Identical in both revisions.",
+  "provenance": "Claude translator-authored Japanese to Korean, 2026-09-20; no independent review yet",
+  "authored": "translations/story_authored/batch_004.json",
+  "authored_sha256": "a40fce6ad3a7d86b8f9ba7dcd0b5e58c1df4301989d99892717be92caf447376",
+  "sheet_sha256": "29c4410ed42d3cbcf800e9552e1e81bcdd02298b1198be0653230a7349587470",
+  "archives": [
+    230
+  ],
+  "deferred": [],
+  "entries": [
+    {
+      "id": "archive/230/script/0/literal/0",
+      "ja": "熱斗は、\nけいたいがた じょうほうたんまつ",
+      "ko": "넷토는、\n휴대형 정보 단말",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "dd6d60e457d2e0aebf358cb6ff8515bc6b67d21f488c753533ffbda1dd2ea102",
+          "tpl_sha256": "b92aa80091e79a3f7d0b2c3cd56570b954b016ba4db6f3e4b86630aebdb901ee"
+        },
+        "red_sun": {
+          "payload_sha256": "dd6d60e457d2e0aebf358cb6ff8515bc6b67d21f488c753533ffbda1dd2ea102",
+          "tpl_sha256": "cc374325ab3a9dd408f66d51655d3907d0d003e369076b200dc1efa84b7be2d4"
+        }
+      }
+    },
+    {
+      "id": "archive/230/script/0/literal/2",
+      "ja": "」\nを ゲットした!!",
+      "ko": "」\n획득!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "dd6d60e457d2e0aebf358cb6ff8515bc6b67d21f488c753533ffbda1dd2ea102",
+          "tpl_sha256": "b92aa80091e79a3f7d0b2c3cd56570b954b016ba4db6f3e4b86630aebdb901ee"
+        },
+        "red_sun": {
+          "payload_sha256": "dd6d60e457d2e0aebf358cb6ff8515bc6b67d21f488c753533ffbda1dd2ea102",
+          "tpl_sha256": "cc374325ab3a9dd408f66d51655d3907d0d003e369076b200dc1efa84b7be2d4"
+        }
+      }
+    },
+    {
+      "id": "archive/230/script/1/literal/0",
+      "ja": "熱斗くん、\nボクもつれていってよ!",
+      "ko": "넷토야、\n나도 데려가 줘!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "dd6d60e457d2e0aebf358cb6ff8515bc6b67d21f488c753533ffbda1dd2ea102",
+          "tpl_sha256": "b92aa80091e79a3f7d0b2c3cd56570b954b016ba4db6f3e4b86630aebdb901ee"
+        },
+        "red_sun": {
+          "payload_sha256": "dd6d60e457d2e0aebf358cb6ff8515bc6b67d21f488c753533ffbda1dd2ea102",
+          "tpl_sha256": "cc374325ab3a9dd408f66d51655d3907d0d003e369076b200dc1efa84b7be2d4"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "scope": "F9 FC Hangul in the ROM proportional tile renderer: mail SUBJECT (0x08031A94 red) and staff credits (0x08110270 red); the third caller 0x08032E18 has no caller itself",
+ "draw_head_hex": "09b55346",
+ "borrowed_code_advance": 11,
+ "legacy_glyphs": 442,
+ "evidence": "textread of the mail header archive (analysis/runtime/user_save_mail_read_01): the SUBJECT bytes are read at 0x08053BBE, the ROM renderer loop; its table entry for F9 is the printShortString handler",
+ "profiles": {
+  "blue_moon": {
+   "source_sha256": "f976a84ef226e47d4a65695052da09b415867b01586dd74bbb1c289a6f607b63",
+   "slot": 342856,
+   "legacy_handler": 134561329,
+   "draw": 134560713,
+   "context": 33597120,
+   "width_tables": [
+    134550920,
+    134552684
+   ]
+  },
+  "red_sun": {
+   "source_sha256": "1904692bc383fc2cb7e1d81e1c80bf2d8c616c0d1b1d396c689f71b49a2e3188",
+   "slot": 342904,
+   "legacy_handler": 134561377,
+   "draw": 134560761,
+   "context": 33597120,
+   "width_tables": [
+    134550968,
+    134552732
+   ]
+  }
+ }
+}

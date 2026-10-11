@@ -1,0 +1,1967 @@
+{
+  "schema": 1,
+  "batch": "121",
+  "state": "authored",
+  "scope": "archives 95 and 98: the other two sets of reminders Netto gives in the net",
+  "provenance": "Claude, 2026-09-27; wording decided against translations/story_source.jsonl and the terminology adopted in earlier batches, with 66 lines seeded from decisions those batches already made",
+  "authored": "translations/story_authored/batch_121.json",
+  "authored_sha256": "ad7e3f80e966a17e6fcf2031b41b34d153586fea49aa16beb1dcebd025e00559",
+  "sheet_sha256": "29c4410ed42d3cbcf800e9552e1e81bcdd02298b1198be0653230a7349587470",
+  "archives": [
+    95,
+    98
+  ],
+  "deferred": [],
+  "entries": [
+    {
+      "id": "archive/095/script/131/literal/0",
+      "ja": "はんにんのだした ヒントを\nてがかりに チサオをさがすぞ!",
+      "ko": "범인이 낸 힌트를\n단서로 치사오를 찾자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/132/literal/0",
+      "ja": "電気街の ひろばにむかうぞ!!",
+      "ko": "전기가 광장으로 가자!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/133/literal/0",
+      "ja": "デカオとのたいけつだぜ!\nじゅんびが できたら、\nかいじょうに もどるぞ!",
+      "ko": "데카오와의 대결이다!\n준비가 되면、\n시합장으로 돌아가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/134/literal/0",
+      "ja": "すうじデータをもってる\nナビは どこだ!?\nさがすぞ! ロックマン",
+      "ko": "숫자 데이터를 가진\n내비는 어디지!?\n찾자! 록맨",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/140/literal/0",
+      "ja": "ロックマン、インターネットは\nあとにして、タコヤキ屋に行こうぜ",
+      "ko": "록맨、인터넷은\n나중에、타코야키집에 가자",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/141/literal/0",
+      "ja": "ロックマン、\nビシっと タコヤキきを\nしゅうりしようぜ!",
+      "ko": "록맨、\n깔끔하게 타코야키 기계를\n수리하자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/142/literal/0",
+      "ja": "ヒノケン、どこ行っちゃったんだ?\nもしかしたら、インタ-ネットに\nファイアマンが いるかもな・・・",
+      "ko": "히노켄、어디 가 버린 거야?\n어쩌면、인터넷에\n파이어맨이 있을지도...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/143/literal/0",
+      "ja": "オレたちも タコヤキ屋に\nもどろう",
+      "ko": "우리도 타코야키집으로\n돌아가자",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/144/literal/0",
+      "ja": "ロックマン、じゅんびが\nととのったら すぐにドームに\nむかおう!",
+      "ko": "록맨、준비가\n되면 바로 돔으로\n가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/15/literal/0",
+      "ja": "ロックマン!\nみんなを さがすぞ!\n・・・どこだ!?",
+      "ko": "록맨!\n모두를 찾자!\n...어디 있지!?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/150/literal/0",
+      "ja": "はやく PETのメンテナンスに\n行こうぜ もたもたしてたら\nおわっちゃうぜ?",
+      "ko": "빨리 PET 메인터넌스\n받으러 가자 꾸물대다간\n끝나 버린다고?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/151/literal/0",
+      "ja": "くそっ、フォルダを\nかいぞうされるなんて・・・\nどこかで なおしてもらわないとな",
+      "ko": "젠장、폴더를\n개조당하다니...\n어디선가 고쳐 받아야겠어",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/152/literal/0",
+      "ja": "ヒントは 「",
+      "ko": "힌트는 「",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/152/literal/1",
+      "ja": "」 だ\nいそいで パスワードを\nかいどくするぞ!",
+      "ko": "」\n서둘러 패스워드를\n해독하자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/153/literal/0",
+      "ja": "フォルダも もどったし、\nあとは おもいっきり\nバトルするだけだぜ!!",
+      "ko": "폴더도 되돌아왔으니、\n이제 마음껏\n배틀하는 것뿐이야!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/161/literal/0",
+      "ja": "ロックマン、\nあの おじいさんに\nコマを とどけてあげようぜ",
+      "ko": "록맨、\n그 할아버지한테\n팽이를 갖다 드리자",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/162/literal/0",
+      "ja": "インターネットは あとにして、\n秋原町のこうえんに\n行ってみようぜ",
+      "ko": "인터넷은 나중에 하고、\n아키하라 마을 공원에\n가 보자",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/163/literal/0",
+      "ja": "タウンエリアで しけんか・・・\nま、あの おじいさんの\nためだし、がんばるかぁ",
+      "ko": "타운 에리어에서 시험...\n뭐、그 할아버지를\n위해서니、힘내 볼까",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/164/literal/0",
+      "ja": "ロックマン、オレたちも\n電気街のひろばに 行こうぜ!!",
+      "ko": "록맨、우리도\n전기가 광장에 가자!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/165/literal/0",
+      "ja": "ロックマン、じかんがないぞ\nじゅんびが できたら\nすぐに かいじょうにもどろう",
+      "ko": "록맨、시간이 없어\n준비가 되면\n바로 시합장으로 돌아가자",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/166/literal/0",
+      "ja": "会長のナビ、\nこの秋原エリアのどこかに\nいるんだよな?",
+      "ko": "회장 내비、\n이 아키하라 에리어 어딘가에\n있는 거지?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/172/literal/0",
+      "ja": "わっ! インターネットが\n水ぼつしてるじゃないか!\nロックマン、プラグアウトだ!",
+      "ko": "왓! 인터넷이\n물에 잠겨 있잖아!\n록맨、플러그아웃이다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/173/literal/0",
+      "ja": "ロックマン、\nアクアマンをさがすんだ!",
+      "ko": "록맨、\n아쿠아맨을 찾는 거야!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/174/literal/0",
+      "ja": "いそげっ!\nアクアマンの あとをおうぞ!",
+      "ko": "서둘러!\n아쿠아맨의 뒤를 쫓자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/175/literal/0",
+      "ja": "しゅう子さんを さがさなきゃな\nだれか じょうほうを\nもっている人はいないかな・・・?",
+      "ko": "슈코 씨를 찾아야겠어\n누군가 정보를\n가진 사람은 없을까...?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/176/literal/0",
+      "ja": "ロックマン、しゅう子さんの\nところに行くぞ!\nインターネットはあとだ!",
+      "ko": "록맨、슈코 씨\n한테 가자!\n인터넷은 나중이야!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/177/literal/0",
+      "ja": "ロックマン、\nアクアマンのところに行くぞ!",
+      "ko": "록맨、\n아쿠아맨한테 가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/178/literal/0",
+      "ja": "インターネットも\nふっきゅうしたし、\nデンサンドームに むかうか!",
+      "ko": "인터넷도\n복구됐으니、\n덴산 돔으로 갈까!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/181/literal/0",
+      "ja": "ユウコちゃんが\nドームのそとで まってるぜ!\nインターネットは あとにするぞ!",
+      "ko": "유코가\n돔 밖에서 기다리고 있어!\n인터넷은 나중에 하자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/182/literal/0",
+      "ja": "オレに おきゃくさんって\nいってたな・・・\nウチにかえったほうがいいか",
+      "ko": "나한테 손님이라고\n했었지...\n집에 가 보는 게 좋겠어",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/183/literal/0",
+      "ja": "あくりょうナビは たいじしたな!\nロックマン、いつでも\nプラグアウトしていいぜ!",
+      "ko": "악령 내비는 퇴치했어!\n록맨、언제든지\n플러그아웃해도 돼!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/184/literal/0",
+      "ja": "ロックマン、\nあくりょうナビを\nじょうぶつさせるぞ!",
+      "ko": "록맨、\n악령 내비를\n성불시키자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/185/literal/0",
+      "ja": "ユウコちゃんとの\nしあいだぜ!\nドームへ いそぐぞ!",
+      "ko": "유코와의\n시합이다!\n돔으로 서두르자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/196/literal/0",
+      "ja": "ガンテツさんに さっきの\nおれいを いいに行ったほうが\nいいよな・・・",
+      "ko": "간테츠 씨한테 아까\n고맙다고 하러 가는 게\n좋겠지...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/197/literal/0",
+      "ja": "ロックマン、\nタウンエリア3にむかうぞ!\nガンテツさんの すけだちだ!",
+      "ko": "록맨、\n타운 에리어3으로 가자!\n간테츠 씨를 거들러!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/198/literal/0",
+      "ja": "タウンエリア3に もどるぞ!\nガンテツさんの ナビが\nあぶない!!",
+      "ko": "타운 에리어3으로 돌아가자!\n간테츠 씨의 내비가\n위험해!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/199/literal/0",
+      "ja": "タウンエリア3にもどるぞ!\nあいつらを こらしめなきゃな!",
+      "ko": "타운 에리어3으로 돌아가자!\n그 녀석들을 혼내 줘야지!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/20/literal/0",
+      "ja": "ロックマン!\nくろいナビを おうぞ!!",
+      "ko": "록맨!\n검은 내비를 쫓자!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/200/literal/0",
+      "ja": "ドームにむかうぞ!\nオトコとオトコのしょうぶが\nまってるぜ!!",
+      "ko": "돔으로 가자!\n남자 대 남자의 승부가\n기다리고 있어!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/21/literal/0",
+      "ja": "こうなったら、でんぱとうに\nちょくせつプラグインだ!\n行くぞ!!",
+      "ko": "이렇게 된 이상、전파탑에\n직접 플러그인이다!\n가자!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/210/literal/0",
+      "ja": "日暮さんが大会を じたいなんて\nきになるな・・・\nヒグレヤに行ってみるか!",
+      "ko": "히구레 씨가 대회를 사퇴하다니\n신경 쓰이네...\n히구레야에 가 볼까!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/211/literal/0",
+      "ja": "ヒグレヤのチラシを、\n10まい いじょうくばるんだ!\nがんばろうぜ、ロックマン!",
+      "ko": "히구레야 전단지를、\n10장 이상 돌리는 거다!\n힘내자、록맨!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/212/literal/0",
+      "ja": "ヒグレヤの そうこは\nタウンエリアだったな!\nいそぐぜ、ロックマン!",
+      "ko": "히구레야의 창고는\n타운 에리어였지!\n서두르자、록맨!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/213/literal/0",
+      "ja": "そうこのカギを手にいれて、\nナンバーマンを たすけないと!",
+      "ko": "창고 열쇠를 손에 넣어서、\n넘버맨을 구해야 해!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/214/literal/0",
+      "ja": "ヒグレヤは\nどうなったかな・・・\n行ってみるか!",
+      "ko": "히구레야는\n어떻게 됐을까...\n가 볼까!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/215/literal/0",
+      "ja": "いよいよ 日暮さんとバトルだぜ!\nロックマン、\nドームに 行くぜ!!",
+      "ko": "드디어 히구레 씨와 배틀이다!\n록맨、\n돔으로 가자!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/216/literal/0",
+      "ja": "タウンエリアに いそげ!\nナンバーマンを たすけるんだ!",
+      "ko": "타운 에리어로 서둘러!\n넘버맨을 구하는 거야!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/218/literal/0",
+      "ja": "まだチラシは のこってるけど、\nいわれてたぶんは くばったな\nヒグレヤに もどるか?",
+      "ko": "아직 전단지는 남았지만、\n부탁받은 만큼은 돌렸네\n히구레야로 돌아갈까?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/219/literal/0",
+      "ja": "よし、もらったチラシ、\nぜんぶ くばったな!\nヒグレヤに もどるぜ!",
+      "ko": "좋아、받은 전단지、\n전부 돌렸다!\n히구레야로 돌아가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/22/literal/0",
+      "ja": "ロックマン、プラグアウトして\nちょうおんぱを ふせぐ\nなにかを さがすぞ!",
+      "ko": "록맨、플러그아웃해서\n초음파를 막을\n뭔가를 찾자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/23/literal/0",
+      "ja": "電気街にもどろう!",
+      "ko": "전기가로 돌아가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/24/literal/0",
+      "ja": "ロールが あぶない!\nでんぱとうの電脳にもどるぞ!",
+      "ko": "롤이 위험해!\n전파탑 전뇌로 돌아가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/25/literal/0",
+      "ja": "シェードマンが おとした\nこのチップ・・・なんだろう?\n日暮さんなら わかるかな?",
+      "ko": "셰이드맨이 떨어뜨린\n이 칩...뭘까?\n히구레 씨라면 알까?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/26/literal/0",
+      "ja": "ロックマン、\nそろそろ プラグアウトしようぜ\nオレちょっと つかれちゃったよ",
+      "ko": "록맨、\n슬슬 플러그아웃하자\n나 좀 지쳤어",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/30/literal/0",
+      "ja": "ロックマン、インターネットは\nそこそこにして、\n電気街の ひろばに行くぞ",
+      "ko": "록맨、인터넷은\n적당히 하고、\n전기가 광장에 가자",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/31/literal/0",
+      "ja": "タウンエリア3にいる\nはいいろのナビが エントリー\nしてくれるんだったよな?",
+      "ko": "타운 에리어3에 있는\n회색 내비가 엔트리\n해 주는 거였지?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/32/literal/0",
+      "ja": "ネームエントリーもおわったし、\n電気街の ひろばにもどるぜ!",
+      "ko": "네임 엔트리도 끝났으니、\n전기가 광장으로 돌아가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/33/literal/0",
+      "ja": "3人のいらいもクリアしたから\nプラグアウトして\n電気街のひろばに行こうぜ!",
+      "ko": "3명의 의뢰도 클리어했으니\n플러그아웃해서\n전기가 광장에 가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/35/literal/0",
+      "ja": "デンサンドームに行こうぜ!\nほんせんに おくれるワケには\nいかないしな!",
+      "ko": "덴산 돔에 가자!\n본선에 늦을 수는\n없으니까!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/36/literal/0",
+      "ja": "よせんなんて、\nサクっとクリアしてやるぜ!\nめざすは ほんせん!",
+      "ko": "예선 따위、\n후딱 클리어해 주겠어!\n목표는 본선!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/5/literal/0",
+      "ja": "たしか、「",
+      "ko": "분명、「",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/5/literal/1",
+      "ja": "」は\n秋原エリア3で\nうってるんだったな",
+      "ko": "」\n아키하라 에리어3에서\n팔고 있었지",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/6/literal/0",
+      "ja": "よし ロックマン、\n「",
+      "ko": "좋아 록맨、\n「",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/6/literal/1",
+      "ja": "」を\nパパにわたしに行くぞ!",
+      "ko": "」\n아빠한테 건네주러 가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/7/literal/0",
+      "ja": "インターネットは\nかえってきてからにしよう\nさ、そとにでようぜ",
+      "ko": "인터넷은\n돌아와서 하자\n자、밖으로 나가자",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/8/literal/0",
+      "ja": "そろそろ まちあわせばしょに\n行ってみようぜ\nパパを またせちゃいけないし!",
+      "ko": "슬슬 약속 장소에\n가 보자\n아빠를 기다리게 할 순 없지!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/095/script/9/literal/1",
+      "ja": "」は\nこのエリアで うってるんだよな\nささっと かっちゃおうぜ!",
+      "ko": "」\n이 에리어에서 팔고 있지\n후딱 사 버리자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "89933a904d8f4c41377156e1d17d6558b1d50a9153e08097dfc2970cb9f71bed"
+        },
+        "red_sun": {
+          "payload_sha256": "247ba4ca0fdcc974d6df4e47ac2f0161223fea02ed4eb480614b13d46aa495d7",
+          "tpl_sha256": "014e67b38e8868f1025c10ea0ce446a3d6f82d668978ae01ae270bdb0f5dd32b"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/131/literal/0",
+      "ja": "はんにんのだした ヒントを\nてがかりに チサオをさがすぞ!",
+      "ko": "범인이 낸 힌트를\n단서로 치사오를 찾자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/132/literal/0",
+      "ja": "電気街の ひろばにむかうぞ!!",
+      "ko": "전기가 광장으로 가자!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/133/literal/0",
+      "ja": "デカオとのたいけつだぜ!\nじゅんびが できたら、\nかいじょうに もどるぞ!",
+      "ko": "데카오와의 대결이다!\n준비가 되면、\n시합장으로 돌아가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/134/literal/0",
+      "ja": "すうじデータをもってる\nナビは どこだ!?\nさがすぞ! ロックマン",
+      "ko": "숫자 데이터를 가진\n내비는 어디지!?\n찾자! 록맨",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/140/literal/0",
+      "ja": "ロックマン、インターネットは\nあとにして、タコヤキ屋に行こうぜ",
+      "ko": "록맨、인터넷은\n나중에、타코야키집에 가자",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/141/literal/0",
+      "ja": "ロックマン、\nビシっと タコヤキきを\nしゅうりしようぜ!",
+      "ko": "록맨、\n깔끔하게 타코야키 기계를\n수리하자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/142/literal/0",
+      "ja": "ヒノケン、どこ行っちゃったんだ?\nもしかしたら、インタ-ネットに\nファイアマンが いるかもな・・・",
+      "ko": "히노켄、어디 가 버린 거야?\n어쩌면、인터넷에\n파이어맨이 있을지도...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/143/literal/0",
+      "ja": "オレたちも タコヤキ屋に\nもどろう",
+      "ko": "우리도 타코야키집으로\n돌아가자",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/144/literal/0",
+      "ja": "ロックマン、じゅんびが\nととのったら すぐにドームに\nむかおう!",
+      "ko": "록맨、준비가\n되면 바로 돔으로\n가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/150/literal/0",
+      "ja": "はやく PETのメンテナンスに\n行こうぜ もたもたしてたら\nおわっちゃうぜ?",
+      "ko": "빨리 PET 메인터넌스\n받으러 가자 꾸물대다간\n끝나 버린다고?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/151/literal/0",
+      "ja": "くそっ、フォルダを\nかいぞうされるなんて・・・\nどこかで なおしてもらわないとな",
+      "ko": "젠장、폴더를\n개조당하다니...\n어디선가 고쳐 받아야겠어",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/152/literal/0",
+      "ja": "ヒントは 「",
+      "ko": "힌트는 「",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/152/literal/1",
+      "ja": "」 だ\nいそいで パスワードを\nかいどくするぞ!",
+      "ko": "」\n서둘러 패스워드를\n해독하자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/153/literal/0",
+      "ja": "フォルダも もどったし、\nあとは おもいっきり\nバトルするだけだぜ!!",
+      "ko": "폴더도 되돌아왔으니、\n이제 마음껏\n배틀하는 것뿐이야!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/161/literal/0",
+      "ja": "ロックマン、\nあの おじいさんに\nコマを とどけてあげようぜ",
+      "ko": "록맨、\n그 할아버지한테\n팽이를 갖다 드리자",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/162/literal/0",
+      "ja": "インターネットは あとにして、\n秋原町のこうえんに\n行ってみようぜ",
+      "ko": "인터넷은 나중에 하고、\n아키하라 마을 공원에\n가 보자",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/163/literal/0",
+      "ja": "しけんって ここでやるんだよな?\nあの おじいさんのためだ、\nがんばらないとな",
+      "ko": "시험은 여기서 하는 거지?\n그 할아버지를 위해서야、\n힘내야지",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/164/literal/0",
+      "ja": "ロックマン、オレたちも\n電気街のひろばに 行こうぜ!!",
+      "ko": "록맨、우리도\n전기가 광장에 가자!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/165/literal/0",
+      "ja": "ロックマン、じかんがないぞ\nじゅんびが できたら\nすぐに かいじょうにもどろう",
+      "ko": "록맨、시간이 없어\n준비가 되면\n바로 시합장으로 돌아가자",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/166/literal/0",
+      "ja": "会長のナビは 秋原エリアだな!\n行ってみようぜ!",
+      "ko": "회장 내비는 아키하라 에리어!\n가 보자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/172/literal/0",
+      "ja": "わっ! インターネットが\n水ぼつしてるじゃないか!\nロックマン、プラグアウトだ!",
+      "ko": "왓! 인터넷이\n물에 잠겨 있잖아!\n록맨、플러그아웃이다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/173/literal/0",
+      "ja": "ロックマン、\nアクアマンをさがすんだ!",
+      "ko": "록맨、\n아쿠아맨을 찾는 거야!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/174/literal/0",
+      "ja": "いそげっ!\nアクアマンの あとをおうぞ!",
+      "ko": "서둘러!\n아쿠아맨의 뒤를 쫓자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/175/literal/0",
+      "ja": "しゅう子さんを さがさなきゃな\nだれか じょうほうを\nもっている人はいないかな・・・?",
+      "ko": "슈코 씨를 찾아야겠어\n누군가 정보를\n가진 사람은 없을까...?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/176/literal/0",
+      "ja": "ロックマン、しゅう子さんの\nところに行くぞ!\nインターネットはあとだ!",
+      "ko": "록맨、슈코 씨\n한테 가자!\n인터넷은 나중이야!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/177/literal/0",
+      "ja": "ロックマン、\nアクアマンのところに行くぞ!",
+      "ko": "록맨、\n아쿠아맨한테 가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/178/literal/0",
+      "ja": "インターネットも\nふっきゅうしたし、\nデンサンドームに むかうか!",
+      "ko": "인터넷도\n복구됐으니、\n덴산 돔으로 갈까!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/181/literal/0",
+      "ja": "ユウコちゃんが\nドームのそとで まってるぜ!\nインターネットは あとにするぞ!",
+      "ko": "유코가\n돔 밖에서 기다리고 있어!\n인터넷은 나중에 하자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/182/literal/0",
+      "ja": "オレに おきゃくさんって\nいってたな・・・\nウチにかえったほうがいいか",
+      "ko": "나한테 손님이라고\n했었지...\n집에 가 보는 게 좋겠어",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/183/literal/0",
+      "ja": "あくりょうナビは たいじしたな!\nロックマン、いつでも\nプラグアウトしていいぜ!",
+      "ko": "악령 내비는 퇴치했어!\n록맨、언제든지\n플러그아웃해도 돼!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/184/literal/0",
+      "ja": "ロックマン、\nあくりょうナビを\nじょうぶつさせるぞ!",
+      "ko": "록맨、\n악령 내비를\n성불시키자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/185/literal/0",
+      "ja": "ユウコちゃんとの\nしあいだぜ!\nドームへ いそぐぞ!",
+      "ko": "유코와의\n시합이다!\n돔으로 서두르자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/196/literal/0",
+      "ja": "ガンテツさんに さっきの\nおれいを いいに行ったほうが\nいいよな・・・",
+      "ko": "간테츠 씨한테 아까\n고맙다고 하러 가는 게\n좋겠지...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/197/literal/0",
+      "ja": "ロックマン、\nタウンエリア3にむかうぞ!\nガンテツさんの すけだちだ!",
+      "ko": "록맨、\n타운 에리어3으로 가자!\n간테츠 씨를 거들러!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/198/literal/0",
+      "ja": "タウンエリア3に もどるぞ!\nガンテツさんの ナビが\nあぶない!!",
+      "ko": "타운 에리어3으로 돌아가자!\n간테츠 씨의 내비가\n위험해!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/199/literal/0",
+      "ja": "タウンエリア3にもどるぞ!\nあいつらを こらしめなきゃな!",
+      "ko": "타운 에리어3으로 돌아가자!\n그 녀석들을 혼내 줘야지!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/20/literal/0",
+      "ja": "ロックマン!\nくろいナビを おうぞ!!",
+      "ko": "록맨!\n검은 내비를 쫓자!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/200/literal/0",
+      "ja": "ドームにむかうぞ!\nオトコとオトコのしょうぶが\nまってるぜ!!",
+      "ko": "돔으로 가자!\n남자 대 남자의 승부가\n기다리고 있어!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/201/literal/0",
+      "ja": "けっとうのばしょは どこだ!?\nさがすんだ、ロックマン!",
+      "ko": "결투 장소는 어디야!?\n찾는 거야、록맨!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/202/literal/0",
+      "ja": "つきすすめ、ロックマン!\nわるいヤツらの おやだまを\nぶっとばすんだ!!",
+      "ko": "돌진해、록맨!\n나쁜 녀석들의 두목을\n날려 버리는 거야!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/203/literal/0",
+      "ja": "さらに えんぐんをよぶなんて、\nなんてひきょうな!\nまけるな、ロックマン!!",
+      "ko": "지원군까지 부르다니、\n이런 비겁한!\n지지 마、록맨!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/21/literal/0",
+      "ja": "こうなったら、でんぱとうに\nちょくせつプラグインだ!\n行くぞ!!",
+      "ko": "이렇게 된 이상、전파탑에\n직접 플러그인이다!\n가자!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/210/literal/0",
+      "ja": "日暮さんが大会を じたいなんて\nきになるな・・・\nヒグレヤに行ってみるか!",
+      "ko": "히구레 씨가 대회를 사퇴하다니\n신경 쓰이네...\n히구레야에 가 볼까!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/211/literal/0",
+      "ja": "ヒグレヤのチラシを、\n10まい いじょうくばるんだ!\nがんばろうぜ、ロックマン!",
+      "ko": "히구레야 전단지를、\n10장 이상 돌리는 거다!\n힘내자、록맨!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/212/literal/0",
+      "ja": "ヒグレヤの そうこは\nこのタウンエリア1だ!\nいそぐぜ、ロックマン!",
+      "ko": "히구레야의 창고는\n이 타운 에리어1이야!\n서두르자、록맨!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/213/literal/0",
+      "ja": "そうこのカギを手にいれて、\nナンバーマンを たすけないと!",
+      "ko": "창고 열쇠를 손에 넣어서、\n넘버맨을 구해야 해!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/214/literal/0",
+      "ja": "ヒグレヤは\nどうなったかな・・・\n行ってみるか!",
+      "ko": "히구레야는\n어떻게 됐을까...\n가 볼까!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/215/literal/0",
+      "ja": "いよいよ 日暮さんとバトルだぜ!\nロックマン、\nドームに 行くぜ!!",
+      "ko": "드디어 히구레 씨와 배틀이다!\n록맨、\n돔으로 가자!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/216/literal/0",
+      "ja": "いそげ、ロックマン!\nナンバーマンを たすけるんだ!",
+      "ko": "서둘러、록맨!\n넘버맨을 구하는 거야!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/218/literal/0",
+      "ja": "まだチラシは のこってるけど、\nいわれてたぶんは くばったな\nヒグレヤに もどるか?",
+      "ko": "아직 전단지는 남았지만、\n부탁받은 만큼은 돌렸네\n히구레야로 돌아갈까?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/219/literal/0",
+      "ja": "よし、もらったチラシ、\nぜんぶ くばったな!\nヒグレヤに もどるぜ!",
+      "ko": "좋아、받은 전단지、\n전부 돌렸다!\n히구레야로 돌아가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/22/literal/0",
+      "ja": "ロックマン、プラグアウトして\nちょうおんぱを ふせぐ\nなにかを さがすぞ!",
+      "ko": "록맨、플러그아웃해서\n초음파를 막을\n뭔가를 찾자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/23/literal/0",
+      "ja": "電気街にもどろう!",
+      "ko": "전기가로 돌아가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/24/literal/0",
+      "ja": "ロールが あぶない!\nでんぱとうの電脳にもどるぞ!",
+      "ko": "롤이 위험해!\n전파탑 전뇌로 돌아가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/25/literal/0",
+      "ja": "シェードマンが おとした\nこのチップ・・・なんだろう?\n日暮さんなら わかるかな?",
+      "ko": "셰이드맨이 떨어뜨린\n이 칩...뭘까?\n히구레 씨라면 알까?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/26/literal/0",
+      "ja": "ロックマン、\nそろそろ プラグアウトしようぜ\nオレちょっと つかれちゃったよ",
+      "ko": "록맨、\n슬슬 플러그아웃하자\n나 좀 지쳤어",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/30/literal/0",
+      "ja": "ロックマン、インターネットは\nそこそこにして、\n電気街の ひろばに行くぞ",
+      "ko": "록맨、인터넷은\n적당히 하고、\n전기가 광장에 가자",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/31/literal/0",
+      "ja": "タウンエリア3にいる\nはいいろのナビが エントリー\nしてくれるんだったよな?",
+      "ko": "타운 에리어3에 있는\n회색 내비가 엔트리\n해 주는 거였지?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/32/literal/0",
+      "ja": "ネームエントリーもおわったし、\n電気街の ひろばにもどるぜ!",
+      "ko": "네임 엔트리도 끝났으니、\n전기가 광장으로 돌아가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/33/literal/0",
+      "ja": "3人のいらいもクリアしたから\nプラグアウトして\n電気街のひろばに行こうぜ!",
+      "ko": "3명의 의뢰도 클리어했으니\n플러그아웃해서\n전기가 광장에 가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/34/literal/0",
+      "ja": "ネームエントリーは、\nこのエリアだったよな!",
+      "ko": "네임 엔트리는、\n이 에리어였지!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/35/literal/0",
+      "ja": "デンサンドームに行こうぜ!\nほんせんに おくれるワケには\nいかないしな!",
+      "ko": "덴산 돔에 가자!\n본선에 늦을 수는\n없으니까!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    },
+    {
+      "id": "archive/098/script/36/literal/0",
+      "ja": "よせんなんて、\nサクっとクリアしてやるぜ!\nめざすは ほんせん!",
+      "ko": "예선 따위、\n후딱 클리어해 주겠어!\n목표는 본선!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "d53e7a2100383a7f65f6a44fb81c2a3483f83856ebd22a79e57572f79d5af613"
+        },
+        "red_sun": {
+          "payload_sha256": "453e2737dff8ccc609054507de888144b10da3091a45d9fa902df3f5ff8650b3",
+          "tpl_sha256": "e5b76d4f28b5a4960496bbdcc3ff54853ea65d4659b968a3147ef68fe957c46a"
+        }
+      }
+    }
+  ]
+}

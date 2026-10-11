@@ -1,0 +1,77 @@
+{
+ "schema": 1,
+ "scope": "battle Custom Screen message panels (7x6 raw tiles, the size of a chip image): ADD (chip data transmission), NO DATA SELECTED, SHUFFLE; the English title stays, the Japanese lines are redrawn",
+ "font_sha256": "4159d916b4b4f5173ae8e0d1d5ddfc8ae3ac6ec04d285b26a786231563495e01",
+ "ink": 3,
+ "edge": 2,
+ "background": 1,
+ "left_margin": 2,
+ "evidence": "red save in the Akihara net area, battle Custom Screen with the cursor on OK (analysis/runtime/bp_bat_snap): screenblock 31 / char base 0x06008000 tiles 172..213 equal ROM 0x0873AA38; the two neighbour panels sit 1,344 bytes before and 2,688 bytes after",
+ "panels": [
+  {
+   "name": "ADD",
+   "source": "チップデータを/送信します",
+   "lines": [
+    "칩데이터를",
+    "송신합니다"
+   ],
+   "erase_rows": [
+    26,
+    46
+   ],
+   "first_line_top": 27,
+   "line_pitch": 10,
+   "sha256": "870c6dacba013c07b2df72fd2dce4d92cbaabc126a5b7165872ddb969357f6b3",
+   "offsets": {
+    "red_sun": 7578872,
+    "blue_moon": 7577652
+   }
+  },
+  {
+   "name": "NO DATA SELECTED",
+   "source": "チップが/えらばれて/いません",
+   "lines": [
+    "선택된 칩",
+    "없음"
+   ],
+   "erase_rows": [
+    19,
+    47
+   ],
+   "first_line_top": 22,
+   "line_pitch": 12,
+   "sha256": "ae401ff69393c191ce22db3dea4660b74a3d4109fa630a5761be6344369e113d",
+   "offsets": {
+    "red_sun": 7580216,
+    "blue_moon": 7578996
+   }
+  },
+  {
+   "name": "SHUFFLE",
+   "source": "チップフォルダを/シャッフル!",
+   "lines": [
+    "칩 폴더를",
+    "셔플!"
+   ],
+   "erase_rows": [
+    20,
+    42
+   ],
+   "first_line_top": 21,
+   "line_pitch": 10,
+   "sha256": "61c6fcf6e6595bf41c51bf12e2c704c59d5926def1b6c1313186eca886965822",
+   "offsets": {
+    "red_sun": 7582904,
+    "blue_moon": 7581684
+   }
+  }
+ ],
+ "profiles": {
+  "blue_moon": {
+   "source_sha256": "f976a84ef226e47d4a65695052da09b415867b01586dd74bbb1c289a6f607b63"
+  },
+  "red_sun": {
+   "source_sha256": "1904692bc383fc2cb7e1d81e1c80bf2d8c616c0d1b1d396c689f71b49a2e3188"
+  }
+ }
+}

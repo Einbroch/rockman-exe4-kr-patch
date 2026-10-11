@@ -1,0 +1,136 @@
+{
+  "schema": 1,
+  "batch": "003",
+  "state": "needs_review",
+  "scope": "Archive 443, the morning scene in Netto's room that follows the opening. Identical in both revisions, and it is the first field dialogue the established cold route walks through, so it can be checked on screen.",
+  "provenance": "Claude translator-authored Japanese to Korean, 2026-09-20; no independent review yet",
+  "authored": "translations/story_authored/batch_003.json",
+  "authored_sha256": "a13cb825057051b5eeed4a9647951c298227465b4ccaece6ffe9134b9447fdaa",
+  "sheet_sha256": "29c4410ed42d3cbcf800e9552e1e81bcdd02298b1198be0653230a7349587470",
+  "archives": [
+    443
+  ],
+  "deferred": [],
+  "entries": [
+    {
+      "id": "archive/443/script/0/literal/0",
+      "ja": "熱斗くん、あさだよ!",
+      "ko": "넷토야、아침이야!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "3b5ec5ab0be85797040f07f290b5ee21e33832c05187316bac4b4cb24d4e1954",
+          "tpl_sha256": "aa7ee3688957d1e3adf0d95ea9455d0e9be888bbf09aba50b4a1ad20e54ad9d0"
+        },
+        "red_sun": {
+          "payload_sha256": "3b5ec5ab0be85797040f07f290b5ee21e33832c05187316bac4b4cb24d4e1954",
+          "tpl_sha256": "6eca4945b8fc7f3d35e17e6433a68f6d0d13232299854039f80f07663873ec27"
+        }
+      }
+    },
+    {
+      "id": "archive/443/script/1/literal/0",
+      "ja": "・・・",
+      "ko": "...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "3b5ec5ab0be85797040f07f290b5ee21e33832c05187316bac4b4cb24d4e1954",
+          "tpl_sha256": "aa7ee3688957d1e3adf0d95ea9455d0e9be888bbf09aba50b4a1ad20e54ad9d0"
+        },
+        "red_sun": {
+          "payload_sha256": "3b5ec5ab0be85797040f07f290b5ee21e33832c05187316bac4b4cb24d4e1954",
+          "tpl_sha256": "6eca4945b8fc7f3d35e17e6433a68f6d0d13232299854039f80f07663873ec27"
+        }
+      }
+    },
+    {
+      "id": "archive/443/script/2/literal/0",
+      "ja": "今日は、パパと かいものに行く\nやくそくでしょ!",
+      "ko": "오늘은 아빠랑 장 보러\n가기로 약속했잖아!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "3b5ec5ab0be85797040f07f290b5ee21e33832c05187316bac4b4cb24d4e1954",
+          "tpl_sha256": "aa7ee3688957d1e3adf0d95ea9455d0e9be888bbf09aba50b4a1ad20e54ad9d0"
+        },
+        "red_sun": {
+          "payload_sha256": "3b5ec5ab0be85797040f07f290b5ee21e33832c05187316bac4b4cb24d4e1954",
+          "tpl_sha256": "6eca4945b8fc7f3d35e17e6433a68f6d0d13232299854039f80f07663873ec27"
+        }
+      }
+    },
+    {
+      "id": "archive/443/script/3/literal/0",
+      "ja": "・・・うーん",
+      "ko": "...으응",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "3b5ec5ab0be85797040f07f290b5ee21e33832c05187316bac4b4cb24d4e1954",
+          "tpl_sha256": "aa7ee3688957d1e3adf0d95ea9455d0e9be888bbf09aba50b4a1ad20e54ad9d0"
+        },
+        "red_sun": {
+          "payload_sha256": "3b5ec5ab0be85797040f07f290b5ee21e33832c05187316bac4b4cb24d4e1954",
+          "tpl_sha256": "6eca4945b8fc7f3d35e17e6433a68f6d0d13232299854039f80f07663873ec27"
+        }
+      }
+    },
+    {
+      "id": "archive/443/script/4/literal/0",
+      "ja": "ふぁーあ・・・",
+      "ko": "하아암...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "3b5ec5ab0be85797040f07f290b5ee21e33832c05187316bac4b4cb24d4e1954",
+          "tpl_sha256": "aa7ee3688957d1e3adf0d95ea9455d0e9be888bbf09aba50b4a1ad20e54ad9d0"
+        },
+        "red_sun": {
+          "payload_sha256": "3b5ec5ab0be85797040f07f290b5ee21e33832c05187316bac4b4cb24d4e1954",
+          "tpl_sha256": "6eca4945b8fc7f3d35e17e6433a68f6d0d13232299854039f80f07663873ec27"
+        }
+      }
+    },
+    {
+      "id": "archive/443/script/5/literal/0",
+      "ja": "さ、はやく じゅんびして\nしたに おりようよ!",
+      "ko": "자、얼른 준비하고\n아래로 내려오렴!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "3b5ec5ab0be85797040f07f290b5ee21e33832c05187316bac4b4cb24d4e1954",
+          "tpl_sha256": "aa7ee3688957d1e3adf0d95ea9455d0e9be888bbf09aba50b4a1ad20e54ad9d0"
+        },
+        "red_sun": {
+          "payload_sha256": "3b5ec5ab0be85797040f07f290b5ee21e33832c05187316bac4b4cb24d4e1954",
+          "tpl_sha256": "6eca4945b8fc7f3d35e17e6433a68f6d0d13232299854039f80f07663873ec27"
+        }
+      }
+    },
+    {
+      "id": "archive/443/script/6/literal/0",
+      "ja": "うぅーん・・・\nあぁ~、よくねた!",
+      "ko": "으으응...\n아아~、잘 잤다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "3b5ec5ab0be85797040f07f290b5ee21e33832c05187316bac4b4cb24d4e1954",
+          "tpl_sha256": "aa7ee3688957d1e3adf0d95ea9455d0e9be888bbf09aba50b4a1ad20e54ad9d0"
+        },
+        "red_sun": {
+          "payload_sha256": "3b5ec5ab0be85797040f07f290b5ee21e33832c05187316bac4b4cb24d4e1954",
+          "tpl_sha256": "6eca4945b8fc7f3d35e17e6433a68f6d0d13232299854039f80f07663873ec27"
+        }
+      }
+    },
+    {
+      "id": "archive/443/script/7/literal/0",
+      "ja": "あ、そうだ、メールもきてるから\nあとで チェックしといてね!",
+      "ko": "아、맞다、메일도 와 있으니까\n나중에 체크해 두렴!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "3b5ec5ab0be85797040f07f290b5ee21e33832c05187316bac4b4cb24d4e1954",
+          "tpl_sha256": "aa7ee3688957d1e3adf0d95ea9455d0e9be888bbf09aba50b4a1ad20e54ad9d0"
+        },
+        "red_sun": {
+          "payload_sha256": "3b5ec5ab0be85797040f07f290b5ee21e33832c05187316bac4b4cb24d4e1954",
+          "tpl_sha256": "6eca4945b8fc7f3d35e17e6433a68f6d0d13232299854039f80f07663873ec27"
+        }
+      }
+    }
+  ]
+}

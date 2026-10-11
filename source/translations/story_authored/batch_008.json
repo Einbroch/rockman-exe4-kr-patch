@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "batch": "008",
+  "state": "needs_review",
+  "scope": "Archive 064, the mystery-data result messages. 132 records over 22 distinct lines, so the wording is authored by source line. Identical in both revisions.",
+  "provenance": "Claude translator-authored Japanese to Korean, 2026-09-20; no independent review yet",
+  "archives": [64],
+  "terms": {
+    "ミステリーデータ": "미스터리 데이터",
+    "サブチップ": "서브 칩",
+    "バトルチップ": "배틀칩",
+    "ナビカスプログラム": "내비커스 프로그램",
+    "レギュラーメモリ": "레귤러 메모리",
+    "バグのかけら": "버그 조각",
+    "ゼニー": "제니"
+  },
+  "tone": "Flat narration of a result, 해라체.",
+  "notes": "Every pickup line here has an item name inserted before the closing bracket, so the Korean cannot choose a subject particle: 「X」획득!! and 「X」의 효력이 발휘됐다!! avoid it. The lone middle dot is a pause marker and becomes a full stop, because the katakana middle dot is in the range the gate treats as untranslated Japanese.",
+  "by_source": {
+    "・": ".",
+    "ロックマンは、\nミステリーデータを\nしらべた・": "록맨은、\n미스터리 데이터를\n조사했다.",
+    "」\nを ゲットした!!": "」\n획득!!",
+    "サブチップ\n「": "서브 칩\n「",
+    "」\nが こうりょくを はっきした!!": "」\n의 효력이 발휘됐다!!",
+    "ロックマンは、きょうかプログラム\n「": "록맨은、강화 프로그램\n「",
+    "ロックマンは、\n「": "록맨은、\n「",
+    "サブチップを もてるかずが\nふえた!!": "서브 칩을 가질 수 있는\n수가 늘었다!!",
+    "ロックマンは、サブチップ\n「": "록맨은、서브 칩\n「",
+    "ロックマンは、バトルチップ\n「": "록맨은、배틀칩\n「",
+    "ゼニー」\nを ゲットした!!": "제니」\n획득!!",
+    "ロックマンは、\n「バグのかけら」\nを ": "록맨은、\n「버그 조각」\n을 ",
+    "コゲットした!!": "개 획득!!",
+    "ミステリーデータに\nひそむ ウイルスデータが\nデリートされた!": "미스터리 데이터에\n숨어 있던 바이러스 데이터가\n삭제됐다!",
+    "なんと、ミステリーデータは\nウイルスだった!!": "이럴 수가、미스터리 데이터는\n바이러스였다!!",
+    "ロックマンは、ナビカスプログラム\n「": "록맨은、내비커스 프로그램\n「",
+    "レギュラーメモリの\nようりょうが、\n": "레귤러 메모리의\n용량이、\n",
+    "メガ ふえた!!": "메가 늘었다!!",
+    "」は\nいっぱいで もうもてない": "」\n가득 차서 더는 못 가진다",
+    "「バグのかけら」は\nいっぱいで もうもてない": "「버그 조각」은\n가득 차서 더는 못 가진다",
+    "カギがかかっている!\nあけるには、「": "열쇠가 잠겨 있다!\n열려면、「",
+    "」が\nひつようだ": "」\n필요하다"
+  }
+}

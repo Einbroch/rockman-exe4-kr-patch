@@ -1,0 +1,64 @@
+{
+ "schema": 1,
+ "scope": "ROCKMAN status folder-tab captions in the shared PET UI tile set",
+ "font_sha256": "26321b2d780b859bfee7ca6cc561b50268efed139a852b470a589c0ba9901b24",
+ "erase_colours": [
+  9,
+  4,
+  3
+ ],
+ "fill_colour": 5,
+ "ink_colour": 9,
+ "shadow_colour": 4,
+ "left": 1,
+ "top": 1,
+ "evidence": "user save ROCKMAN screen snapshot (analysis/runtime/user_save_rockman_snap_01): screenblock 30 row 2 holds 263 + caption tiles + 66 + 270 on palette 0; the tile bytes occur once in each ROM",
+ "tabs": [
+  {
+   "tiles": [
+    264,
+    265,
+    266,
+    267,
+    268,
+    269
+   ],
+   "source": "ロックバスター",
+   "text": "록버스터",
+   "tiles_sha256": "81fb10cfdd2b25c211110f12d8dfa9d005bf60f8b561c833f0dd28ab734dede3"
+  },
+  {
+   "tiles": [
+    271,
+    272,
+    273,
+    274
+   ],
+   "source": "フォルダ",
+   "text": "폴더",
+   "tiles_sha256": "c4167fb7e7991793afb9a11f8db13a0dd38e0e8821df0dd209caedaf5ecbf2d8"
+  },
+  {
+   "tiles": [
+    275,
+    276,
+    277,
+    278
+   ],
+   "source": "プログラム",
+   "text": "프로그램",
+   "tiles_sha256": "97dbfeace65abc3b61d8dad6cb16c636e56184eccdd8da743ccea01c3ae33306",
+   "left": 0
+  }
+ ],
+ "profiles": {
+  "blue_moon": {
+   "source_sha256": "f976a84ef226e47d4a65695052da09b415867b01586dd74bbb1c289a6f607b63",
+   "tile0": 7186824
+  },
+  "red_sun": {
+   "source_sha256": "1904692bc383fc2cb7e1d81e1c80bf2d8c616c0d1b1d396c689f71b49a2e3188",
+   "tile0": 7188044
+  }
+ }
+}

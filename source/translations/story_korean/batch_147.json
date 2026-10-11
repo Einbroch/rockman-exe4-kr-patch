@@ -1,0 +1,1033 @@
+{
+  "schema": 1,
+  "batch": "147",
+  "state": "authored",
+  "scope": "archives 549, 550, 551, 552 and 53: the world’s cheer for Rockman during the asteroid crisis, and the Soul Unison tutorial, with their Red Sun wordings",
+  "provenance": "Claude, 2026-09-28; wording decided against translations/story_source.jsonl and the terminology adopted in earlier batches, with 1 lines seeded from decisions those batches already made",
+  "authored": "translations/story_authored/batch_147.json",
+  "authored_sha256": "08c1704b7fac2cb67a0746d40c99c5a0b7a7d9bac41ff8947a33d686bd190d65",
+  "sheet_sha256": "29c4410ed42d3cbcf800e9552e1e81bcdd02298b1198be0653230a7349587470",
+  "archives": [
+    53,
+    549,
+    550,
+    551,
+    552
+  ],
+  "deferred": [],
+  "entries": [
+    {
+      "id": "archive/053/script/0/literal/0",
+      "ja": "まず、ソウルユニゾンするためには\nソウルにおうじた チップを1まい\nいけにえに しなければならない",
+      "ko": "먼저、소울 유니즌을 하려면\n소울에 맞는 칩을 1장\n제물로 바쳐야 한다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/053/script/1/literal/0",
+      "ja": "いけにえ?\nじゃぁ、すてちゃうってコト?",
+      "ko": "제물?\n그럼、버린다는 거야?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/053/script/10/literal/0",
+      "ja": "ほら、こんなふうに\nゆうごうすることで、\nユニゾンチップが かんせいする",
+      "ko": "봐라、이런 식으로\n융합함으로써、\n유니즌 칩이 완성된다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/053/script/10/literal/1",
+      "ja": "これでOKを えらべば\nじどうてきに ソウルユニゾンが\nはつどうする!",
+      "ko": "이걸로 OK를 고르면\n자동으로 소울 유니즌이\n발동한다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/053/script/10/literal/2",
+      "ja": "アクアソウルは水属性のチップを\nためうちしてつかうことで\n攻撃力が2ばいになる!",
+      "ko": "아쿠아 소울은 물 속성 칩을\n모아치기로 쓰면\n공격력이 2배가 된다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      },
+      "ja_red_sun": "ガッツソウル中は\n無属性とちけいはかいけいの\nチップの攻撃力が+30されるぞ",
+      "ko_red_sun": "거츠 소울 중에는\n무속성과 지형 파괴 계열\n칩의 공격력이 +30된다"
+    },
+    {
+      "id": "archive/053/script/10/literal/3",
+      "ja": "さらにBボタンのためうちが\nアクアショットになるぞ!",
+      "ko": "게다가 B 버튼 모아치기가\n아쿠아 샷이 된다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      },
+      "ja_red_sun": "さらにBボタンのためうちが\nガッツパンチになるうえ",
+      "ko_red_sun": "게다가 B 버튼 모아치기가\n거츠펀치가 되는 데다"
+    },
+    {
+      "id": "archive/053/script/10/literal/4",
+      "ja": "では じっさいにやってみろ\n熱斗!",
+      "ko": "그럼 실제로 해 봐라\n넷토!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      },
+      "ja_red_sun": "Bボタンれんだで\nむてきじょうたいで はなつ\nガッツマシンガンがだせる!",
+      "ko_red_sun": "B 버튼 연타로\n무적 상태에서 쏘는\n거츠 머신건을 쓸 수 있다!"
+    },
+    {
+      "id": "archive/053/script/10/literal/5",
+      "ja": "じっさいに つかってみろ",
+      "ko": "실제로 써 봐라",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/053/script/11/literal/0",
+      "ja": "これが ソウルユニゾンだ\nうまくつかえば かなりの\nせんりょくUPになる",
+      "ko": "이것이 소울 유니즌이다\n잘 쓰면 상당한\n전력 UP이 된다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/053/script/11/literal/1",
+      "ja": "ただし むせいげんにいくらでも\nユニゾンできるわけじゃない\nいくつか せいげんがあるんだ",
+      "ko": "단 무제한으로 얼마든지\n유니즌할 수 있는 건 아니다\n몇 가지 제한이 있다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/053/script/11/literal/2",
+      "ja": "まず ひとつめ\nレギュラーチップをいけにえに\nすることはできない",
+      "ko": "우선 첫째\n레귤러 칩을 제물로\n바칠 수는 없다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/053/script/11/literal/3",
+      "ja": "ふたつめ\nそのバトル中に おなじソウルには\nいちどしかユニゾンできない",
+      "ko": "둘째\n그 배틀 중에 같은 소울로는\n한 번밖에 유니즌할 수 없다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/053/script/11/literal/4",
+      "ja": "みっつめ\nソウルユニゾンしていられるのは\n3ターンのあいだ だけ",
+      "ko": "셋째\n소울 유니즌은\n3턴 동안만 유지된다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/053/script/11/literal/5",
+      "ja": "これらの せいげんをふまえた上で\nよくかんがえて つかいわけろ!",
+      "ko": "이 제한들을 염두에 두고\n잘 생각해서 가려 써라!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/053/script/12/literal/0",
+      "ja": "今は キャンセルしなくていいぞ",
+      "ko": "지금은 취소하지 않아도 된다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/053/script/2/literal/0",
+      "ja": "そうだ、今ロックマンが\nユニゾンできるソウルは\nアクアソウルだな",
+      "ko": "그렇다、지금 록맨이\n유니즌할 수 있는 소울은\n아쿠아 소울이군",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      },
+      "ja_red_sun": "そうだ、今ロックマンが\nユニゾンできるソウルは\nガッツソウルだな",
+      "ko_red_sun": "그렇다、지금 록맨이\n유니즌할 수 있는 소울은\n거츠 소울이군"
+    },
+    {
+      "id": "archive/053/script/2/literal/1",
+      "ja": "なら、水属性のチップを\nいけにえにすることによって\nソウルユニゾンすることができる",
+      "ko": "그럼、물 속성 칩을\n제물로 바침으로써\n소울 유니즌을 할 수 있다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      },
+      "ja_red_sun": "ガッツマンはそのコブシで\nパネルもろともはかいする\nパワフルなソウル・・・",
+      "ko_red_sun": "거츠맨은 그 주먹으로\n패널째 파괴하는\n파워풀한 소울..."
+    },
+    {
+      "id": "archive/053/script/2/literal/2",
+      "ja": "やりかたは こうだ、\nまず、水属性のチップを\nえらんで・・・",
+      "ko": "방법은 이렇다、\n먼저、물 속성 칩을\n골라서...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      },
+      "ja_red_sun": "つまり「クラックアウト」などの\nちけいはかいチップを\nいけにえにすればユニゾンできる",
+      "ko_red_sun": "즉 「크랙아웃」 같은\n지형 파괴 칩을\n제물로 바치면 유니즌된다"
+    },
+    {
+      "id": "archive/053/script/2/literal/3",
+      "ja": "やりかたは こうだ、\nまず、「クラックアウト」を\nえらんで・・・",
+      "ko": "방법은 이렇다、\n먼저、「크랙아웃」을\n골라서...",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/053/script/3/literal/0",
+      "ja": "つぎにこれ、ユニゾンコマンドを\nえらぶんだ",
+      "ko": "다음은 이것、유니즌 커맨드를\n고르는 거다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/053/script/4/literal/0",
+      "ja": "やってみろ、熱斗",
+      "ko": "해 봐라、넷토",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/053/script/5/literal/0",
+      "ja": "今は れんしゅうだから\n「バブルショット」をえらんでみろ",
+      "ko": "지금은 연습이니까\n「버블샷」을 골라 봐라",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      },
+      "ja_red_sun": "今は れんしゅうだから\n「クラックアウト」をえらんでみろ",
+      "ko_red_sun": "지금은 연습이니까\n「크랙아웃」을 골라 봐라"
+    },
+    {
+      "id": "archive/053/script/6/literal/0",
+      "ja": "熱斗、今は「バブルショット」を\nえらぼう、さ、キャンセルして\nえらびなおすんだ",
+      "ko": "넷토、지금은 「버블샷」을\n고르자、자、취소하고\n다시 고르는 거다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      },
+      "ja_red_sun": "熱斗、今は「クラックアウト」を\nえらぼう、さ、キャンセルして\nえらびなおすんだ",
+      "ko_red_sun": "넷토、지금은 「크랙아웃」을\n고르자、자、취소하고\n다시 고르는 거다"
+    },
+    {
+      "id": "archive/053/script/7/literal/0",
+      "ja": "熱斗、ユニゾンコマンドを\nわすれているぞ",
+      "ko": "넷토、유니즌 커맨드를\n잊었다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/053/script/8/literal/0",
+      "ja": "熱斗、\nキャンセルするひつようはないぞ",
+      "ko": "넷토、\n취소할 필요는 없다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/053/script/9/literal/0",
+      "ja": "今は にげるひつようはないぞ\nさ、つづけるぞ",
+      "ko": "지금은 도망칠 필요 없다\n자、계속한다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0b083e71d861e99937d7d8011e3fc5999e6ee1aaf11261e9688bd2c580c1b16a",
+          "tpl_sha256": "2c6ce35d2e2af2b0bdf0054f6a48cb9c183abc7178fe30729b3601abe624b353"
+        },
+        "red_sun": {
+          "payload_sha256": "0f73d1ad30a82ee32aab860c2187c5b09fff2498e5256777a458a6ba4e3e0e32",
+          "tpl_sha256": "8a918f57cbda3ba488e95a0d1d524078a7051ed4966a039edfcf430a29d59a8f"
+        }
+      }
+    },
+    {
+      "id": "archive/549/script/0/literal/0",
+      "ja": "ときを おなじくして",
+      "ko": "때를 같이하여",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "b0bbd5fa90a4608d73ea642488afa57c9453fcde3f46c832772467e0e9fa77f2",
+          "tpl_sha256": "80aa77cbafd82cf8b9e76c17801880f393f9f2351d6ac78300ce2867455db6fd"
+        },
+        "red_sun": {
+          "payload_sha256": "e9f3480d3b50ec85dbcef08cc43b40283a343bfb04c5ad831aa37f74ba0ecd81",
+          "tpl_sha256": "6656aa22cc07d4393bc987123537d00e7201505a2791ae72877ed5d0182ca7c2"
+        }
+      }
+    },
+    {
+      "id": "archive/549/script/0/literal/1",
+      "ja": "トーナメントにしゅつじょうした\nネットバトラーたちが\nちゅうしんとなり、",
+      "ko": "토너먼트에 출전한\n넷배틀러들이\n중심이 되어、",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "b0bbd5fa90a4608d73ea642488afa57c9453fcde3f46c832772467e0e9fa77f2",
+          "tpl_sha256": "80aa77cbafd82cf8b9e76c17801880f393f9f2351d6ac78300ce2867455db6fd"
+        },
+        "red_sun": {
+          "payload_sha256": "e9f3480d3b50ec85dbcef08cc43b40283a343bfb04c5ad831aa37f74ba0ecd81",
+          "tpl_sha256": "6656aa22cc07d4393bc987123537d00e7201505a2791ae72877ed5d0182ca7c2"
+        }
+      },
+      "ja_red_sun": "トーナメントに しゅつじょうした\nネットバトラーたちが\nちゅうしんとなり、",
+      "ko_red_sun": "토너먼트에 출전한\n넷배틀러들이\n중심이 되어、"
+    },
+    {
+      "id": "archive/549/script/0/literal/2",
+      "ja": "世界中からロックマンへの\nエールが おくられた・・・",
+      "ko": "전 세계에서 록맨에게\n응원이 보내졌다...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "b0bbd5fa90a4608d73ea642488afa57c9453fcde3f46c832772467e0e9fa77f2",
+          "tpl_sha256": "80aa77cbafd82cf8b9e76c17801880f393f9f2351d6ac78300ce2867455db6fd"
+        },
+        "red_sun": {
+          "payload_sha256": "e9f3480d3b50ec85dbcef08cc43b40283a343bfb04c5ad831aa37f74ba0ecd81",
+          "tpl_sha256": "6656aa22cc07d4393bc987123537d00e7201505a2791ae72877ed5d0182ca7c2"
+        }
+      },
+      "ja_red_sun": "世界中から ロックマンへの\nエールが おくられた・・・",
+      "ko_red_sun": "전 세계에서 록맨에게\n응원이 보내졌다..."
+    },
+    {
+      "id": "archive/549/script/0/literal/3",
+      "ja": "アメロッパ\nコロッセオアベニュー",
+      "ko": "아메로파\n콜로세오 애비뉴",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "b0bbd5fa90a4608d73ea642488afa57c9453fcde3f46c832772467e0e9fa77f2",
+          "tpl_sha256": "80aa77cbafd82cf8b9e76c17801880f393f9f2351d6ac78300ce2867455db6fd"
+        },
+        "red_sun": {
+          "payload_sha256": "e9f3480d3b50ec85dbcef08cc43b40283a343bfb04c5ad831aa37f74ba0ecd81",
+          "tpl_sha256": "6656aa22cc07d4393bc987123537d00e7201505a2791ae72877ed5d0182ca7c2"
+        }
+      }
+    },
+    {
+      "id": "archive/549/script/1/literal/0",
+      "ja": "ロックマン!!\nファイトだヨ!!",
+      "ko": "록맨!!\n파이팅이에요!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "b0bbd5fa90a4608d73ea642488afa57c9453fcde3f46c832772467e0e9fa77f2",
+          "tpl_sha256": "80aa77cbafd82cf8b9e76c17801880f393f9f2351d6ac78300ce2867455db6fd"
+        },
+        "red_sun": {
+          "payload_sha256": "e9f3480d3b50ec85dbcef08cc43b40283a343bfb04c5ad831aa37f74ba0ecd81",
+          "tpl_sha256": "6656aa22cc07d4393bc987123537d00e7201505a2791ae72877ed5d0182ca7c2"
+        }
+      }
+    },
+    {
+      "id": "archive/549/script/2/literal/0",
+      "ja": "ロックマン、たのむゼーーー!!",
+      "ko": "록맨、부탁한다고---!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "b0bbd5fa90a4608d73ea642488afa57c9453fcde3f46c832772467e0e9fa77f2",
+          "tpl_sha256": "80aa77cbafd82cf8b9e76c17801880f393f9f2351d6ac78300ce2867455db6fd"
+        },
+        "red_sun": {
+          "payload_sha256": "e9f3480d3b50ec85dbcef08cc43b40283a343bfb04c5ad831aa37f74ba0ecd81",
+          "tpl_sha256": "6656aa22cc07d4393bc987123537d00e7201505a2791ae72877ed5d0182ca7c2"
+        }
+      }
+    },
+    {
+      "id": "archive/549/script/3/literal/0",
+      "ja": "ロォーーーックマン!!",
+      "ko": "로오---옥맨!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "b0bbd5fa90a4608d73ea642488afa57c9453fcde3f46c832772467e0e9fa77f2",
+          "tpl_sha256": "80aa77cbafd82cf8b9e76c17801880f393f9f2351d6ac78300ce2867455db6fd"
+        },
+        "red_sun": {
+          "payload_sha256": "e9f3480d3b50ec85dbcef08cc43b40283a343bfb04c5ad831aa37f74ba0ecd81",
+          "tpl_sha256": "6656aa22cc07d4393bc987123537d00e7201505a2791ae72877ed5d0182ca7c2"
+        }
+      }
+    },
+    {
+      "id": "archive/549/script/4/literal/0",
+      "ja": "がんばるのじゃーー!!",
+      "ko": "힘내거라--!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "b0bbd5fa90a4608d73ea642488afa57c9453fcde3f46c832772467e0e9fa77f2",
+          "tpl_sha256": "80aa77cbafd82cf8b9e76c17801880f393f9f2351d6ac78300ce2867455db6fd"
+        },
+        "red_sun": {
+          "payload_sha256": "e9f3480d3b50ec85dbcef08cc43b40283a343bfb04c5ad831aa37f74ba0ecd81",
+          "tpl_sha256": "6656aa22cc07d4393bc987123537d00e7201505a2791ae72877ed5d0182ca7c2"
+        }
+      }
+    },
+    {
+      "id": "archive/549/script/5/literal/0",
+      "ja": "オウ、エブリィバディ!\nロックマンってナビは\nかならず やてくれるゼ!",
+      "ko": "오우、에브리바디!\n록맨이라는 내비는\n반드시 해낼 거야!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "b0bbd5fa90a4608d73ea642488afa57c9453fcde3f46c832772467e0e9fa77f2",
+          "tpl_sha256": "80aa77cbafd82cf8b9e76c17801880f393f9f2351d6ac78300ce2867455db6fd"
+        },
+        "red_sun": {
+          "payload_sha256": "e9f3480d3b50ec85dbcef08cc43b40283a343bfb04c5ad831aa37f74ba0ecd81",
+          "tpl_sha256": "6656aa22cc07d4393bc987123537d00e7201505a2791ae72877ed5d0182ca7c2"
+        }
+      },
+      "ja_red_sun": "つよく いのるのだ!!\nロックマンを しんじるのだ!",
+      "ko_red_sun": "강하게 기도하라!!\n록맨을 믿어라!"
+    },
+    {
+      "id": "archive/549/script/5/literal/1",
+      "ja": "あいつの スゴさは\nトーナメントで このオレが\nガッチリ 見たからよ!",
+      "ko": "그 녀석의 대단함은\n토너먼트에서 이 내가\n똑똑히 봤으니까!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "b0bbd5fa90a4608d73ea642488afa57c9453fcde3f46c832772467e0e9fa77f2",
+          "tpl_sha256": "80aa77cbafd82cf8b9e76c17801880f393f9f2351d6ac78300ce2867455db6fd"
+        },
+        "red_sun": {
+          "payload_sha256": "e9f3480d3b50ec85dbcef08cc43b40283a343bfb04c5ad831aa37f74ba0ecd81",
+          "tpl_sha256": "6656aa22cc07d4393bc987123537d00e7201505a2791ae72877ed5d0182ca7c2"
+        }
+      },
+      "ja_red_sun": "わがぶぞくに ふるくから\nつたわるコトバがある!!",
+      "ko_red_sun": "우리 부족에 예로부터\n전해지는 말이 있다!!"
+    },
+    {
+      "id": "archive/549/script/5/literal/2",
+      "ja": "あいつなら ぜったい\nオレたちを すくってくれる\nしんじるんだ!",
+      "ko": "그 녀석이라면 반드시\n우리를 구해 줄 거야\n믿는 거다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "b0bbd5fa90a4608d73ea642488afa57c9453fcde3f46c832772467e0e9fa77f2",
+          "tpl_sha256": "80aa77cbafd82cf8b9e76c17801880f393f9f2351d6ac78300ce2867455db6fd"
+        },
+        "red_sun": {
+          "payload_sha256": "e9f3480d3b50ec85dbcef08cc43b40283a343bfb04c5ad831aa37f74ba0ecd81",
+          "tpl_sha256": "6656aa22cc07d4393bc987123537d00e7201505a2791ae72877ed5d0182ca7c2"
+        }
+      },
+      "ja_red_sun": "「カミは しんじるものに\\n きせきを もたらす」",
+      "ko_red_sun": "「신은 믿는 자에게\n 기적을 가져다준다」"
+    },
+    {
+      "id": "archive/549/script/5/literal/3",
+      "ja": "ウィ ビリーブ ロックマン!!",
+      "ko": "위 빌리브 록맨!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "b0bbd5fa90a4608d73ea642488afa57c9453fcde3f46c832772467e0e9fa77f2",
+          "tpl_sha256": "80aa77cbafd82cf8b9e76c17801880f393f9f2351d6ac78300ce2867455db6fd"
+        },
+        "red_sun": {
+          "payload_sha256": "e9f3480d3b50ec85dbcef08cc43b40283a343bfb04c5ad831aa37f74ba0ecd81",
+          "tpl_sha256": "6656aa22cc07d4393bc987123537d00e7201505a2791ae72877ed5d0182ca7c2"
+        }
+      },
+      "ja_red_sun": "ロックマンは すぐれたナビだ!\nかならずや われわれに\nすくいを もたらせるであろう!",
+      "ko_red_sun": "록맨은 뛰어난 내비다!\n반드시 우리에게\n구원을 가져다줄 것이다!"
+    },
+    {
+      "id": "archive/550/script/0/literal/0",
+      "ja": "アジーナ",
+      "ko": "아지나",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "355f2f1891b25dacd5ddd3c5e915193b9d1b4a38211bdd3eff5396b8b65009ba",
+          "tpl_sha256": "827244479cb39418ffe4e5ff0a172d6ee0ce6048714472f29f8516e030f101ee"
+        },
+        "red_sun": {
+          "payload_sha256": "e9d71ff9c51e1dc2c93865224333be784955de51fdfa1a3963c8f7cda8883cca",
+          "tpl_sha256": "02f7de90fc9662ba4fab72803c1bdba236f8b2350aade02fb75f816ba2478f7f"
+        }
+      }
+    },
+    {
+      "id": "archive/550/script/1/literal/0",
+      "ja": "ロックマンは、\n世界で もっとも\nすぐれたナビじゃあ",
+      "ko": "록맨은、\n세계에서 가장\n뛰어난 내비일세",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "355f2f1891b25dacd5ddd3c5e915193b9d1b4a38211bdd3eff5396b8b65009ba",
+          "tpl_sha256": "827244479cb39418ffe4e5ff0a172d6ee0ce6048714472f29f8516e030f101ee"
+        },
+        "red_sun": {
+          "payload_sha256": "e9d71ff9c51e1dc2c93865224333be784955de51fdfa1a3963c8f7cda8883cca",
+          "tpl_sha256": "02f7de90fc9662ba4fab72803c1bdba236f8b2350aade02fb75f816ba2478f7f"
+        }
+      },
+      "ja_red_sun": "ワタシには 見えます!",
+      "ko_red_sun": "저에게는 보입니다!"
+    },
+    {
+      "id": "archive/550/script/1/literal/1",
+      "ja": "みんな、あのこらを しんじて\nおうえんするんじゃ!",
+      "ko": "모두、저 아이들을 믿고\n응원하는 게야!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "355f2f1891b25dacd5ddd3c5e915193b9d1b4a38211bdd3eff5396b8b65009ba",
+          "tpl_sha256": "827244479cb39418ffe4e5ff0a172d6ee0ce6048714472f29f8516e030f101ee"
+        },
+        "red_sun": {
+          "payload_sha256": "e9d71ff9c51e1dc2c93865224333be784955de51fdfa1a3963c8f7cda8883cca",
+          "tpl_sha256": "02f7de90fc9662ba4fab72803c1bdba236f8b2350aade02fb75f816ba2478f7f"
+        }
+      },
+      "ja_red_sun": "ロックマンと 光熱斗しょうねんの\nひめたるチカラが!!",
+      "ko_red_sun": "록맨과 히카리 넷토 소년의\n숨은 힘이!!"
+    },
+    {
+      "id": "archive/550/script/1/literal/2",
+      "ja": "みんな、チカラをあわせて\nかれらに エールを\nおくりましょう!",
+      "ko": "모두、힘을 합쳐\n그들에게 응원을\n보냅시다!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "e9d71ff9c51e1dc2c93865224333be784955de51fdfa1a3963c8f7cda8883cca",
+          "tpl_sha256": "02f7de90fc9662ba4fab72803c1bdba236f8b2350aade02fb75f816ba2478f7f"
+        }
+      }
+    },
+    {
+      "id": "archive/550/script/2/literal/0",
+      "ja": "ガンバルネーー!!\nロックマーーーン!!",
+      "ko": "힘내요~~!!\n록매---앤!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "355f2f1891b25dacd5ddd3c5e915193b9d1b4a38211bdd3eff5396b8b65009ba",
+          "tpl_sha256": "827244479cb39418ffe4e5ff0a172d6ee0ce6048714472f29f8516e030f101ee"
+        },
+        "red_sun": {
+          "payload_sha256": "e9d71ff9c51e1dc2c93865224333be784955de51fdfa1a3963c8f7cda8883cca",
+          "tpl_sha256": "02f7de90fc9662ba4fab72803c1bdba236f8b2350aade02fb75f816ba2478f7f"
+        }
+      }
+    },
+    {
+      "id": "archive/550/script/3/literal/0",
+      "ja": "ロックマーーーン",
+      "ko": "록매---앤",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "355f2f1891b25dacd5ddd3c5e915193b9d1b4a38211bdd3eff5396b8b65009ba",
+          "tpl_sha256": "827244479cb39418ffe4e5ff0a172d6ee0ce6048714472f29f8516e030f101ee"
+        },
+        "red_sun": {
+          "payload_sha256": "e9d71ff9c51e1dc2c93865224333be784955de51fdfa1a3963c8f7cda8883cca",
+          "tpl_sha256": "02f7de90fc9662ba4fab72803c1bdba236f8b2350aade02fb75f816ba2478f7f"
+        }
+      }
+    },
+    {
+      "id": "archive/550/script/4/literal/0",
+      "ja": "ロックマン、ガンバテネーー!!",
+      "ko": "록맨、힘내세요~~!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "355f2f1891b25dacd5ddd3c5e915193b9d1b4a38211bdd3eff5396b8b65009ba",
+          "tpl_sha256": "827244479cb39418ffe4e5ff0a172d6ee0ce6048714472f29f8516e030f101ee"
+        },
+        "red_sun": {
+          "payload_sha256": "e9d71ff9c51e1dc2c93865224333be784955de51fdfa1a3963c8f7cda8883cca",
+          "tpl_sha256": "02f7de90fc9662ba4fab72803c1bdba236f8b2350aade02fb75f816ba2478f7f"
+        }
+      }
+    },
+    {
+      "id": "archive/550/script/5/literal/0",
+      "ja": "まけるでないぞ!!",
+      "ko": "지지 말거라!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "355f2f1891b25dacd5ddd3c5e915193b9d1b4a38211bdd3eff5396b8b65009ba",
+          "tpl_sha256": "827244479cb39418ffe4e5ff0a172d6ee0ce6048714472f29f8516e030f101ee"
+        },
+        "red_sun": {
+          "payload_sha256": "e9d71ff9c51e1dc2c93865224333be784955de51fdfa1a3963c8f7cda8883cca",
+          "tpl_sha256": "02f7de90fc9662ba4fab72803c1bdba236f8b2350aade02fb75f816ba2478f7f"
+        }
+      }
+    },
+    {
+      "id": "archive/551/script/0/literal/0",
+      "ja": "アッフリク",
+      "ko": "아프리크",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "1d7ba85a63eb1244c35dd3db529caacc3bd581afc93a0e4ca2614c874d91f2ea",
+          "tpl_sha256": "5a3ab3bd7359123f0f053ad6aae7c1ca8fdff69ce07073fcbc39170caccd0cc4"
+        },
+        "red_sun": {
+          "payload_sha256": "a763a4a905d637ad813b4ab4e50831d52361545805ac816afa9f1fab3d488f5a",
+          "tpl_sha256": "b4dc7df8c97a534a70d020bc1750829998b464114a31d128bd4fc67d6d042ccf"
+        }
+      }
+    },
+    {
+      "id": "archive/551/script/1/literal/0",
+      "ja": "ロックマン!\nこのホシの 大しぜんを\nまもってくれーー!",
+      "ko": "록맨!\n이 별의 대자연을\n지켜 줘~~!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "1d7ba85a63eb1244c35dd3db529caacc3bd581afc93a0e4ca2614c874d91f2ea",
+          "tpl_sha256": "5a3ab3bd7359123f0f053ad6aae7c1ca8fdff69ce07073fcbc39170caccd0cc4"
+        },
+        "red_sun": {
+          "payload_sha256": "a763a4a905d637ad813b4ab4e50831d52361545805ac816afa9f1fab3d488f5a",
+          "tpl_sha256": "b4dc7df8c97a534a70d020bc1750829998b464114a31d128bd4fc67d6d042ccf"
+        }
+      }
+    },
+    {
+      "id": "archive/551/script/2/literal/0",
+      "ja": "たのむぞーー!",
+      "ko": "부탁한다~~!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "1d7ba85a63eb1244c35dd3db529caacc3bd581afc93a0e4ca2614c874d91f2ea",
+          "tpl_sha256": "5a3ab3bd7359123f0f053ad6aae7c1ca8fdff69ce07073fcbc39170caccd0cc4"
+        },
+        "red_sun": {
+          "payload_sha256": "a763a4a905d637ad813b4ab4e50831d52361545805ac816afa9f1fab3d488f5a",
+          "tpl_sha256": "b4dc7df8c97a534a70d020bc1750829998b464114a31d128bd4fc67d6d042ccf"
+        }
+      }
+    },
+    {
+      "id": "archive/551/script/3/literal/0",
+      "ja": "ロックマン、すごいナビ\n世界イチ!",
+      "ko": "록맨、대단한 내비\n세계 제일!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "1d7ba85a63eb1244c35dd3db529caacc3bd581afc93a0e4ca2614c874d91f2ea",
+          "tpl_sha256": "5a3ab3bd7359123f0f053ad6aae7c1ca8fdff69ce07073fcbc39170caccd0cc4"
+        },
+        "red_sun": {
+          "payload_sha256": "a763a4a905d637ad813b4ab4e50831d52361545805ac816afa9f1fab3d488f5a",
+          "tpl_sha256": "b4dc7df8c97a534a70d020bc1750829998b464114a31d128bd4fc67d6d042ccf"
+        }
+      },
+      "ja_red_sun": "ロックマン、つよいナビ\nオレ、この目で見た!",
+      "ko_red_sun": "록맨、강한 내비\n나、이 눈으로 봤다!"
+    },
+    {
+      "id": "archive/551/script/3/literal/1",
+      "ja": "ばんがる! がんばる!!",
+      "ko": "힘내! 힘내라!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "1d7ba85a63eb1244c35dd3db529caacc3bd581afc93a0e4ca2614c874d91f2ea",
+          "tpl_sha256": "5a3ab3bd7359123f0f053ad6aae7c1ca8fdff69ce07073fcbc39170caccd0cc4"
+        },
+        "red_sun": {
+          "payload_sha256": "a763a4a905d637ad813b4ab4e50831d52361545805ac816afa9f1fab3d488f5a",
+          "tpl_sha256": "b4dc7df8c97a534a70d020bc1750829998b464114a31d128bd4fc67d6d042ccf"
+        }
+      },
+      "ja_red_sun": "みんな、しんじる!!",
+      "ko_red_sun": "모두、믿는다!!"
+    },
+    {
+      "id": "archive/551/script/4/literal/0",
+      "ja": "だいじょうぶ、\nカレらなら かならず\nやってくれるはずだ!",
+      "ko": "괜찮아、\n그들이라면 반드시\n해낼 거야!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "1d7ba85a63eb1244c35dd3db529caacc3bd581afc93a0e4ca2614c874d91f2ea",
+          "tpl_sha256": "5a3ab3bd7359123f0f053ad6aae7c1ca8fdff69ce07073fcbc39170caccd0cc4"
+        },
+        "red_sun": {
+          "payload_sha256": "a763a4a905d637ad813b4ab4e50831d52361545805ac816afa9f1fab3d488f5a",
+          "tpl_sha256": "b4dc7df8c97a534a70d020bc1750829998b464114a31d128bd4fc67d6d042ccf"
+        }
+      },
+      "ja_red_sun": "まけるな、ロックマン!\nオレ、おまえ しんじてる!!",
+      "ko_red_sun": "지지 마、록맨!\n나、너 믿고 있다!!"
+    },
+    {
+      "id": "archive/551/script/4/literal/1",
+      "ja": "ワタシたちに 今できるのは\nしんじて いのることだけだ",
+      "ko": "우리가 지금 할 수 있는 건\n믿고 기도하는 것뿐이다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "1d7ba85a63eb1244c35dd3db529caacc3bd581afc93a0e4ca2614c874d91f2ea",
+          "tpl_sha256": "5a3ab3bd7359123f0f053ad6aae7c1ca8fdff69ce07073fcbc39170caccd0cc4"
+        },
+        "red_sun": {
+          "payload_sha256": "a763a4a905d637ad813b4ab4e50831d52361545805ac816afa9f1fab3d488f5a",
+          "tpl_sha256": "b4dc7df8c97a534a70d020bc1750829998b464114a31d128bd4fc67d6d042ccf"
+        }
+      },
+      "ja_red_sun": "だから・・・ガンバレ!!",
+      "ko_red_sun": "그러니까...힘내라!!"
+    },
+    {
+      "id": "archive/551/script/4/literal/2",
+      "ja": "そぉれ、みんな ハラから\nこえをだせーーーーっ!!",
+      "ko": "자아、모두 배에서부터\n소리를 내라----!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "1d7ba85a63eb1244c35dd3db529caacc3bd581afc93a0e4ca2614c874d91f2ea",
+          "tpl_sha256": "5a3ab3bd7359123f0f053ad6aae7c1ca8fdff69ce07073fcbc39170caccd0cc4"
+        }
+      }
+    },
+    {
+      "id": "archive/552/script/0/literal/0",
+      "ja": "シャーロ",
+      "ko": "샤로",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "238522eda72864fb889dce9128fa8dbe50ff88c1cee4e198499b13fab9b0eec9",
+          "tpl_sha256": "e943e996ffd71917cae07dc654fe8cd574af6709a36ddd2ad55c090fee56ad16"
+        },
+        "red_sun": {
+          "payload_sha256": "18a78fbe254b6119f2830b9bc5818dc8cef51c4374fb6c9b397d3bfa49bb2969",
+          "tpl_sha256": "94cefe5ba0eebdcc860f2f142b2b92e1262fa01c75fa10613efe0837f4f721d0"
+        }
+      }
+    },
+    {
+      "id": "archive/552/script/1/literal/0",
+      "ja": "かぁ~!!",
+      "ko": "크아~!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "238522eda72864fb889dce9128fa8dbe50ff88c1cee4e198499b13fab9b0eec9",
+          "tpl_sha256": "e943e996ffd71917cae07dc654fe8cd574af6709a36ddd2ad55c090fee56ad16"
+        },
+        "red_sun": {
+          "payload_sha256": "18a78fbe254b6119f2830b9bc5818dc8cef51c4374fb6c9b397d3bfa49bb2969",
+          "tpl_sha256": "94cefe5ba0eebdcc860f2f142b2b92e1262fa01c75fa10613efe0837f4f721d0"
+        }
+      },
+      "ja_red_sun": "光熱斗、ロックマン",
+      "ko_red_sun": "히카리 넷토、록맨"
+    },
+    {
+      "id": "archive/552/script/1/literal/1",
+      "ja": "しょうわくせい なんかが\nぶつかったら、",
+      "ko": "소행성 같은 게\n부딪히면、",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "238522eda72864fb889dce9128fa8dbe50ff88c1cee4e198499b13fab9b0eec9",
+          "tpl_sha256": "e943e996ffd71917cae07dc654fe8cd574af6709a36ddd2ad55c090fee56ad16"
+        },
+        "red_sun": {
+          "payload_sha256": "18a78fbe254b6119f2830b9bc5818dc8cef51c4374fb6c9b397d3bfa49bb2969",
+          "tpl_sha256": "94cefe5ba0eebdcc860f2f142b2b92e1262fa01c75fa10613efe0837f4f721d0"
+        }
+      },
+      "ja_red_sun": "・",
+      "ko_red_sun": "."
+    },
+    {
+      "id": "archive/552/script/1/literal/2",
+      "ja": "このホシは めちゃくちゃ\nあつくなるじゃないかコフ!!",
+      "ko": "이 별은 엄청\n뜨거워지잖냐코프!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "238522eda72864fb889dce9128fa8dbe50ff88c1cee4e198499b13fab9b0eec9",
+          "tpl_sha256": "e943e996ffd71917cae07dc654fe8cd574af6709a36ddd2ad55c090fee56ad16"
+        },
+        "red_sun": {
+          "payload_sha256": "18a78fbe254b6119f2830b9bc5818dc8cef51c4374fb6c9b397d3bfa49bb2969",
+          "tpl_sha256": "94cefe5ba0eebdcc860f2f142b2b92e1262fa01c75fa10613efe0837f4f721d0"
+        }
+      },
+      "ja_red_sun": "・",
+      "ko_red_sun": "."
+    },
+    {
+      "id": "archive/552/script/1/literal/3",
+      "ja": "それはぜったい\nイヤだチョフ!!",
+      "ko": "그건 절대\n싫다초프!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "238522eda72864fb889dce9128fa8dbe50ff88c1cee4e198499b13fab9b0eec9",
+          "tpl_sha256": "e943e996ffd71917cae07dc654fe8cd574af6709a36ddd2ad55c090fee56ad16"
+        },
+        "red_sun": {
+          "payload_sha256": "18a78fbe254b6119f2830b9bc5818dc8cef51c4374fb6c9b397d3bfa49bb2969",
+          "tpl_sha256": "94cefe5ba0eebdcc860f2f142b2b92e1262fa01c75fa10613efe0837f4f721d0"
+        }
+      },
+      "ja_red_sun": "・",
+      "ko_red_sun": "."
+    },
+    {
+      "id": "archive/552/script/1/literal/4",
+      "ja": "ガンバリンスキー!!",
+      "ko": "힘내라스키!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "238522eda72864fb889dce9128fa8dbe50ff88c1cee4e198499b13fab9b0eec9",
+          "tpl_sha256": "e943e996ffd71917cae07dc654fe8cd574af6709a36ddd2ad55c090fee56ad16"
+        },
+        "red_sun": {
+          "payload_sha256": "18a78fbe254b6119f2830b9bc5818dc8cef51c4374fb6c9b397d3bfa49bb2969",
+          "tpl_sha256": "94cefe5ba0eebdcc860f2f142b2b92e1262fa01c75fa10613efe0837f4f721d0"
+        }
+      },
+      "ja_red_sun": "みんな、さけぶんだ!!\nこのホシを すくえるのは\nロックマンと 光熱斗だけだ!",
+      "ko_red_sun": "모두、외쳐라!!\n이 별을 구할 수 있는 건\n록맨과 히카리 넷토뿐이다!"
+    },
+    {
+      "id": "archive/552/script/2/literal/0",
+      "ja": "シャーロは、さむいクニだが\nオレたちの たましいは\nアツいぜ!!",
+      "ko": "샤로는、추운 나라지만\n우리의 영혼은\n뜨겁다고!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "238522eda72864fb889dce9128fa8dbe50ff88c1cee4e198499b13fab9b0eec9",
+          "tpl_sha256": "e943e996ffd71917cae07dc654fe8cd574af6709a36ddd2ad55c090fee56ad16"
+        },
+        "red_sun": {
+          "payload_sha256": "18a78fbe254b6119f2830b9bc5818dc8cef51c4374fb6c9b397d3bfa49bb2969",
+          "tpl_sha256": "94cefe5ba0eebdcc860f2f142b2b92e1262fa01c75fa10613efe0837f4f721d0"
+        }
+      },
+      "ja_red_sun": "シャーロは、さむいクニだが\nオレたちの たましいは\nアツいチョフ!!",
+      "ko_red_sun": "샤로는、추운 나라지만\n우리의 영혼은\n뜨겁다초프!!"
+    },
+    {
+      "id": "archive/552/script/2/literal/1",
+      "ja": "しっかりうけとってくれよ\nロックマン!!",
+      "ko": "제대로 받아 줘\n록맨!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "238522eda72864fb889dce9128fa8dbe50ff88c1cee4e198499b13fab9b0eec9",
+          "tpl_sha256": "e943e996ffd71917cae07dc654fe8cd574af6709a36ddd2ad55c090fee56ad16"
+        },
+        "red_sun": {
+          "payload_sha256": "18a78fbe254b6119f2830b9bc5818dc8cef51c4374fb6c9b397d3bfa49bb2969",
+          "tpl_sha256": "94cefe5ba0eebdcc860f2f142b2b92e1262fa01c75fa10613efe0837f4f721d0"
+        }
+      },
+      "ja_red_sun": "しっかりうけとってくれスキー\nロックマン!!",
+      "ko_red_sun": "제대로 받아 달라스키\n록맨!!"
+    },
+    {
+      "id": "archive/552/script/3/literal/0",
+      "ja": "ハラショー!\nロックマン! ハラショー!",
+      "ko": "하라쇼!\n록맨! 하라쇼!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "238522eda72864fb889dce9128fa8dbe50ff88c1cee4e198499b13fab9b0eec9",
+          "tpl_sha256": "e943e996ffd71917cae07dc654fe8cd574af6709a36ddd2ad55c090fee56ad16"
+        },
+        "red_sun": {
+          "payload_sha256": "18a78fbe254b6119f2830b9bc5818dc8cef51c4374fb6c9b397d3bfa49bb2969",
+          "tpl_sha256": "94cefe5ba0eebdcc860f2f142b2b92e1262fa01c75fa10613efe0837f4f721d0"
+        }
+      }
+    },
+    {
+      "id": "archive/552/script/4/literal/0",
+      "ja": "ロックマンさーーん!",
+      "ko": "록맨 씨~~!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "238522eda72864fb889dce9128fa8dbe50ff88c1cee4e198499b13fab9b0eec9",
+          "tpl_sha256": "e943e996ffd71917cae07dc654fe8cd574af6709a36ddd2ad55c090fee56ad16"
+        },
+        "red_sun": {
+          "payload_sha256": "18a78fbe254b6119f2830b9bc5818dc8cef51c4374fb6c9b397d3bfa49bb2969",
+          "tpl_sha256": "94cefe5ba0eebdcc860f2f142b2b92e1262fa01c75fa10613efe0837f4f721d0"
+        }
+      }
+    },
+    {
+      "id": "archive/552/script/5/literal/0",
+      "ja": "キャーーーーーッ!!\nロックマーーーーン!!",
+      "ko": "꺄------!!\n록매----앤!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "238522eda72864fb889dce9128fa8dbe50ff88c1cee4e198499b13fab9b0eec9",
+          "tpl_sha256": "e943e996ffd71917cae07dc654fe8cd574af6709a36ddd2ad55c090fee56ad16"
+        },
+        "red_sun": {
+          "payload_sha256": "18a78fbe254b6119f2830b9bc5818dc8cef51c4374fb6c9b397d3bfa49bb2969",
+          "tpl_sha256": "94cefe5ba0eebdcc860f2f142b2b92e1262fa01c75fa10613efe0837f4f721d0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+ "schema": 1,
+ "scope": "title menu words: はじめから / つづきから / N周目のつづきから / オペレーションバトル, sprites cut from one 25x2-tile sheet",
+ "evidence": "analysis/runtime/title_snap_02 (red, title menu): OAM 36..41 (はじめから, palette 4) and 30..35 (つづきから, palette 3) are 16x8 sprites of tiles 0x40.. ; those tiles are the LZ77 stream red 0x087D918C / blue 0x087D8CE8 (one pointer each) after a 4-byte size word; から (sheet columns 4..5) is shared by both words",
+ "font_sha256": "99dc4e76f82b8419fa1d2c258d589208653ccba26163fe0213e48c5dccc63193",
+ "pitch": 12,
+ "top": 2,
+ "columns": 25,
+ "tile_base": 4,
+ "compressed_size": 766,
+ "span_bytes": 768,
+ "span_note": "the source stream is 766 bytes plus two pad bytes; the next LZ77 stream starts 768 bytes after it in both revisions",
+ "words": [
+  {
+   "source": "はじめから",
+   "text": "새로하기",
+   "parts": [
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "align": "left"
+  },
+  {
+   "source": "つづきから",
+   "text": "이어하기",
+   "parts": [
+    [
+     10,
+     14
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "align": "left"
+  },
+  {
+   "source": "周目の (after a digit, before つづきから)",
+   "text": "회차",
+   "parts": [
+    [
+     6,
+     10
+    ]
+   ],
+   "align": "left"
+  },
+  {
+   "source": "オペレーションバトル",
+   "text": "오퍼레이션배틀",
+   "parts": [
+    [
+     14,
+     25
+    ]
+   ],
+   "align": "center"
+  }
+ ],
+ "sheet_sha256": "dbc99877d67200b037b17aeffef9b2fe6e28f7067837eda0054b363c20324650",
+ "profiles": {
+  "red_sun": {
+   "source_sha256": "1904692bc383fc2cb7e1d81e1c80bf2d8c616c0d1b1d396c689f71b49a2e3188",
+   "sheet_offset": 8229260,
+   "pointer": 153772
+  },
+  "blue_moon": {
+   "source_sha256": "f976a84ef226e47d4a65695052da09b415867b01586dd74bbb1c289a6f607b63",
+   "sheet_offset": 8228072,
+   "pointer": 153716
+  }
+ },
+ "bold": false
+}

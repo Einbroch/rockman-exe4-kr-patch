@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "scope": "Custom Screen R description; ten drafts, NON-DISTRIBUTION needs_review",
+  "draft_sha256": "c4ac8fabb7fd1dad33ed8dc9f4502d03a035ddb627123fa7347a65fc7bcad2ba",
+  "selected_ids": [
+    1,
+    4,
+    15,
+    29,
+    48,
+    49,
+    91,
+    107,
+    117,
+    149
+  ],
+  "max_lines": 3,
+  "provisional_line_pixels": 132,
+  "profiles": {
+    "blue_moon": {
+      "source_sha256": "f976a84ef226e47d4a65695052da09b415867b01586dd74bbb1c289a6f607b63",
+      "pointer_offset": 130276,
+      "source_archive_offset": 7641640,
+      "source_archive_size": 10048,
+      "source_pointer": 141859368,
+      "other_pointer_claims": [
+        1075908,
+        1076652,
+        1087656
+      ],
+      "selector_start": 130240,
+      "selector_return": 130268,
+      "selector_context_offset": 130216,
+      "selector_context_size": 60,
+      "selector_context_sha256": "f291c9ec330e1dbb3ed53cc700af693a636e10bfed28b219aded60710b5ce7e6",
+      "compiled_sha256": "9eadcb57f32af185f7bc60b03738f19a0c11ea93f1801d63f98854f22c16e154"
+    },
+    "red_sun": {
+      "source_sha256": "1904692bc383fc2cb7e1d81e1c80bf2d8c616c0d1b1d396c689f71b49a2e3188",
+      "pointer_offset": 130336,
+      "source_archive_offset": 7642928,
+      "source_archive_size": 10048,
+      "source_pointer": 141860656,
+      "other_pointer_claims": [
+        1076020,
+        1076764,
+        1087768
+      ],
+      "selector_start": 130300,
+      "selector_return": 130328,
+      "selector_context_offset": 130276,
+      "selector_context_size": 60,
+      "selector_context_sha256": "56d78baf46f51b368b688848eb9f38b68223d8e74191321a14afe85960912bff",
+      "compiled_sha256": "9eadcb57f32af185f7bc60b03738f19a0c11ea93f1801d63f98854f22c16e154"
+    }
+  }
+}

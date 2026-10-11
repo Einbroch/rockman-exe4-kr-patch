@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "scope": "in-battle queued chip name only; needs_review NON-DISTRIBUTION",
+  "catalog_sha256": "ba4b592e786f5ed212e878f7ff8c38f738d78cbee94ab437854c452f80ed5c8d",
+  "profiles": {
+    "blue_moon": {
+      "source_sha256": "f976a84ef226e47d4a65695052da09b415867b01586dd74bbb1c289a6f607b63",
+      "hook": {
+        "offset": 86064,
+        "expected_hex": "494b08240125494e",
+        "continuation": 134303801
+      },
+      "context": {
+        "offset": 86058,
+        "size": 22,
+        "sha256": "d8fb47803ce791a6d3341a8afcce29a87e10717549469dbf01418081e31427f5"
+      },
+      "roots": {
+        "41": 141842900,
+        "42": 141845356
+      },
+      "destination": 33809808,
+      "vram": 100701056,
+      "font": 141090820
+    },
+    "red_sun": {
+      "source_sha256": "1904692bc383fc2cb7e1d81e1c80bf2d8c616c0d1b1d396c689f71b49a2e3188",
+      "hook": {
+        "offset": 86116,
+        "expected_hex": "494b08240125494e",
+        "continuation": 134303853
+      },
+      "context": {
+        "offset": 86110,
+        "size": 22,
+        "sha256": "edff20639b400862db67b936c5c1342b36898bf9f6ae87cb1ba045aca00e4465"
+      },
+      "roots": {
+        "41": 141844120,
+        "42": 141846576
+      },
+      "destination": 33809808,
+      "vram": 100701056,
+      "font": 141091364
+    }
+  }
+}

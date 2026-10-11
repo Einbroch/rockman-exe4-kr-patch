@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "batch": "026",
+  "state": "authored",
+  "scope": "archives 302, 304 and 306, the second copy of the tour-host scripts batch 010 covers at 301, 303, 305 and 307",
+  "provenance": "Claude, 2026-09-20; every line of these three archives is a source line batch 010 already decided, so all 20 come from story_reuse.py rather than being re-decided",
+  "archives": [
+    302,
+    304,
+    306
+  ],
+  "tone": "Inherited from batch 010: each host has a different register, and the katakana tic is carried by register rather than imitated.",
+  "by_source": {
+    "いいえ": "아뇨",
+    "おツカれサマ!": "수고했어!",
+    "おツカれサマでしたー!": "수고하셨습니다!",
+    "おツカれサマでーす!": "수고하셨습니다!",
+    "のらない!": "안 타!",
+    "のる  ": "탄다  ",
+    "のる!  ": "탄다!  ",
+    "はい  ": "예  ",
+    "やあ、マってたよ!\nここは「ブリキング」の\nデンノウセカイ!": "야、기다렸어!\n여기는 「브리킹」의\n전뇌 세계!",
+    "ようこそ!\n「ウィザードッグ」の\nデンノウセカイへ!": "어서 오세요!\n「위저독」의\n전뇌 세계로!",
+    "ようこそ!\nここは 「マサカリヒメ」の\nデンノウセカイ!": "어서 오세요!\n여기는 「도끼공주」의\n전뇌 세계!",
+    "よーし!\nそれでは、レッツでゴ-!": "좋아!\n그럼、레츠고!",
+    "イカダに ノっての\nのんびりクルーズだよ!\nサッソク シュッパツするかい!?": "뗏목을 타고 가는\n느긋한 크루즈야!\n당장 출발할래!?",
+    "オッケー!\nそれじゃあ、シュッパツだ!!": "오케이!\n그럼、출발이다!!",
+    "オッケー!\nそれではレッツゴー!!": "오케이!\n그럼 레츠고!!",
+    "サッソク\nシュッパツしちゃいますか?": "당장\n출발해 버리시겠습니까?",
+    "サッソク\nシュッパツするかい?": "당장\n출발할래?",
+    "ジュンビが デキたら、\nまた キてね!": "준비가 되면、\n또 와 줘!",
+    "ノりますか?": "타시겠습니까?",
+    "ノるかい?": "탈래?"
+  },
+  "notes": "Nothing here is newly written. Reuse is by source line with exactly one Korean, which is the rule that catches the case where two archives share a script path but not a line — resolving by path instead handed four archives the same wording once already.",
+  "revisions": [
+    "2026-09-27: マサカリひめ / マサカリヒメ is 도끼공주, as the picture-book chapters (021, 027, 028) name her; this batch had 마사카리히메. Glossary exe4-term-034/035."
+  ]
+}

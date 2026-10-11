@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "scope": "PET main menu labels; the katakana are pixels in raw BG tiles, so they are redrawn in Hangul and re-tiled in place",
+ "font": {
+  "name": "Galmuri9.bdf",
+  "sha256": "4159d916b4b4f5173ae8e0d1d5ddfc8ae3ac6ec04d285b26a786231563495e01",
+  "style": "regular weight (user: thin strokes like the EXE3 PET menu), centred vertically in each label box, drop shadow (+1,+1)"
+ },
+ "tile_first": 640,
+ "tile_count": 125,
+ "map_cells": [
+  32,
+  20
+ ],
+ "palette": 14,
+ "region": {
+  "columns": [
+   6,
+   16
+  ],
+  "rows": [
+   2,
+   19
+  ]
+ },
+ "label_colour_base": 8,
+ "box_colours": [
+  5
+ ],
+ "shadow_colours": [
+  2,
+  6
+ ],
+ "evidence": "user save PET screen (analysis/runtime/user_save_pet_vram_01/02): BG0 char base 0x06008000, map 0x0600E000 equal to the ROM map; the module copies the tile block to 0x0600D000 (tile 640). Moving the cursor changes only palette 14 colours 8/9: label k draws in colour 8+k and the selected one is set to white, so each label keeps its own colour. The tile block and map have one ROM reference each (the PET module).",
+ "profiles": {
+  "blue_moon": {
+   "source_sha256": "f976a84ef226e47d4a65695052da09b415867b01586dd74bbb1c289a6f607b63",
+   "tiles_offset": 7248188,
+   "tiles_sha256": "b30dcda82273bd629d7d6e759133cce3433857a2d868df27e2109d81ddd445f8",
+   "map_offset": 7246908,
+   "map_sha256": "cefebca754109560e984942204e573790eac2b62d5eed4b8cc1127124222292c",
+   "tiles_literal": 187256,
+   "map_literal": 187328
+  },
+  "red_sun": {
+   "source_sha256": "1904692bc383fc2cb7e1d81e1c80bf2d8c616c0d1b1d396c689f71b49a2e3188",
+   "tiles_offset": 7249408,
+   "tiles_sha256": "b30dcda82273bd629d7d6e759133cce3433857a2d868df27e2109d81ddd445f8",
+   "map_offset": 7248128,
+   "map_sha256": "cefebca754109560e984942204e573790eac2b62d5eed4b8cc1127124222292c",
+   "tiles_literal": 187312,
+   "map_literal": 187384
+  }
+ },
+ "bold": false,
+ "panel_colour": 4
+}

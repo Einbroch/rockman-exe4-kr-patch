@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "scope": "folder edit and seven-row library ten descriptions; NON-DISTRIBUTION needs_review",
+ "cells": 10,
+ "visible_cells": 9,
+ "lines": 3,
+ "draft_sha256": "257a368c2ce1770e76b3a52bf1db83cc6c7fccb4c46ffd581ecb5cfe7735f1ec",
+ "profiles": {
+  "blue_moon": {
+   "source_sha256": "f976a84ef226e47d4a65695052da09b415867b01586dd74bbb1c289a6f607b63",
+   "baseline_sha256": "ba6606b106ab7fe46197445058622df8f7f4cda5241829be9ac203ba9a285801",
+   "source_pointer": 141859368,
+   "compiled_sha256": "1a5b86b9131ee6f194736a0ee2f32cccd1b2073bac14a7f246100edd5417d106",
+   "consumers": {
+    "folder": {
+     "start": 1075796,
+     "call": 1075842,
+     "pointer_offset": 1075908,
+     "context_size": 112,
+     "context_sha256": "dd6f499a2acdde41df25150359136fce58b8fbbe36e10f3ff0b45aa094e9d4c8",
+     "destination": 33650688,
+     "vram": 100734464,
+     "font": 141322652,
+     "observed_hits": 1
+    },
+    "library": {
+     "start": 1087612,
+     "call": 1087648,
+     "pointer_offset": 1087656,
+     "context_size": 44,
+     "context_sha256": "3af300642344465c5e56a8619ef14c065fdc9d9e30c054bde1336833764d17a3",
+     "destination": 33650688,
+     "vram": 100734976,
+     "font": 141322652,
+     "observed_hits": 3
+    }
+   },
+   "preserved_other_menu_claim": 1076652,
+   "native_trace": {
+    "receipt": "analysis/runtime/blue_moon_menu_description_trace_01/result.json",
+    "receipt_sha256": "e649c5db1fd7500c59180fdbfef9f6fddb72c499cf4af3b3b7374da46b70e3d6",
+    "trace": "analysis/runtime/blue_moon_menu_description_trace_01/exectrace_final.json",
+    "trace_sha256": "512db909fc47022e2b11d14e9f33292e327040735093266e5741882deccd2e04"
+   }
+  },
+  "red_sun": {
+   "source_sha256": "1904692bc383fc2cb7e1d81e1c80bf2d8c616c0d1b1d396c689f71b49a2e3188",
+   "baseline_sha256": "105e362ea8ca744fc0f2d6f24755c7c44b006017c7bbf0db135f1056d559ebf1",
+   "source_pointer": 141860656,
+   "compiled_sha256": "1a5b86b9131ee6f194736a0ee2f32cccd1b2073bac14a7f246100edd5417d106",
+   "consumers": {
+    "folder": {
+     "start": 1075908,
+     "call": 1075954,
+     "pointer_offset": 1076020,
+     "context_size": 112,
+     "context_sha256": "188c740cb230f336ba197f3baaeaa9d2470d9eb32f281b491b72a7fc7636142e",
+     "destination": 33650688,
+     "vram": 100734464,
+     "font": 141323872,
+     "observed_hits": 1
+    },
+    "library": {
+     "start": 1087724,
+     "call": 1087760,
+     "pointer_offset": 1087768,
+     "context_size": 44,
+     "context_sha256": "041a856a3bac280eb0e467639f31eaacbaf2e29aae5f4fae5a54fd22e04a12a1",
+     "destination": 33650688,
+     "vram": 100734976,
+     "font": 141323872,
+     "observed_hits": 3
+    }
+   },
+   "preserved_other_menu_claim": 1076764,
+   "native_trace": {
+    "receipt": "analysis/runtime/red_sun_menu_description_trace_01/result.json",
+    "receipt_sha256": "10774bcd5c81ef401b6201e641260f997516fd711cd216d0a511c329eddede4d",
+    "trace": "analysis/runtime/red_sun_menu_description_trace_01/exectrace_final.json",
+    "trace_sha256": "02dca5009958c3a70c6d3ef1e452893e2213b86a9066e4b0c3f8d1acda275e6d"
+   }
+  }
+ },
+ "baseline_note": "2026-10-04: baseline rebuilt with chip folder v2 (all archive41 names, least-recently-used Hangul cache)"
+}

@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "scope": "fixed RAM destinations of LZ77-compressed text archives, and the budget each decoded archive must fit",
+ "finding": "2026-10-04: the Korean archive 7 (mail bodies) decodes to 17,492 bytes at 0x02028000 while archive 6 (mail header names) is decoded to 0x0202B000 right after, 12,288 bytes on; the mail screen RAM snapshot (analysis/runtime/user_save_mail_snap_01) showed archive 7 running on to 0x0202C454 under archive 6",
+ "mail_header_move": {
+  "from": 33730560,
+  "to": 33736704,
+  "evidence": "0x0202C454..0x0202E000 was zero on the mail screen; the next fixed buffer literal in the window is 0x0202DE00 (0x0804A80C/0x0804AC78), so archive 6 must end before it; 0x0202B000 has exactly two literal words per revision, the decompress call and the header reader",
+  "profiles": {
+   "blue_moon": {
+    "literals": [
+     202892,
+     203432
+    ]
+   },
+   "red_sun": {
+    "literals": [
+     202948,
+     203488
+    ]
+   }
+  }
+ },
+ "budgets": {
+  "4": 12288,
+  "6": 5632,
+  "7": 18432,
+  "14": 12288,
+  "61": 12288,
+  "18": 15872,
+  "20": 15872,
+  "22": 15872,
+  "24": 15872,
+  "26": 15872,
+  "28": 15872,
+  "19": 8192,
+  "21": 8192,
+  "23": 8192,
+  "25": 8192,
+  "27": 8192,
+  "29": 8192
+ },
+ "budget_basis": "archive 7: up to the moved header buffer; archive 6: up to 0x0202DE00; 4/14/61 share 0x02028000 and are held to the original 12,288 bytes before 0x0202B000; BBS bodies 18/20/22/24/26/28 decode to 0x0202A000 (board reader 0x0804946A) and must end before 0x0202DE00; BBS lists 19..29 decode to 0x02026000 and are held before 0x02028000"
+}

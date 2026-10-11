@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "scope": "pointer claims of archives 54/55 moved to the full Korean description clones; claims with no reader stay",
+ "evidence": "Custom Screen selector 0x0801FCE4 -> message box 0x0804E2A4 (call 0x080202F2); folder 0x08106AC4 and library 0x081098EC load the pair and call the tile renderer with style 0x086C6E60; 0x08109D08 is a literal pool word of a style-0x086C6E60 tile call; 0x08106E1C/20 have no ldr/adr/pointer reference in the ROM",
+ "profiles": {
+  "red_sun": {
+   "claims": {
+    "54": [
+     130336,
+     1076020,
+     1087768
+    ],
+    "55": [
+     130340,
+     1076024,
+     1087772,
+     1088776
+    ]
+   },
+   "unread": {
+    "54": [
+     1076764
+    ],
+    "55": [
+     1076768
+    ]
+   }
+  },
+  "blue_moon": {
+   "claims": {
+    "54": [
+     130276,
+     1075908,
+     1087656
+    ],
+    "55": [
+     130280,
+     1075912,
+     1087660,
+     1088664
+    ]
+   },
+   "unread": {
+    "54": [
+     1076652
+    ],
+    "55": [
+     1076656
+    ]
+   }
+  }
+ }
+}

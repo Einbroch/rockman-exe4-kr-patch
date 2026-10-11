@@ -1,0 +1,897 @@
+{
+  "schema": 1,
+  "batch": "001",
+  "state": "needs_review",
+  "scope": "Operation Battle link-menu tutorial, spoken by Meijin. Archives 003 (Blue Moon) and 004 (Red Sun) hold byte-identical source, so one Korean wording serves both; keys are script/literal paths applied to each archive.",
+  "provenance": "Claude translator-authored Japanese to Korean, 2026-09-20; no independent review yet",
+  "authored": "translations/story_authored/batch_001.json",
+  "authored_sha256": "e72ede67f36f68ec558a15e81de59697fad42e5d8b0be95e8872d82c8498df7a",
+  "sheet_sha256": "29c4410ed42d3cbcf800e9552e1e81bcdd02298b1198be0653230a7349587470",
+  "archives": [
+    3,
+    4
+  ],
+  "deferred": [],
+  "entries": [
+    {
+      "id": "archive/003/script/10/literal/0",
+      "ja": "このモードは一人で\nあそぶモードなんだ!",
+      "ko": "이 모드는 혼자서\n즐기는 모드다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/10/literal/1",
+      "ja": "つうしんケーブルをぬいてから\nえらんでくれたまえ!",
+      "ko": "통신 케이블을 뽑고 나서\n골라 주게!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/11/literal/0",
+      "ja": "まだナビのデータが\nトランスミッション\nされていないぞ",
+      "ko": "아직 내비 데이터가\n트랜스미션되지\n않았다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/12/literal/0",
+      "ja": "ともだちの方は\nまだ じゅんび中みたいだね\nちょっとまってくれたまえ",
+      "ko": "친구 쪽은\n아직 준비 중인 모양이군\n잠깐 기다려 주게",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/13/literal/0",
+      "ja": "やったな!\nナイスオペレーションだったぞ!",
+      "ko": "해냈군!\n나이스 오퍼레이션이었다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/134/literal/0",
+      "ja": "すべての改造をOFF",
+      "ko": "모든 개조를 OFF",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "9c49db39a74397943d85aa53067983141a502a1fdc10b8b505b84dc1356cc883",
+          "tpl_sha256": "59365bf1ca76d6c1519ea1ea9f89dd0a4b50626d398d941a8b769d77e3961a17"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/135/literal/0",
+      "ja": "すべての改造をON",
+      "ko": "모든 개조를 ON",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "9c49db39a74397943d85aa53067983141a502a1fdc10b8b505b84dc1356cc883",
+          "tpl_sha256": "59365bf1ca76d6c1519ea1ea9f89dd0a4b50626d398d941a8b769d77e3961a17"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/14/literal/0",
+      "ja": "ざんねんだったな・・・しかし!\nあきらめずにトライしてくれ!",
+      "ko": "아쉽게 됐군...하지만!\n포기하지 말고 도전해라!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/15/literal/0",
+      "ja": "オペレーションバトルへようこそ\nナビデータチップをさしてナビを\nトランスミッションしてくれ!",
+      "ko": "오퍼레이션 배틀에 어서 오게\n내비 데이터 칩을 꽂아서\n내비를 트랜스미션해 주게!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/16/literal/0",
+      "ja": "オペレーションバトルとは\nナビに しじをだしながら\nチップをおくって たたかう・・",
+      "ko": "오퍼레이션 배틀이란\n내비에게 지시를 내리며\n칩을 보내 싸우는 것...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/16/literal/1",
+      "ja": "まさにオペレーターのたちばで\nバトルをするモードなんだ!",
+      "ko": "그야말로 오퍼레이터의\n입장에서 배틀하는 모드다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/16/literal/10",
+      "ja": "ゲージがあかいろまで たまれば\nギガクラスチップが\nスロットインできるぞ!",
+      "ko": "게이지가 빨간색까지 차면\n기가 클래스 칩을\n슬롯 인 할 수 있다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/16/literal/11",
+      "ja": "ただしチップごとに つかえる\nかいすうが きまっているから\nつかいどころをかんがえるんだぞ",
+      "ko": "단 칩마다 쓸 수 있는\n횟수가 정해져 있으니\n쓸 곳을 잘 생각하도록",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/16/literal/12",
+      "ja": "カスタムゲージはじかんで\nたまっていくが ダメージを\nうけると へってしまう・・・",
+      "ko": "커스텀 게이지는 시간이\n지나면 차지만 데미지를\n받으면 줄어들고 만다...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/16/literal/13",
+      "ja": "うまくナビをコントロールして\nゲージをためていくことが\nしょうりへの ちかみちだな!",
+      "ko": "내비를 잘 컨트롤해서\n게이지를 모아 가는 것이\n승리로 가는 지름길이다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/16/literal/14",
+      "ja": "さいごに Lボタンのきのうだが\n・・・これについてはヒミツだ\nキミの手でさぐってみてくれ!",
+      "ko": "마지막으로 L 버튼 기능인데\n...이건 비밀이다\n네 손으로 찾아내 보게!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/16/literal/15",
+      "ja": "名人からのせつめいはいじょうだ\nけんとうを いのっているぞ!",
+      "ko": "명인의 설명은 이상이다\n건투를 빈다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/16/literal/2",
+      "ja": "ナビは きほんてきに\nじどうで こうどうしてくれるが",
+      "ko": "내비는 기본적으로\n자동으로 행동해 주지만",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/16/literal/3",
+      "ja": "十字ボタンの左右で\nナビを前後にゆうどうできるぞ",
+      "ko": "십자 버튼 좌우로\n내비를 앞뒤로 유도할 수 있다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/16/literal/4",
+      "ja": "さらに\n十字ボタン下で作戦へんこう\n上でそうびのへんこう ができる",
+      "ko": "게다가\n십자 버튼 아래로 작전 변경\n위로는 장비 변경이 가능하다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/16/literal/5",
+      "ja": "ただし ナビとの こうしん中は\nカスタムゲージがへっていくから\nすばやく かつ てきかくにな!",
+      "ko": "단 내비와 교신 중에는\n커스텀 게이지가 줄어드니\n빠르고 정확하게 하도록!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/16/literal/6",
+      "ja": "カスタムゲージがたまったら\nチップをスロットイン!\nナビにチップがてんそうされる!",
+      "ko": "커스텀 게이지가 차면\n칩을 슬롯 인!\n내비에게 칩이 전송된다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/16/literal/7",
+      "ja": "ただしゲージのたまりぐあいで\nつかえるチップはちがうんだ",
+      "ko": "단 게이지가 찬 정도에 따라\n쓸 수 있는 칩이 다르다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/16/literal/8",
+      "ja": "ゲージがきいろまで たまれば\nスタンダードチップ",
+      "ko": "게이지가 노란색까지 차면\n스탠다드 칩",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/16/literal/9",
+      "ja": "ゲージがあおいろまで たまれば\nメガクラスチップ",
+      "ko": "게이지가 파란색까지 차면\n메가 클래스 칩",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/17/literal/0",
+      "ja": "おっと・・・\nつうしんエラーのようだ・・・",
+      "ko": "이런...\n통신 에러인 모양이다...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/17/literal/1",
+      "ja": "チップゲートのせつぞくを\nかくにんしてくれたまえ\n",
+      "ko": "칩 게이트 접속을\n확인해 주게\n",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/17/literal/2",
+      "ja": "はい  ",
+      "ko": "예  ",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/17/literal/3",
+      "ja": "いいえ",
+      "ko": "아뇨",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/18/literal/0",
+      "ja": "チップゲートがささってないぞ!",
+      "ko": "칩 게이트가 꽂혀 있지 않다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/19/literal/0",
+      "ja": "チップゲートのせつぞくを\nかくにんしてくれたまえ\n",
+      "ko": "칩 게이트 접속을\n확인해 주게\n",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/19/literal/1",
+      "ja": "はい  ",
+      "ko": "예  ",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/19/literal/2",
+      "ja": "いいえ",
+      "ko": "아뇨",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/3/literal/0",
+      "ja": "1人ようのれんしゅうモードだ\nナビたちとのれんぞくバトルを\nかちぬこう!",
+      "ko": "1인용 연습 모드다\n내비들과의 연속 배틀을\n이겨 나가자!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/4/literal/0",
+      "ja": "つうしんたいせんモードだ\nともだちのナビと はくねつの\nオペレーションバトル!",
+      "ko": "통신 대전 모드다\n친구의 내비와 뜨거운\n오퍼레이션 배틀!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/5/literal/0",
+      "ja": "この名人 みずからが\nオペレーションバトルについての\nせつめいをしてあげるぞ!",
+      "ko": "이 명인이 직접\n오퍼레이션 배틀에 대해\n설명해 주겠다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/6/literal/0",
+      "ja": "おっと・・・\nつうしんエラーのようだ・・・",
+      "ko": "이런...\n통신 에러인 모양이다...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/7/literal/0",
+      "ja": "今 つうしんじょうたいを\nせいり しているところなんだ\nちょっと まってくれたまえ",
+      "ko": "지금 통신 상태를\n정리하고 있는 중이다\n잠깐 기다려 주게",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/8/literal/0",
+      "ja": "みごと トレーニングクリアだ!\nつぎはぜひ ともだちとの\nつうしんたいせんにいどむべし!",
+      "ko": "멋지게 트레이닝 클리어다!\n다음엔 꼭 친구와의\n통신 대전에 도전하도록!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/003/script/9/literal/0",
+      "ja": "ざんねんだったな・・・しかし!\nあきらめずにトライしてくれ!",
+      "ko": "아쉽게 됐군...하지만!\n포기하지 말고 도전해라!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "41fc28e7460252c14a2961893e31fefc4101d1ea0a0ba534ccbfae43f6acaaa6"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/10/literal/0",
+      "ja": "このモードは一人で\nあそぶモードなんだ!",
+      "ko": "이 모드는 혼자서\n즐기는 모드다!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/10/literal/1",
+      "ja": "つうしんケーブルをぬいてから\nえらんでくれたまえ!",
+      "ko": "통신 케이블을 뽑고 나서\n골라 주게!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/11/literal/0",
+      "ja": "まだナビのデータが\nトランスミッション\nされていないぞ",
+      "ko": "아직 내비 데이터가\n트랜스미션되지\n않았다",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/12/literal/0",
+      "ja": "ともだちの方は\nまだ じゅんび中みたいだね\nちょっとまってくれたまえ",
+      "ko": "친구 쪽은\n아직 준비 중인 모양이군\n잠깐 기다려 주게",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/13/literal/0",
+      "ja": "やったな!\nナイスオペレーションだったぞ!",
+      "ko": "해냈군!\n나이스 오퍼레이션이었다!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/134/literal/0",
+      "ja": "すべての改造をOFF",
+      "ko": "모든 개조를 OFF",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "9c49db39a74397943d85aa53067983141a502a1fdc10b8b505b84dc1356cc883",
+          "tpl_sha256": "2ce3f9a76c49acb8688321770b78d8d027521335e6fdbf1a899a37d69c1e5e63"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/135/literal/0",
+      "ja": "すべての改造をON",
+      "ko": "모든 개조를 ON",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "9c49db39a74397943d85aa53067983141a502a1fdc10b8b505b84dc1356cc883",
+          "tpl_sha256": "2ce3f9a76c49acb8688321770b78d8d027521335e6fdbf1a899a37d69c1e5e63"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/14/literal/0",
+      "ja": "ざんねんだったな・・・しかし!\nあきらめずにトライしてくれ!",
+      "ko": "아쉽게 됐군...하지만!\n포기하지 말고 도전해라!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/15/literal/0",
+      "ja": "オペレーションバトルへようこそ\nナビデータチップをさしてナビを\nトランスミッションしてくれ!",
+      "ko": "오퍼레이션 배틀에 어서 오게\n내비 데이터 칩을 꽂아서\n내비를 트랜스미션해 주게!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/16/literal/0",
+      "ja": "オペレーションバトルとは\nナビに しじをだしながら\nチップをおくって たたかう・・",
+      "ko": "오퍼레이션 배틀이란\n내비에게 지시를 내리며\n칩을 보내 싸우는 것...",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/16/literal/1",
+      "ja": "まさにオペレーターのたちばで\nバトルをするモードなんだ!",
+      "ko": "그야말로 오퍼레이터의\n입장에서 배틀하는 모드다!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/16/literal/10",
+      "ja": "ゲージがあかいろまで たまれば\nギガクラスチップが\nスロットインできるぞ!",
+      "ko": "게이지가 빨간색까지 차면\n기가 클래스 칩을\n슬롯 인 할 수 있다!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/16/literal/11",
+      "ja": "ただしチップごとに つかえる\nかいすうが きまっているから\nつかいどころをかんがえるんだぞ",
+      "ko": "단 칩마다 쓸 수 있는\n횟수가 정해져 있으니\n쓸 곳을 잘 생각하도록",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/16/literal/12",
+      "ja": "カスタムゲージはじかんで\nたまっていくが ダメージを\nうけると へってしまう・・・",
+      "ko": "커스텀 게이지는 시간이\n지나면 차지만 데미지를\n받으면 줄어들고 만다...",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/16/literal/13",
+      "ja": "うまくナビをコントロールして\nゲージをためていくことが\nしょうりへの ちかみちだな!",
+      "ko": "내비를 잘 컨트롤해서\n게이지를 모아 가는 것이\n승리로 가는 지름길이다!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/16/literal/14",
+      "ja": "さいごに Lボタンのきのうだが\n・・・これについてはヒミツだ\nキミの手でさぐってみてくれ!",
+      "ko": "마지막으로 L 버튼 기능인데\n...이건 비밀이다\n네 손으로 찾아내 보게!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/16/literal/15",
+      "ja": "名人からのせつめいはいじょうだ\nけんとうを いのっているぞ!",
+      "ko": "명인의 설명은 이상이다\n건투를 빈다!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/16/literal/2",
+      "ja": "ナビは きほんてきに\nじどうで こうどうしてくれるが",
+      "ko": "내비는 기본적으로\n자동으로 행동해 주지만",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/16/literal/3",
+      "ja": "十字ボタンの左右で\nナビを前後にゆうどうできるぞ",
+      "ko": "십자 버튼 좌우로\n내비를 앞뒤로 유도할 수 있다",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/16/literal/4",
+      "ja": "さらに\n十字ボタン下で作戦へんこう\n上でそうびのへんこう ができる",
+      "ko": "게다가\n십자 버튼 아래로 작전 변경\n위로는 장비 변경이 가능하다",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/16/literal/5",
+      "ja": "ただし ナビとの こうしん中は\nカスタムゲージがへっていくから\nすばやく かつ てきかくにな!",
+      "ko": "단 내비와 교신 중에는\n커스텀 게이지가 줄어드니\n빠르고 정확하게 하도록!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/16/literal/6",
+      "ja": "カスタムゲージがたまったら\nチップをスロットイン!\nナビにチップがてんそうされる!",
+      "ko": "커스텀 게이지가 차면\n칩을 슬롯 인!\n내비에게 칩이 전송된다!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/16/literal/7",
+      "ja": "ただしゲージのたまりぐあいで\nつかえるチップはちがうんだ",
+      "ko": "단 게이지가 찬 정도에 따라\n쓸 수 있는 칩이 다르다",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/16/literal/8",
+      "ja": "ゲージがきいろまで たまれば\nスタンダードチップ",
+      "ko": "게이지가 노란색까지 차면\n스탠다드 칩",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/16/literal/9",
+      "ja": "ゲージがあおいろまで たまれば\nメガクラスチップ",
+      "ko": "게이지가 파란색까지 차면\n메가 클래스 칩",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/17/literal/0",
+      "ja": "おっと・・・\nつうしんエラーのようだ・・・",
+      "ko": "이런...\n통신 에러인 모양이다...",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/17/literal/1",
+      "ja": "チップゲートのせつぞくを\nかくにんしてくれたまえ\n",
+      "ko": "칩 게이트 접속을\n확인해 주게\n",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/17/literal/2",
+      "ja": "はい  ",
+      "ko": "예  ",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/17/literal/3",
+      "ja": "いいえ",
+      "ko": "아뇨",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/18/literal/0",
+      "ja": "チップゲートがささってないぞ!",
+      "ko": "칩 게이트가 꽂혀 있지 않다!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/19/literal/0",
+      "ja": "チップゲートのせつぞくを\nかくにんしてくれたまえ\n",
+      "ko": "칩 게이트 접속을\n확인해 주게\n",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/19/literal/1",
+      "ja": "はい  ",
+      "ko": "예  ",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/19/literal/2",
+      "ja": "いいえ",
+      "ko": "아뇨",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/3/literal/0",
+      "ja": "1人ようのれんしゅうモードだ\nナビたちとのれんぞくバトルを\nかちぬこう!",
+      "ko": "1인용 연습 모드다\n내비들과의 연속 배틀을\n이겨 나가자!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/4/literal/0",
+      "ja": "つうしんたいせんモードだ\nともだちのナビと はくねつの\nオペレーションバトル!",
+      "ko": "통신 대전 모드다\n친구의 내비와 뜨거운\n오퍼레이션 배틀!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/5/literal/0",
+      "ja": "この名人 みずからが\nオペレーションバトルについての\nせつめいをしてあげるぞ!",
+      "ko": "이 명인이 직접\n오퍼레이션 배틀에 대해\n설명해 주겠다!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/6/literal/0",
+      "ja": "おっと・・・\nつうしんエラーのようだ・・・",
+      "ko": "이런...\n통신 에러인 모양이다...",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/7/literal/0",
+      "ja": "今 つうしんじょうたいを\nせいり しているところなんだ\nちょっと まってくれたまえ",
+      "ko": "지금 통신 상태를\n정리하고 있는 중이다\n잠깐 기다려 주게",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/8/literal/0",
+      "ja": "みごと トレーニングクリアだ!\nつぎはぜひ ともだちとの\nつうしんたいせんにいどむべし!",
+      "ko": "멋지게 트레이닝 클리어다!\n다음엔 꼭 친구와의\n통신 대전에 도전하도록!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    },
+    {
+      "id": "archive/004/script/9/literal/0",
+      "ja": "ざんねんだったな・・・しかし!\nあきらめずにトライしてくれ!",
+      "ko": "아쉽게 됐군...하지만!\n포기하지 말고 도전해라!",
+      "source_bindings": {
+        "red_sun": {
+          "payload_sha256": "0aa4b4dc77968daaa59f5330f531eaa3a60ab2b96947822e0008d28a1a57b620",
+          "tpl_sha256": "fb2084764d38121e56e6af8f4e20750ab1169d2f946355b518b3b18c9fce1235"
+        }
+      }
+    }
+  ]
+}

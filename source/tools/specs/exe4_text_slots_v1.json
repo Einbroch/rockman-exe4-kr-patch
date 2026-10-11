@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "scope": "decoded size caps for text archives with fixed RAM destinations; area text slots walked from the selector tables",
+ "evidence": "0x0804DF5C decodes main/sub/extra to 0x02030000/0x02033800/0x02034800; selectors 0x0804E3A8 (tables 0x0804E3F4 main, 0x0804E3FC extra) and 0x0804E414 (table 0x0804E440 sub); runtime field snapshot analysis/runtime/field_snap_01 and _ja hold whole archives 403/202/95 at the three slots",
+ "selector_hex": "f0b5041c5246126c107951799279134b1f78ba4201da0233fae75a780026802801d404268038084de4002d19",
+ "area_slots": [
+  {
+   "name": "main",
+   "depth": 3,
+   "limit": 14336
+  },
+  {
+   "name": "extra",
+   "depth": 2,
+   "limit": 8192
+  },
+  {
+   "name": "sub",
+   "depth": 2,
+   "limit": 4096
+  }
+ ],
+ "fixed": [
+  {
+   "archive": 7,
+   "limit": 8192,
+   "why": "mail bodies decoded to 0x02028000; the source ends at 0x02029E81, before the buffer at 0x0202A000"
+  },
+  {
+   "archive": 14,
+   "limit": 4096,
+   "why": "navi customizer lines decoded to 0x02028000; 0x02029000 is the next decode buffer (shop item text)"
+  },
+  {
+   "archive": 10,
+   "limit": 8192,
+   "why": "shop item descriptions decoded to 0x02029000; the source ends at 0x0202A914, 0x0202B000 is the next buffer"
+  }
+ ],
+ "profiles": {
+  "red_sun": {
+   "selector_offset": 320424,
+   "roots": {
+    "main": 320500,
+    "extra": 320508,
+    "sub": 320576
+   },
+   "fixed": {
+    "7": 7222560,
+    "14": 7239836,
+    "10": 7232404
+   }
+  },
+  "blue_moon": {
+   "selector_offset": 320372,
+   "roots": {
+    "main": 320448,
+    "extra": 320456,
+    "sub": 320524
+   },
+   "fixed": {
+    "7": 7221340,
+    "14": 7238616,
+    "10": 7231184
+   }
+  }
+ }
+}

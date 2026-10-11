@@ -1,0 +1,7746 @@
+{
+ "schema": 1,
+ "scope": "11 adopted short scripts only; whole-game decoder closure pending",
+ "supported_entries": [
+  {
+   "id": "archive/001/script/6",
+   "source": "プレイジカン",
+   "consumer": "shared-tile-save",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/7",
+   "source": "データライブラリ",
+   "consumer": "shared-tile-save",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/8",
+   "source": "バトルチップ",
+   "consumer": "shared-tile-save",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/9",
+   "source": "クレジット",
+   "consumer": "shared-tile-save",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/6",
+   "source": "プレイジカン",
+   "consumer": "shared-tile-save",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/7",
+   "source": "データライブラリ",
+   "consumer": "shared-tile-save",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/8",
+   "source": "バトルチップ",
+   "consumer": "shared-tile-save",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/9",
+   "source": "クレジット",
+   "consumer": "shared-tile-save",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/005/script/0",
+   "source": "フォルダ1",
+   "consumer": "shared-tile-and-normal-folder",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/005/script/1",
+   "source": "フォルダ2",
+   "consumer": "shared-tile-and-normal-folder",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/013/script/3",
+   "source": "_______熱斗のへや■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/062/script/1",
+   "source": "イヤホン",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/2",
+   "source": "リカバーバッチ",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/3",
+   "source": "電脳バット",
+   "consumer": "key-item-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/4",
+   "source": "なぞのデータ",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/5",
+   "source": "きどうデータA",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/6",
+   "source": "きどうデータB",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/7",
+   "source": "ミニトロフィー",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/8",
+   "source": "ファイアID",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/9",
+   "source": "かみきれ",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/10",
+   "source": "メモ",
+   "consumer": "key-item-name",
+   "max_cells": 2,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/11",
+   "source": "ヒントデータ",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/12",
+   "source": "1データ",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/13",
+   "source": "2データ",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/14",
+   "source": "3データ",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/15",
+   "source": "4データ",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/16",
+   "source": "5データ",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/17",
+   "source": "でんどうゴマ",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/18",
+   "source": "ひでんのデータ1",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/19",
+   "source": "ひでんのデータ2",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/20",
+   "source": "ひでんのデータ3",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/21",
+   "source": "ひでんのデータ4",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/22",
+   "source": "けんきゅうデータ",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/23",
+   "source": "ナナフシ オス",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/24",
+   "source": "ナナフシ メス",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/25",
+   "source": "かいいんてがた",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/26",
+   "source": "フリーパス",
+   "consumer": "key-item-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/27",
+   "source": "アイス",
+   "consumer": "key-item-name",
+   "max_cells": 3,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/28",
+   "source": "電脳ボンベ",
+   "consumer": "key-item-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/29",
+   "source": "しゅう子のカギ",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/30",
+   "source": "太陽センサー",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/31",
+   "source": "ミドルトロフィー",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/32",
+   "source": "ビッグトロフィー",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/33",
+   "source": "ネットパスポート",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/34",
+   "source": "カギデータA",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/35",
+   "source": "カギデータB",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/36",
+   "source": "カギデータC",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/37",
+   "source": "カギデータD",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/38",
+   "source": "かがみ",
+   "consumer": "key-item-name",
+   "max_cells": 3,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/39",
+   "source": "くし",
+   "consumer": "key-item-name",
+   "max_cells": 2,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/40",
+   "source": "たいぼく",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/41",
+   "source": "どうぞう",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/42",
+   "source": "こんしんの一撃",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/43",
+   "source": "キッスのあらし",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/44",
+   "source": "おせっきょう",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/45",
+   "source": "ウィザーモンキー",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/46",
+   "source": "ウィザーキャット",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/47",
+   "source": "ウィザードラゴン",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/48",
+   "source": "まほうふうじ",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/49",
+   "source": "はげしいダンス",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/50",
+   "source": "さむいダジャレ",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/51",
+   "source": "はなのよさ",
+   "consumer": "key-item-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/52",
+   "source": "ひっかき",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/53",
+   "source": "目のよさ",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/54",
+   "source": "つっこみ",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/55",
+   "source": "せんそう",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/56",
+   "source": "かんじょう",
+   "consumer": "key-item-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/57",
+   "source": "おわらい",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/58",
+   "source": "プライド",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/59",
+   "source": "ことり",
+   "consumer": "key-item-name",
+   "max_cells": 3,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/60",
+   "source": "ダンス",
+   "consumer": "key-item-name",
+   "max_cells": 3,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/61",
+   "source": "タンス",
+   "consumer": "key-item-name",
+   "max_cells": 3,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/62",
+   "source": "ゾンビ",
+   "consumer": "key-item-name",
+   "max_cells": 3,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/63",
+   "source": "おもちゃのぶひん",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/64",
+   "source": "ダンサー",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/65",
+   "source": "せいじか",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/66",
+   "source": "のうさぎょうロボ",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/67",
+   "source": "ガン・デル・ソル",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/68",
+   "source": "しんくのマフラー",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/69",
+   "source": "しんくのパンツ",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/70",
+   "source": "ワルシャーP37",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/71",
+   "source": "おてんこさま",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/72",
+   "source": "太陽の光",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/73",
+   "source": "月の光",
+   "consumer": "key-item-name",
+   "max_cells": 3,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/74",
+   "source": "おこんてさま",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/75",
+   "source": "てんまど",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/76",
+   "source": "たいよーー!!",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/77",
+   "source": "おかーさーん!",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/78",
+   "source": "おじさんのアタマ",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/79",
+   "source": "Cスライダー",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/80",
+   "source": "タウンキーデータ",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/81",
+   "source": "パパのてがみ",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/82",
+   "source": "サイバーおきょう",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/83",
+   "source": "電脳すいしょう",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/84",
+   "source": "こうくうけん",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/85",
+   "source": "ルームキー",
+   "consumer": "key-item-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/86",
+   "source": "ゆうきのあかし",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/87",
+   "source": "つよさのあかし",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/88",
+   "source": "えいちのあかし",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/89",
+   "source": "やさしさのあかし",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/90",
+   "source": "ヒグレヤのチラシ",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/91",
+   "source": "ヒグレヤ電脳キー",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/92",
+   "source": "そうげんのフエ",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/93",
+   "source": "ウイルスころし",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/94",
+   "source": "電脳スルメ",
+   "consumer": "key-item-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/95",
+   "source": "かいじょビデオ1",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/96",
+   "source": "かいじょビデオ2",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/97",
+   "source": "かいじょビデオ3",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/98",
+   "source": "ボムシューズ",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/99",
+   "source": "ゴミすてばのカギ",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/100",
+   "source": "はっしんき",
+   "consumer": "key-item-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/101",
+   "source": "めんじょう1",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/102",
+   "source": "めんじょう2",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/103",
+   "source": "めんじょう3",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/104",
+   "source": "かいもんデータ",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/105",
+   "source": "ウォーターガン",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/106",
+   "source": "しょうかバスター",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/107",
+   "source": "ショベル",
+   "consumer": "key-item-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/108",
+   "source": "ボードパーツ",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/109",
+   "source": "ジェットパーツ",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/110",
+   "source": "ウイングパーツ",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/111",
+   "source": "あかのカギ",
+   "consumer": "key-item-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/112",
+   "source": "あおのカギ",
+   "consumer": "key-item-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/113",
+   "source": "みどりのカギ",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/114",
+   "source": "きいろのカギ",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/115",
+   "source": "しろのカギ",
+   "consumer": "key-item-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/116",
+   "source": "くろのカギ",
+   "consumer": "key-item-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/117",
+   "source": "コピーキー",
+   "consumer": "key-item-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/118",
+   "source": "ふっかつのしずく",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/119",
+   "source": "ライオンのカギ",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/120",
+   "source": "のろいにんぎょう",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/121",
+   "source": "ネビュラコード",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/122",
+   "source": "りょうりにんキー",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/123",
+   "source": "しょくざい",
+   "consumer": "key-item-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/124",
+   "source": "やさしさデータ",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/125",
+   "source": "ジョーモンコード",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/126",
+   "source": "電脳シナイ",
+   "consumer": "key-item-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/127",
+   "source": "ミズガミサマ",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/128",
+   "source": "スピンホワイト",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/129",
+   "source": "スピンピンク",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/130",
+   "source": "スピンイエロー",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/131",
+   "source": "スピンレッド",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/132",
+   "source": "スピンブルー",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/133",
+   "source": "スピングリーン",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/144",
+   "source": "メイルのPコード",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/145",
+   "source": "デカオのPコード",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/146",
+   "source": "やいとのPコード",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/147",
+   "source": "ホテルのPコード",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/148",
+   "source": "アジーナコード",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/149",
+   "source": "アッフリクコード",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/150",
+   "source": "シャーロコード",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/151",
+   "source": "シェロPコード",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/152",
+   "source": "スペースPコード",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/153",
+   "source": "メイルのバナー",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/154",
+   "source": "デカオのバナー",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/155",
+   "source": "やいとのバナー",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/156",
+   "source": "ジョーモンバナー",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/157",
+   "source": "シェロバナー",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/158",
+   "source": "ホテルのバナー",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/159",
+   "source": "スペースバナー",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/160",
+   "source": "HPメモリ",
+   "consumer": "key-item-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/161",
+   "source": "かくちょうメモリ",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/162",
+   "source": "レギュラーUP1",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/163",
+   "source": "レギュラーUP2",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/164",
+   "source": "レギュラーUP3",
+   "consumer": "key-item-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/165",
+   "source": "サブメモリ",
+   "consumer": "key-item-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/176",
+   "source": "ミニエネルギー",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/177",
+   "source": "フルエネルギー",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/178",
+   "source": "シノビダッシュ",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/179",
+   "source": "アントラップ",
+   "consumer": "key-item-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/180",
+   "source": "エネミーサーチ",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/062/script/181",
+   "source": "オープンロック",
+   "consumer": "key-item-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/013/script/1",
+   "source": "_________秋原町■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/2",
+   "source": "_____熱斗のリビング■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/4",
+   "source": "______メイルのへや■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/5",
+   "source": "______デカオのへや■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/6",
+   "source": "______やいとのへや■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/7",
+   "source": "________ヒグレヤ■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/10",
+   "source": "____電気街1ちょうめ■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/11",
+   "source": "____電気街2ちょうめ■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/12",
+   "source": "_________ひろば■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/18",
+   "source": "___デンサンドームまえ■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/19",
+   "source": "______ドームろうか■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/20",
+   "source": "____ドームひかえしつ■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/21",
+   "source": "_______スタジアム■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/24",
+   "source": "___エントランスゲート■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/25",
+   "source": "____ちゅうおうひろば■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/26",
+   "source": "_______ひかえしつ■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/27",
+   "source": "__くうちゅうスタジアム■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/28",
+   "source": "____メルヒェンひろば■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/29",
+   "source": "__きゅうけつきのやかた■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/36",
+   "source": "_______アメロッパ■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/37",
+   "source": "__コロッセオアベニュー■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/38",
+   "source": "_______きゃくしつ■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/39",
+   "source": "__コロッセオひかえしつ■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/40",
+   "source": "_______コロッセオ■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/41",
+   "source": "________アジーナ■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/42",
+   "source": "_____アジーナいせき■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/43",
+   "source": "_______アッフリク■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/44",
+   "source": "________シャーロ■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/45",
+   "source": "____うちゅうセンター■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/50",
+   "source": "______かんそくしつ■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/51",
+   "source": "_______おくじょう■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/52",
+   "source": "________ANSA■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/53",
+   "source": "_____ANSAロビー■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/55",
+   "source": "___でんぱとうの電脳1■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/56",
+   "source": "___でんぱとうの電脳2■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/58",
+   "source": "_ぬいぐるみロボの電脳1■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/59",
+   "source": "_ぬいぐるみロボの電脳2■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/60",
+   "source": "_ぬいぐるみロボの電脳3■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/61",
+   "source": "_ぬいぐるみロボの電脳4■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/65",
+   "source": "_しょうわくせいの電脳1■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/66",
+   "source": "_しょうわくせいの電脳2■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/67",
+   "source": "_しょうわくせいの電脳3■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/68",
+   "source": "_しょうわくせいの電脳4■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/69",
+   "source": "___コントロールエリア■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/75",
+   "source": "_______熱斗のHP■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/76",
+   "source": "______メイルのHP■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/77",
+   "source": "______デカオのHP■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/78",
+   "source": "______やいとのHP■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/79",
+   "source": "______ホテルのHP■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/80",
+   "source": "シェロ・カスティロのHP■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/81",
+   "source": "__ジョーモン電気のHP■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/82",
+   "source": "_うちゅうセンターのHP■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/83",
+   "source": "______レンジの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/84",
+   "source": "_____ステレオの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/85",
+   "source": "____タコヤキきの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/86",
+   "source": "_ドームNBマシンの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/87",
+   "source": "___でんどうゴマの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/88",
+   "source": "えきしょうモニターの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/89",
+   "source": "_シェロNBマシンの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/90",
+   "source": "_____ぶつぞうの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/91",
+   "source": "____ヌポポぞうの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/92",
+   "source": "___コンピュータの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/93",
+   "source": "____ぬいぐるみの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/94",
+   "source": "_コロッセオNBMの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/95",
+   "source": "___ライオンぞうの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/96",
+   "source": "_____イヌ小屋の電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/97",
+   "source": "_____ゲームきの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/98",
+   "source": "_____じはんきの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/100",
+   "source": "__カードリーダーの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/101",
+   "source": "_____すいどうの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/102",
+   "source": "____けんばいきの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/103",
+   "source": "______やたいの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/104",
+   "source": "____アンテナの電脳1■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/105",
+   "source": "____アンテナの電脳2■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/106",
+   "source": "____アンテナの電脳3■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/107",
+   "source": "____アンテナの電脳4■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/108",
+   "source": "_____だいぶつの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/109",
+   "source": "____めがみぞうの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/110",
+   "source": "___えいゆうぞうの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/111",
+   "source": "クッキングマシンの電脳■",
+   "consumer": "shared-tile-place",
+   "max_cells": 12,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/116",
+   "source": "__ミズガミサマの電脳1■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/117",
+   "source": "__ミズガミサマの電脳2■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/118",
+   "source": "__ミズガミサマの電脳3■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/119",
+   "source": "__ミズガミサマの電脳4■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/120",
+   "source": "__ミズガミサマの電脳5■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/121",
+   "source": "__ミズガミサマの電脳6■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/122",
+   "source": "__ミズガミサマの電脳7■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/123",
+   "source": "__ミズガミサマの電脳8■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/124",
+   "source": "__ミズガミサマの電脳9■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/125",
+   "source": "_ミズガミサマの電脳10■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/126",
+   "source": "_ミズガミサマの電脳11■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/127",
+   "source": "_ミズガミサマの電脳12■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/128",
+   "source": "_ミズガミサマの電脳13■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/129",
+   "source": "_ミズガミサマの電脳14■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/130",
+   "source": "_ミズガミサマの電脳15■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/131",
+   "source": "_ミズガミサマの電脳16■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/132",
+   "source": "______秋原エリア1■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/133",
+   "source": "______秋原エリア2■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/134",
+   "source": "______秋原エリア3■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/137",
+   "source": "_____タウンエリア1■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/138",
+   "source": "_____タウンエリア2■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/139",
+   "source": "_____タウンエリア3■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/140",
+   "source": "_____タウンエリア4■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/142",
+   "source": "_____パークエリア1■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/143",
+   "source": "_____パークエリア2■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/144",
+   "source": "_____パークエリア3■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/147",
+   "source": "_____アジーナエリア■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/148",
+   "source": "____アメロッパエリア■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/149",
+   "source": "____アッフリクエリア■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/150",
+   "source": "_____シャーロエリア■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/152",
+   "source": "__ウラインターネット1■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/153",
+   "source": "__ウラインターネット2■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/154",
+   "source": "__ウラインターネット3■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/155",
+   "source": "__ウラインターネット4■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/156",
+   "source": "__ウラインターネット5■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/157",
+   "source": "__ウラインターネット6■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/158",
+   "source": "____ブラックアース1■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/159",
+   "source": "____ブラックアース2■",
+   "consumer": "shared-tile-place",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/178",
+   "source": "たいせんせいせき",
+   "consumer": "shared-tile-network",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/180",
+   "source": "メニュー",
+   "consumer": "shared-tile-network",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/181",
+   "source": "ネットバトル",
+   "consumer": "shared-tile-network",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/182",
+   "source": "コンペア",
+   "consumer": "shared-tile-network",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/183",
+   "source": "トレード",
+   "consumer": "shared-tile-network",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/184",
+   "source": "ひかえしつ",
+   "consumer": "shared-tile-network",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/185",
+   "source": "シングルバトル",
+   "consumer": "shared-tile-network",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/186",
+   "source": "トリプルバトル",
+   "consumer": "shared-tile-network",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/188",
+   "source": "れんしゅう",
+   "consumer": "shared-tile-network",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/189",
+   "source": "ほんばん",
+   "consumer": "shared-tile-network",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/190",
+   "source": "ライブラリコンペア",
+   "consumer": "shared-tile-network",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/191",
+   "source": "レコードコンペア",
+   "consumer": "shared-tile-network",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/192",
+   "source": "バトルチップ",
+   "consumer": "shared-tile-network",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/194",
+   "source": "うけつけ",
+   "consumer": "shared-tile-network",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/195",
+   "source": "えんせい",
+   "consumer": "shared-tile-network",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/177",
+   "source": "ナシ",
+   "consumer": "link-row-parser",
+   "max_cells": 2,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/013/script/242",
+   "source": [
+    "コ"
+   ],
+   "consumer": "shared-tile-place",
+   "max_cells": 1,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/179",
+   "source": [
+    "   ",
+    "戦",
+    "勝"
+   ],
+   "consumer": "shared-tile-network",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/005/script/2",
+   "source": "ヘッポコフォルダ",
+   "consumer": "shared-tile-and-normal-folder",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/005/script/3",
+   "source": "オマケフォルダ",
+   "consumer": "shared-tile-and-normal-folder",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/005/script/4",
+   "source": "ミナライフォルダ",
+   "consumer": "shared-tile-and-normal-folder",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/005/script/5",
+   "source": "メイジンフォルダ",
+   "consumer": "shared-tile-and-normal-folder",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/005/script/6",
+   "source": "ヘッポコフォルダ",
+   "consumer": "shared-tile-and-normal-folder",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/005/script/7",
+   "source": "ヘッポコフォルダ",
+   "consumer": "shared-tile-and-normal-folder",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/005/script/10",
+   "source": "リュック",
+   "consumer": "shared-tile-and-normal-folder",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/1",
+   "source": "スーパーアーマー",
+   "consumer": "program-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/2",
+   "source": "カスタム1",
+   "consumer": "program-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/3",
+   "source": "カスタム2",
+   "consumer": "program-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/4",
+   "source": "メガフォルダ1",
+   "consumer": "program-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/5",
+   "source": "メガフォルダ2",
+   "consumer": "program-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/6",
+   "source": "ギガフォルダ1",
+   "consumer": "program-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/7",
+   "source": "ファーストバリア",
+   "consumer": "program-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/8",
+   "source": "シールド",
+   "consumer": "program-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/9",
+   "source": "リフレクト",
+   "consumer": "program-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/10",
+   "source": "カワリミマジック",
+   "consumer": "program-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/11",
+   "source": "フロートシューズ",
+   "consumer": "program-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/12",
+   "source": "エアシューズ",
+   "consumer": "program-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/13",
+   "source": "アンダーシャツ",
+   "consumer": "program-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/14",
+   "source": "シノビダッシュ",
+   "consumer": "program-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/15",
+   "source": "オイルボディ",
+   "consumer": "program-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/16",
+   "source": "アイムフィッシュ",
+   "consumer": "program-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/17",
+   "source": "バッテリーモード",
+   "consumer": "program-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/18",
+   "source": "ジャングルランド",
+   "consumer": "program-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/19",
+   "source": "コレクターズアイ",
+   "consumer": "program-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/20",
+   "source": "ユーモアセンス",
+   "consumer": "program-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/21",
+   "source": "バスターパック",
+   "consumer": "program-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/22",
+   "source": "ボディパック",
+   "consumer": "program-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/23",
+   "source": "サイトバッチ",
+   "consumer": "program-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/24",
+   "source": "バグストッパー",
+   "consumer": "program-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/25",
+   "source": "ソウルクリーナー",
+   "consumer": "program-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/26",
+   "source": "ラッシュサポート",
+   "consumer": "program-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/27",
+   "source": "ビートサポート",
+   "consumer": "program-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/28",
+   "source": "タンゴサポート",
+   "consumer": "program-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/29",
+   "source": "ヒートウエポン",
+   "consumer": "program-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/30",
+   "source": "アクアウエポン",
+   "consumer": "program-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/31",
+   "source": "エレキウエポン",
+   "consumer": "program-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/32",
+   "source": "ウッドウエポン",
+   "consumer": "program-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/33",
+   "source": "インビジブル",
+   "consumer": "program-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/34",
+   "source": "アタック+1",
+   "consumer": "program-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/35",
+   "source": "ラピッド+1",
+   "consumer": "program-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/36",
+   "source": "チャージ+1",
+   "consumer": "program-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/37",
+   "source": "アタックMAX",
+   "consumer": "program-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/38",
+   "source": "ラピッドMAX",
+   "consumer": "program-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/39",
+   "source": "チャージMAX",
+   "consumer": "program-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/011/script/40",
+   "source": "ウエポンLV+1",
+   "consumer": "program-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/001/script/61",
+   "source": [
+    "アタック   LV"
+   ],
+   "consumer": "shared-tile-status",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/62",
+   "source": [
+    "ラピッド   LV"
+   ],
+   "consumer": "shared-tile-status",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/63",
+   "source": [
+    "チャージ   LV"
+   ],
+   "consumer": "shared-tile-status",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/73",
+   "source": [
+    "レギュラー容量 ",
+    "[MB]"
+   ],
+   "consumer": "shared-tile-status",
+   "max_cells": 12,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/74",
+   "source": [
+    "メガクラス枚数 ",
+    "枚"
+   ],
+   "consumer": "shared-tile-status",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/75",
+   "source": [
+    "ギガクラス枚数 ",
+    "枚"
+   ],
+   "consumer": "shared-tile-status",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/140",
+   "source": "ためうち  チャージS",
+   "consumer": "shared-tile-status",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/120",
+   "source": "スタンダードチップ",
+   "consumer": "shared-tile-library",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/121",
+   "source": "メガクラスチップ",
+   "consumer": "shared-tile-library",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/122",
+   "source": "ギガクラスチップ",
+   "consumer": "shared-tile-library",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/123",
+   "source": "P.Aメモ",
+   "consumer": "shared-tile-library",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/125",
+   "source": "シークレット",
+   "consumer": "shared-tile-library",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/0",
+   "source": "パパ______",
+   "consumer": "mail-header-name",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/1",
+   "source": "熱斗______",
+   "consumer": "mail-header-name",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/2",
+   "source": "ソウルユニゾン",
+   "consumer": "mail-subject",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/4",
+   "source": "光熱斗_____",
+   "consumer": "mail-header-name",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/5",
+   "source": "チサオはあずかった",
+   "consumer": "mail-subject",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/6",
+   "source": "チサオ_____",
+   "consumer": "mail-header-name",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/7",
+   "source": "熱斗くん____",
+   "consumer": "mail-header-name",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/8",
+   "source": "たちゅけて",
+   "consumer": "mail-subject",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/9",
+   "source": "ジョーモン電気_",
+   "consumer": "mail-header-name",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/10",
+   "source": "光熱斗さま___",
+   "consumer": "mail-header-name",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/11",
+   "source": "PETのメンテナンス",
+   "consumer": "mail-subject",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/12",
+   "source": "デンサンめるまが",
+   "consumer": "mail-subject",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/13",
+   "source": "光熱斗さま___",
+   "consumer": "mail-header-name",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/14",
+   "source": "今日のうんせい!!",
+   "consumer": "mail-subject",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/15",
+   "source": "NNBきょうかい_",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/16",
+   "source": "光熱斗さま____",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/17",
+   "source": "おしらせ",
+   "consumer": "mail-subject",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/18",
+   "source": "ママ_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/19",
+   "source": "熱斗_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/20",
+   "source": "かえってらっしゃい",
+   "consumer": "mail-subject",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/21",
+   "source": "WNBきょうかい_",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/22",
+   "source": "光熱斗さま____",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/23",
+   "source": "まちあわせばしょ",
+   "consumer": "mail-subject",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/24",
+   "source": "ロール______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/25",
+   "source": "光熱斗______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/26",
+   "source": "ちょうせんじょう",
+   "consumer": "mail-subject",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/27",
+   "source": "デンサンニュース_",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/28",
+   "source": "秋原ML_____",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/29",
+   "source": "ウイルスチェック",
+   "consumer": "mail-subject",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/30",
+   "source": "サロマ_",
+   "consumer": "mail-header-name",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/31",
+   "source": "光熱斗______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/32",
+   "source": "おひさしぶりです",
+   "consumer": "mail-subject",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/33",
+   "source": "サロマ_",
+   "consumer": "mail-header-name",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/34",
+   "source": "光熱斗______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/35",
+   "source": "チカラをかしてください",
+   "consumer": "mail-subject",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/36",
+   "source": "パパ_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/37",
+   "source": "熱斗_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/38",
+   "source": "ナビカスタマイザー",
+   "consumer": "mail-subject",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/39",
+   "source": "ママ_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/40",
+   "source": "熱斗_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/41",
+   "source": "どうしたらいいの!?",
+   "consumer": "mail-subject",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/42",
+   "source": "ジャック・ボマー_",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/43",
+   "source": "光熱斗______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/44",
+   "source": "よういができたらきな!",
+   "consumer": "mail-subject",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/45",
+   "source": "Cマスター____",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/46",
+   "source": "光熱斗______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/47",
+   "source": "おこまりのようだな",
+   "consumer": "mail-subject",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/48",
+   "source": "パパ_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/49",
+   "source": "熱斗_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/50",
+   "source": "ガッツソウル",
+   "consumer": "mail-subject",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/51",
+   "source": "パパ_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/52",
+   "source": "熱斗_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/53",
+   "source": "ファイアソウル",
+   "consumer": "mail-subject",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/54",
+   "source": "パパ_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/55",
+   "source": "熱斗_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/56",
+   "source": "ロールソウル",
+   "consumer": "mail-subject",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/57",
+   "source": "パパ_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/58",
+   "source": "熱斗_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/59",
+   "source": "ウインドソウル",
+   "consumer": "mail-subject",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/60",
+   "source": "パパ_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/61",
+   "source": "熱斗_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/62",
+   "source": "サンダーソウル",
+   "consumer": "mail-subject",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/63",
+   "source": "パパ_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/64",
+   "source": "熱斗_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/65",
+   "source": "サーチソウル",
+   "consumer": "mail-subject",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/66",
+   "source": "パパ_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/67",
+   "source": "熱斗_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/68",
+   "source": "アクアソウル",
+   "consumer": "mail-subject",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/69",
+   "source": "パパ_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/70",
+   "source": "熱斗_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/71",
+   "source": "ナンバーソウル",
+   "consumer": "mail-subject",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/72",
+   "source": "パパ_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/73",
+   "source": "熱斗_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/74",
+   "source": "ウッドソウル",
+   "consumer": "mail-subject",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/75",
+   "source": "パパ_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/76",
+   "source": "熱斗_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/77",
+   "source": "メタルソウル",
+   "consumer": "mail-subject",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/78",
+   "source": "パパ_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/79",
+   "source": "熱斗_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/80",
+   "source": "ジャンクソウル",
+   "consumer": "mail-subject",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/81",
+   "source": "パパ_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/82",
+   "source": "熱斗_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/83",
+   "source": "ブルースソウル",
+   "consumer": "mail-subject",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/84",
+   "source": "伊集院炎山____",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/85",
+   "source": "光熱斗______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/86",
+   "source": "ウラだ",
+   "consumer": "mail-subject",
+   "max_cells": 3,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/87",
+   "source": "きしょうだい___",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/88",
+   "source": "せんしゅかくい__",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/89",
+   "source": "いじょうきしょう",
+   "consumer": "mail-subject",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/90",
+   "source": "やいと______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/91",
+   "source": "光くん______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/92",
+   "source": "たのんだわよ!",
+   "consumer": "mail-subject",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/93",
+   "source": "デカオ______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/94",
+   "source": "熱斗_______",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/95",
+   "source": "さすがだぜ!",
+   "consumer": "mail-subject",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/96",
+   "source": "ジョーモン電気__",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/97",
+   "source": "光熱斗さま____",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/98",
+   "source": "おしらせ",
+   "consumer": "mail-subject",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/99",
+   "source": "ARPホテル___",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/100",
+   "source": "光熱斗さま____",
+   "consumer": "mail-header-name",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/006/script/101",
+   "source": "おきゃくさまかくい",
+   "consumer": "mail-subject",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/0",
+   "source": "きかく",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 3,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/1",
+   "source": "        やすま まさひろ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/2",
+   "source": "シナリオ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/3",
+   "source": "        えぐち まさかず",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/4",
+   "source": "        やました ひろし",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/5",
+   "source": "キャラクターデザイン",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/6",
+   "source": "        いしはら ゆうじ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/7",
+   "source": "        ありま きょうこ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/8",
+   "source": "          かじ はやと",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/9",
+   "source": "レーザーマンデザイン",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/10",
+   "source": "        のなか よしひと",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/11",
+   "source": "ケンドーマンデザイン",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/12",
+   "source": "         こいど ゆうた",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/13",
+   "source": "ビデオマンデザイン",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/14",
+   "source": "        しみず ようすけ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/15",
+   "source": "オブジェクト",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/16",
+   "source": "        さとう かずたか",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/17",
+   "source": "        なかやま いくお",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/18",
+   "source": "        なかしま ときこ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/19",
+   "source": "スクロール",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/20",
+   "source": "          きじま みき",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/21",
+   "source": "        よしおか まゆみ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/22",
+   "source": "       ふじさき じゅんこ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/23",
+   "source": "プログラム",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/24",
+   "source": "       しんがき ひでかず",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/25",
+   "source": "        まつだ こうえつ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/26",
+   "source": "        さかの みつのり",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/27",
+   "source": "         むらた ひさこ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/28",
+   "source": "        あない としひで",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/29",
+   "source": "         いくた しんや",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/30",
+   "source": "おんがく",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/31",
+   "source": "       ほりやま としひこ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/32",
+   "source": "こうかおん",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/33",
+   "source": "        あまぎし しんじ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/34",
+   "source": "オフィシャルイラスト",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/35",
+   "source": "        こまき しんすけ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/36",
+   "source": "プラグインエフェクト",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/37",
+   "source": "        ひきた ひろかず",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/38",
+   "source": "マニュアルせいさく",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/39",
+   "source": "        いわさき あけみ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/40",
+   "source": "バグチェックとうかつ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/41",
+   "source": "         なんば まさと",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/42",
+   "source": "スペシャルサンクス!",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/43",
+   "source": "         くろさわ しん",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/44",
+   "source": "        かわの よしのり",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/45",
+   "source": "        なかむら ひろこ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/46",
+   "source": "        ちょうや かずお",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/47",
+   "source": "        ふなはら くにお",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/48",
+   "source": "         うかい さとし",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/49",
+   "source": "       ひぐらし りゅうじ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/50",
+   "source": "       はしなが ともゆき",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/51",
+   "source": "         やすだ ゆうこ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/52",
+   "source": "        きたはら たかし",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/53",
+   "source": "        みなみで なおと",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/54",
+   "source": "          たなか さら",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/55",
+   "source": "        ささき だいすけ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/56",
+   "source": "  コナミJPN こじま ひでお",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/57",
+   "source": " コナミJPN ひなみ まさひろ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/58",
+   "source": "     ほんやくぶたいのみんな",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/59",
+   "source": "    ロックマンクラブのみんな",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/60",
+   "source": "         さるがくちょう",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/61",
+   "source": "だいにかいはつカンパニーのみんな",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/62",
+   "source": "        カプコンのみんな",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/63",
+   "source": "プロデューサー",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/64",
+   "source": "        いなふね けいじ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/65",
+   "source": [
+    "クリアじかん     ",
+    ":"
+   ],
+   "consumer": "credits-rom-renderer",
+   "max_cells": 12,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/66",
+   "source": [
+    "データライブラリ S  ",
+    "枚"
+   ],
+   "consumer": "credits-rom-renderer",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/67",
+   "source": [
+    "         M  ",
+    "枚"
+   ],
+   "consumer": "credits-rom-renderer",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/68",
+   "source": [
+    "         G  ",
+    "枚"
+   ],
+   "consumer": "credits-rom-renderer",
+   "max_cells": 13,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/792/script/69",
+   "source": "ロックマン エグゼ4  スタッフ",
+   "consumer": "credits-rom-renderer",
+   "max_cells": 16,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/12",
+   "source": [
+    "枚"
+   ],
+   "consumer": "shared-tile-save",
+   "max_cells": 1,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/049/script/0",
+   "source": "ロックマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/1",
+   "source": "メットール",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/2",
+   "source": "メットールEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/3",
+   "source": "メットール2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/4",
+   "source": "メットール2EX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/5",
+   "source": "メットール3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/6",
+   "source": "メットール3EX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/7",
+   "source": "ボルケルギア",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/8",
+   "source": "ボルケルギアEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/9",
+   "source": "ボルザーギア",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/10",
+   "source": "ボルザーギアEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/11",
+   "source": "ボルドロギア",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/12",
+   "source": "ボルドロギアEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/13",
+   "source": "ビリー",
+   "consumer": "battle-enemy-name",
+   "max_cells": 3,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/14",
+   "source": "ビリーEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/15",
+   "source": "ビリーズー",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/16",
+   "source": "ビリーズーEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/17",
+   "source": "ビリーニック",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/18",
+   "source": "ビリーニックEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/19",
+   "source": "ガイアント",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/20",
+   "source": "ガイアントEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/21",
+   "source": "ガイアンドラ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/22",
+   "source": "ガイアンドラEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/23",
+   "source": "ガイアンバン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/24",
+   "source": "ガイアンバンEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/25",
+   "source": "ガルー",
+   "consumer": "battle-enemy-name",
+   "max_cells": 3,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/26",
+   "source": "ガルーEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/27",
+   "source": "ガルーバー",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/28",
+   "source": "ガルーバーEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/29",
+   "source": "ガルーダン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/30",
+   "source": "ガルーダンEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/31",
+   "source": "エビロン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/32",
+   "source": "エビロンEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/33",
+   "source": "エビデル",
+   "consumer": "battle-enemy-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/34",
+   "source": "エビデルEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/35",
+   "source": "エビサイド",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/36",
+   "source": "エビサイドEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/37",
+   "source": "ラウンダ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/38",
+   "source": "ラウンダEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/39",
+   "source": "ラウンダラウ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/40",
+   "source": "ラウンダラウEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/41",
+   "source": "ラウンダバー",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/42",
+   "source": "ラウンダバーEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/43",
+   "source": "ララパッパ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/44",
+   "source": "ララチューバ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/45",
+   "source": "ララボーン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/46",
+   "source": "ララミュート",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/47",
+   "source": "ララホルン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/48",
+   "source": "ララパッパEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/49",
+   "source": "マグテクト",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/50",
+   "source": "マグテクトEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/51",
+   "source": "マグテクトビー",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/52",
+   "source": "マグテクトビーEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 9,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/53",
+   "source": "マグテクトシー",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/54",
+   "source": "マグテクトシーEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 9,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/55",
+   "source": "プルメロ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/56",
+   "source": "プルメロEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/57",
+   "source": "プルタロ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/58",
+   "source": "プルタロEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/59",
+   "source": "プルギロ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/60",
+   "source": "プルギロEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/61",
+   "source": "ダーマ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 3,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/62",
+   "source": "ダーマEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/63",
+   "source": "ダーガ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 3,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/64",
+   "source": "ダーガEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/65",
+   "source": "ダーダラ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/66",
+   "source": "ダーダラEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/67",
+   "source": "キルブー",
+   "consumer": "battle-enemy-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/68",
+   "source": "キルブーEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/69",
+   "source": "キルブーテ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/70",
+   "source": "キルブーテEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/71",
+   "source": "キルブーロ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/72",
+   "source": "キルブーロEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/73",
+   "source": "ウェザース",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/74",
+   "source": "ウェザール",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/75",
+   "source": "ウェザーム",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/76",
+   "source": "ウェザーネ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/77",
+   "source": "ウェザーブ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/78",
+   "source": "ウェザースEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/79",
+   "source": "クーモス",
+   "consumer": "battle-enemy-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/80",
+   "source": "クーモスEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/81",
+   "source": "クモモート",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/82",
+   "source": "クモモートEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/83",
+   "source": "クモゲイツ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/84",
+   "source": "クモゲイツEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/85",
+   "source": "ゲイラーク",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/86",
+   "source": "ゲイラークEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/87",
+   "source": "ゲイラス",
+   "consumer": "battle-enemy-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/88",
+   "source": "ゲイラスEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/89",
+   "source": "ゲイラビル",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/90",
+   "source": "ゲイラビルEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/91",
+   "source": "サーキラー",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/92",
+   "source": "サーキラーEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/93",
+   "source": "サーキライル",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/94",
+   "source": "サーキライルEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/95",
+   "source": "サーキランド",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/96",
+   "source": "サーキランドEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/97",
+   "source": "マルモコ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/98",
+   "source": "マルモコEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/99",
+   "source": "ミルモコ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/100",
+   "source": "ミルモコEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/101",
+   "source": "ゲルモコ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/102",
+   "source": "ゲルモコEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/103",
+   "source": "ウォーラ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/104",
+   "source": "ウォーラEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/105",
+   "source": "ウォーラッド",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/106",
+   "source": "ウォーラッドEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/107",
+   "source": "ウォーゴドン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/108",
+   "source": "ウォーゴドンEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/109",
+   "source": "エレンプラ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/110",
+   "source": "エレンプラ2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/111",
+   "source": "エレンプラ3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/112",
+   "source": "エレンプラ4",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/113",
+   "source": "エレンプラ5",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/114",
+   "source": "エレンプラEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/115",
+   "source": "ボムボーイ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/116",
+   "source": "ボムボーイEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/117",
+   "source": "ボムワーカー",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/118",
+   "source": "ボムワーカーEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/119",
+   "source": "ボムレイバー",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/120",
+   "source": "ボムレイバーEX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/121",
+   "source": "ウインドボックス",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/122",
+   "source": "バキュームファン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/123",
+   "source": "ウインドボックス2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 9,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/124",
+   "source": "バキュームファン2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 9,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/125",
+   "source": "ウインドボックス3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 9,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/126",
+   "source": "バキュームファン3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 9,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/128",
+   "source": "ロール",
+   "consumer": "battle-enemy-name",
+   "max_cells": 3,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/129",
+   "source": "ロールV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/130",
+   "source": "ロールV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/131",
+   "source": "ロールSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/132",
+   "source": "ガッツマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/133",
+   "source": "ガッツマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/134",
+   "source": "ガッツマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/135",
+   "source": "ガッツマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/136",
+   "source": "ウインドマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/137",
+   "source": "ウインドマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/138",
+   "source": "ウインドマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/139",
+   "source": "ウインドマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/140",
+   "source": "サーチマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/141",
+   "source": "サーチマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/142",
+   "source": "サーチマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/143",
+   "source": "サーチマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/144",
+   "source": "ファイアマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/145",
+   "source": "ファイアマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/146",
+   "source": "ファイアマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/147",
+   "source": "ファイアマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/148",
+   "source": "サンダーマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/149",
+   "source": "サンダーマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/150",
+   "source": "サンダーマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/151",
+   "source": "サンダーマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/152",
+   "source": "ブルース",
+   "consumer": "battle-enemy-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/153",
+   "source": "ブルースV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/154",
+   "source": "ブルースV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/155",
+   "source": "ブルースSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/156",
+   "source": "ナンバーマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/157",
+   "source": "ナンバーマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/158",
+   "source": "ナンバーマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/159",
+   "source": "ナンバーマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/160",
+   "source": "メタルマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/161",
+   "source": "メタルマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/162",
+   "source": "メタルマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/163",
+   "source": "メタルマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/164",
+   "source": "ジャンクマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/165",
+   "source": "ジャンクマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/166",
+   "source": "ジャンクマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/167",
+   "source": "ジャンクマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/168",
+   "source": "アクアマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/169",
+   "source": "アクアマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/170",
+   "source": "アクアマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/171",
+   "source": "アクアマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/172",
+   "source": "ウッドマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/173",
+   "source": "ウッドマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/174",
+   "source": "ウッドマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/175",
+   "source": "ウッドマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/176",
+   "source": "タップマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/177",
+   "source": "タップマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/178",
+   "source": "タップマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/179",
+   "source": "タップマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/180",
+   "source": "シェードマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/181",
+   "source": "シェードマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/182",
+   "source": "シェードマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/183",
+   "source": "シェードマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/184",
+   "source": "バーナーマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/185",
+   "source": "バーナーマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/186",
+   "source": "バーナーマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/187",
+   "source": "バーナーマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/188",
+   "source": "コールドマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/189",
+   "source": "コールドマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/190",
+   "source": "コールドマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/191",
+   "source": "コールドマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/192",
+   "source": "スパークマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/193",
+   "source": "スパークマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/194",
+   "source": "スパークマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/195",
+   "source": "スパークマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/196",
+   "source": "ヒールナビ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/197",
+   "source": "ヒールナビ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/198",
+   "source": "ヒールナビ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/199",
+   "source": "ヒールナビSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/200",
+   "source": "ノーマルナビ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/201",
+   "source": "ノーマルナビ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/202",
+   "source": "ノーマルナビ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/203",
+   "source": "ノーマルナビ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/204",
+   "source": "ヒールナビ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/205",
+   "source": "ヒールナビ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/206",
+   "source": "ヒールナビ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/207",
+   "source": "ヒールナビSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/208",
+   "source": "レーザーマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/209",
+   "source": "レーザーマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/210",
+   "source": "レーザーマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/211",
+   "source": "レーザーマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/212",
+   "source": "ケンドーマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/213",
+   "source": "ケンドーマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/214",
+   "source": "ケンドーマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/215",
+   "source": "ケンドーマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/216",
+   "source": "ビデオマン",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/217",
+   "source": "ビデオマンV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/218",
+   "source": "ビデオマンV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/219",
+   "source": "ビデオマンSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/220",
+   "source": "ナビシャドー",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/221",
+   "source": "ナビシャドーSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/222",
+   "source": "ナビブラック",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/223",
+   "source": "ナビブラックSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/224",
+   "source": "デューオ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/225",
+   "source": "デューオV2",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/226",
+   "source": "デューオV3",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/227",
+   "source": "デューオSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/228",
+   "source": "フォルテ",
+   "consumer": "battle-enemy-name",
+   "max_cells": 4,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/229",
+   "source": "フォルテSP",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/230",
+   "source": "フォルテXX",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/240",
+   "source": "ロックマンDS",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/241",
+   "source": "ロールDS",
+   "consumer": "battle-enemy-name",
+   "max_cells": 5,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/242",
+   "source": "ガッツマンDS",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/243",
+   "source": "ウインドマンDS",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/244",
+   "source": "サーチマンDS",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/245",
+   "source": "ファイアマンDS",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/246",
+   "source": "サンダーマンDS",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/247",
+   "source": "ブルースDS",
+   "consumer": "battle-enemy-name",
+   "max_cells": 6,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/248",
+   "source": "ナンバーマンDS",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/249",
+   "source": "メタルマンDS",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/250",
+   "source": "ジャンクマンDS",
+   "consumer": "battle-enemy-name",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/251",
+   "source": "アクアマンDS",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/049/script/252",
+   "source": "ウッドマンDS",
+   "consumer": "battle-enemy-name",
+   "max_cells": 7,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/001/script/40",
+   "source": "HPを50かいふく!",
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/41",
+   "source": "HPをマックスまで\nかいふく!",
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 15,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/42",
+   "source": "しばらくのあいだ\nよわいウイルスと\nであわなくなる",
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 25,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/43",
+   "source": "ミステリーデータに\nかかったワナをはずす",
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 20,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/44",
+   "source": "ちょくぜんに であった\nテキと、もういちど\nであいやすくなる",
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 30,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/45",
+   "source": "セキュリティのかかった\nミステリーデータを\nかいせきする",
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 28,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/119",
+   "source": "改造",
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 2,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/141",
+   "source": [
+    "ためうち ヒートLV"
+   ],
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/142",
+   "source": [
+    "ためうち アクアLV"
+   ],
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/143",
+   "source": [
+    "ためうち エレキLV"
+   ],
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/144",
+   "source": [
+    "ためうち ウッドLV"
+   ],
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/145",
+   "source": "ためうち インビジブル",
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/146",
+   "source": "ためうち   キューブ",
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/147",
+   "source": "ためうち みずてっぽう",
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/148",
+   "source": "ためうち     はな",
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/149",
+   "source": "ためうち   かいぞう",
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/159",
+   "source": [
+    "      -",
+    "勝"
+   ],
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/160",
+   "source": [
+    "      +",
+    "勝"
+   ],
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/161",
+   "source": "VS BM しょうり数",
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/162",
+   "source": "VS RS しょうり数",
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/176",
+   "source": "せんたくちゅう",
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/187",
+   "source": "だいひょうせん",
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/001/script/193",
+   "source": "プログラム",
+   "consumer": "pet-label-tile-or-message",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/12",
+   "source": [
+    "枚"
+   ],
+   "consumer": "message-box-pet",
+   "max_cells": 1,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/40",
+   "source": "HPを50かいふく!",
+   "consumer": "message-box-pet",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/41",
+   "source": "HPをマックスまで\nかいふく!",
+   "consumer": "message-box-pet",
+   "max_cells": 15,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/42",
+   "source": "しばらくのあいだ\nよわいウイルスと\nであわなくなる",
+   "consumer": "message-box-pet",
+   "max_cells": 25,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/43",
+   "source": "ミステリーデータに\nかかったワナをはずす",
+   "consumer": "message-box-pet",
+   "max_cells": 20,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/44",
+   "source": "ちょくぜんに であった\nテキと、もういちど\nであいやすくなる",
+   "consumer": "message-box-pet",
+   "max_cells": 30,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/45",
+   "source": "セキュリティのかかった\nミステリーデータを\nかいせきする",
+   "consumer": "message-box-pet",
+   "max_cells": 28,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/61",
+   "source": [
+    "アタック   LV"
+   ],
+   "consumer": "message-box-pet",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/62",
+   "source": [
+    "ラピッド   LV"
+   ],
+   "consumer": "message-box-pet",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/63",
+   "source": [
+    "チャージ   LV"
+   ],
+   "consumer": "message-box-pet",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/73",
+   "source": [
+    "レギュラー容量 ",
+    "[MB]"
+   ],
+   "consumer": "message-box-pet",
+   "max_cells": 12,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/74",
+   "source": [
+    "メガクラス枚数 ",
+    "枚"
+   ],
+   "consumer": "message-box-pet",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/75",
+   "source": [
+    "ギガクラス枚数 ",
+    "枚"
+   ],
+   "consumer": "message-box-pet",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/119",
+   "source": "改造",
+   "consumer": "message-box-pet",
+   "max_cells": 2,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/120",
+   "source": "スタンダードチップ",
+   "consumer": "message-box-pet",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/121",
+   "source": "メガクラスチップ",
+   "consumer": "message-box-pet",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/122",
+   "source": "ギガクラスチップ",
+   "consumer": "message-box-pet",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/123",
+   "source": "P.Aメモ",
+   "consumer": "message-box-pet",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/125",
+   "source": "シークレット",
+   "consumer": "message-box-pet",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/140",
+   "source": "ためうち  チャージS",
+   "consumer": "message-box-pet",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/141",
+   "source": [
+    "ためうち ヒートLV"
+   ],
+   "consumer": "message-box-pet",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/142",
+   "source": [
+    "ためうち アクアLV"
+   ],
+   "consumer": "message-box-pet",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/143",
+   "source": [
+    "ためうち エレキLV"
+   ],
+   "consumer": "message-box-pet",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/144",
+   "source": [
+    "ためうち ウッドLV"
+   ],
+   "consumer": "message-box-pet",
+   "max_cells": 10,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/145",
+   "source": "ためうち インビジブル",
+   "consumer": "message-box-pet",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/146",
+   "source": "ためうち   キューブ",
+   "consumer": "message-box-pet",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/147",
+   "source": "ためうち みずてっぽう",
+   "consumer": "message-box-pet",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/148",
+   "source": "ためうち     はな",
+   "consumer": "message-box-pet",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/149",
+   "source": "ためうち   かいぞう",
+   "consumer": "message-box-pet",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/159",
+   "source": [
+    "      -",
+    "勝"
+   ],
+   "consumer": "message-box-pet",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/160",
+   "source": [
+    "      +",
+    "勝"
+   ],
+   "consumer": "message-box-pet",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/161",
+   "source": "VS BM しょうり数",
+   "consumer": "message-box-pet",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/162",
+   "source": "VS RS しょうり数",
+   "consumer": "message-box-pet",
+   "max_cells": 11,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/176",
+   "source": "せんたくちゅう",
+   "consumer": "message-box-pet",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/177",
+   "source": "ナシ",
+   "consumer": "message-box-pet",
+   "max_cells": 2,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/178",
+   "source": "たいせんせいせき",
+   "consumer": "message-box-pet",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/179",
+   "source": [
+    "   ",
+    "戦",
+    "勝"
+   ],
+   "consumer": "message-box-pet",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/180",
+   "source": "メニュー",
+   "consumer": "message-box-pet",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/181",
+   "source": "ネットバトル",
+   "consumer": "message-box-pet",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/182",
+   "source": "コンペア",
+   "consumer": "message-box-pet",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/183",
+   "source": "トレード",
+   "consumer": "message-box-pet",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/184",
+   "source": "ひかえしつ",
+   "consumer": "message-box-pet",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/185",
+   "source": "シングルバトル",
+   "consumer": "message-box-pet",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/186",
+   "source": "トリプルバトル",
+   "consumer": "message-box-pet",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/187",
+   "source": "だいひょうせん",
+   "consumer": "message-box-pet",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/188",
+   "source": "れんしゅう",
+   "consumer": "message-box-pet",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/189",
+   "source": "ほんばん",
+   "consumer": "message-box-pet",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/190",
+   "source": "ライブラリコンペア",
+   "consumer": "message-box-pet",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/191",
+   "source": "レコードコンペア",
+   "consumer": "message-box-pet",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/192",
+   "source": "バトルチップ",
+   "consumer": "message-box-pet",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/193",
+   "source": "プログラム",
+   "consumer": "message-box-pet",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/194",
+   "source": "うけつけ",
+   "consumer": "message-box-pet",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/002/script/195",
+   "source": "えんせい",
+   "consumer": "message-box-pet",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/012/script/47",
+   "source": "RUNしますか?",
+   "consumer": "tile-and-message",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/058/script/10",
+   "source": "    HPマックス",
+   "consumer": "tile-and-message",
+   "max_cells": 10,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/058/script/47",
+   "source": " バグのかけら ",
+   "consumer": "tile-and-message",
+   "max_cells": 8,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/635/script/0",
+   "source": "きゅうきゅうしゃ",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/635/script/1",
+   "source": "けいさつ",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/635/script/2",
+   "source": "3ぼんのせん",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/635/script/3",
+   "source": "3つのマル",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/635/script/4",
+   "source": "はしご",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/635/script/5",
+   "source": "さしみ",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/0",
+   "source": "かがみ",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/1",
+   "source": "くし",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/2",
+   "source": "たいぼく",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/3",
+   "source": "どうぞう",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/4",
+   "source": "こんしんの一撃",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/5",
+   "source": "キッスのあらし",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/6",
+   "source": "おせっきょう",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/7",
+   "source": "ウィザーモンキー",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/8",
+   "source": "ウィザーキャット",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/9",
+   "source": "ウィザードラゴン",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/10",
+   "source": "まほうふうじ",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/11",
+   "source": "はげしいダンス",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/12",
+   "source": "さむいダジャレ",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/13",
+   "source": "はなのよさ",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/14",
+   "source": "ひっかき",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/15",
+   "source": "目のよさ",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/16",
+   "source": "つっこみ",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/17",
+   "source": "せんそう",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/18",
+   "source": "かんじょう",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/19",
+   "source": "おわらい",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/20",
+   "source": "プライド",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/21",
+   "source": "ことり",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/22",
+   "source": "ダンス",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/23",
+   "source": "タンス",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/24",
+   "source": "ゾンビ",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/25",
+   "source": "おもちゃのぶひん",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/26",
+   "source": "ダンサー",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/27",
+   "source": "せいじか",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/28",
+   "source": "のうさぎょうロボ",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/29",
+   "source": "ガン・デル・ソル",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/30",
+   "source": "しんくのマフラー",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/31",
+   "source": "しんくのパンツ",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/32",
+   "source": "ワルシャーP37",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/33",
+   "source": "おてんこさま",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/34",
+   "source": "太陽の光",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/35",
+   "source": "月の光",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/36",
+   "source": "おこんてさま",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/37",
+   "source": "てんまど",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/38",
+   "source": "たいよーー!!",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/39",
+   "source": "おかーさーん!",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/016/script/40",
+   "source": "おじさんのアタマ",
+   "consumer": "dialogue-insert-word",
+   "max_cells": 16,
+   "max_encoded_bytes": 64
+  },
+  {
+   "id": "archive/004/script/0",
+   "source": "トレーニング",
+   "consumer": "shared-tile-training",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/004/script/1",
+   "source": "つうしんたいせん",
+   "consumer": "shared-tile-training",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/004/script/2",
+   "source": "せつめい",
+   "consumer": "shared-tile-training",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/003/script/0",
+   "source": "トレーニング",
+   "consumer": "shared-tile-training",
+   "max_cells": 6,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/003/script/1",
+   "source": "つうしんたいせん",
+   "consumer": "shared-tile-training",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/003/script/2",
+   "source": "せつめい",
+   "consumer": "shared-tile-training",
+   "max_cells": 4,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/031/script/13",
+   "source": [
+    "コ"
+   ],
+   "consumer": "shared-tile-shop",
+   "max_cells": 1,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/032/script/13",
+   "source": [
+    "コ"
+   ],
+   "consumer": "shared-tile-shop",
+   "max_cells": 1,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/033/script/13",
+   "source": [
+    "コ"
+   ],
+   "consumer": "shared-tile-shop",
+   "max_cells": 1,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/034/script/13",
+   "source": [
+    "コ"
+   ],
+   "consumer": "shared-tile-shop",
+   "max_cells": 1,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/035/script/13",
+   "source": [
+    "コ"
+   ],
+   "consumer": "shared-tile-shop",
+   "max_cells": 1,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/036/script/13",
+   "source": [
+    "コ"
+   ],
+   "consumer": "shared-tile-shop",
+   "max_cells": 1,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/037/script/13",
+   "source": [
+    "コ"
+   ],
+   "consumer": "shared-tile-shop",
+   "max_cells": 1,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/038/script/13",
+   "source": [
+    "コ"
+   ],
+   "consumer": "shared-tile-shop",
+   "max_cells": 1,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/039/script/13",
+   "source": [
+    "コ"
+   ],
+   "consumer": "shared-tile-shop",
+   "max_cells": 1,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/0",
+   "source": " かんりにんデカオ ごあいさつ!       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/1",
+   "source": " やいと      おめでと!        ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/2",
+   "source": " ガッツマン    こたえるでガッツ!    ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/3",
+   "source": " メイル      ラウンダは・・・     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/4",
+   "source": " かんりにんデカオ RE:ラウンダは・・・  ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/5",
+   "source": " メイル      まあね          ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/6",
+   "source": " マサブミ     メガネのウイルス     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/7",
+   "source": " コーエツにいさん RE:メガネのウイルス  ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/8",
+   "source": " ゴウ       ミステリーデータ?    ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/9",
+   "source": " コーエツにいさん RE:ミステリーデータ? ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/10",
+   "source": " るぅた      チップがったい?     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/11",
+   "source": " かんりにんデカオ RE:チップがったい?  ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/12",
+   "source": " ひなた      ひつじ~!        ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/13",
+   "source": " かわっち     RE:ひつじ~!     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/14",
+   "source": " のんちゃん    ナビカスGET!     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/15",
+   "source": " マーぼー     RE:ナビカスGET!  ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/16",
+   "source": " ぼるく      バグ?          ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/17",
+   "source": " やいと      RE:バグ?       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/18",
+   "source": " ゴウ       くろいナビ        ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/19",
+   "source": " ゾノサン     RE:くろいナビ     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/20",
+   "source": " ゴウ       そのご・・・       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/21",
+   "source": " サキ       大会!          ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/22",
+   "source": " かんりにんデカオ RE:大会!       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/23",
+   "source": " メイル      RE:大会!       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/24",
+   "source": " ベルツさん    バリアブルソード     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/25",
+   "source": " ニコ       クモのたおし方      ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/26",
+   "source": " リュウジ     RE:クモのたおし方   ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/27",
+   "source": " うるふ      つうしんたいせんで    ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/019/script/28",
+   "source": " コーエツにいさん RE:つうしんたいせんで ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/021/script/0",
+   "source": " グライド     ようこそいらっしゃいました",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/021/script/1",
+   "source": " メイル      おめでと~!       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/021/script/2",
+   "source": " デカオ      おめでとーだぜ!     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/021/script/3",
+   "source": " やいと      ありがと!        ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/021/script/4",
+   "source": " ガッツマン    RE:ありがと!     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/021/script/5",
+   "source": " デカオ      RE:ありがと!     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/021/script/6",
+   "source": " ハンス      HELLO!       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/021/script/7",
+   "source": " にかいどう    こんにちは、やいとさん  ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/021/script/8",
+   "source": " デカオ      ゆうれいナビ!?     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/021/script/9",
+   "source": " ガッツマン    RE:ゆうれいナビ!?  ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/021/script/10",
+   "source": " にかいどう    RE:ゆうれいナビ!?  ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/021/script/11",
+   "source": " やいと      あらあら         ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/021/script/12",
+   "source": " まつだいら    大会!?         ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/021/script/13",
+   "source": " やいと      スポンサー        ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/021/script/14",
+   "source": " メイル      熱斗も・・・       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/021/script/15",
+   "source": " デカオ      熱斗は・・・       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/023/script/0",
+   "source": " アナー      ようこそアメロッパホテルへ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/023/script/1",
+   "source": " マスタッシュ   電脳世界のあるき方   ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 22,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/023/script/2",
+   "source": " マスタッシュ   アジーナへん       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/023/script/3",
+   "source": " マスタッシュ   シャーロへん       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/023/script/4",
+   "source": " マスタッシュ   アッフリクへん      ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/023/script/5",
+   "source": " マスタッシュ   アメロッパへん      ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/023/script/6",
+   "source": " チャマ      ダークホール       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/023/script/7",
+   "source": " コーエツ     RE:ダークホール    ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/023/script/8",
+   "source": " ロビン      RE:ダークホール    ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/023/script/9",
+   "source": " ゴエモン     ブラックボム       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/023/script/10",
+   "source": " アナー      RE:ブラックボム    ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/0",
+   "source": " かんりにん    ようこそ!ゆめのくにへ! ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/1",
+   "source": " あかね      たのし~!        ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/2",
+   "source": " ゆめちゃん    うらやまし~!      ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/3",
+   "source": " すじこ      ブリキング!       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/4",
+   "source": " しんや      マサカリひめ!      ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/5",
+   "source": " ひぐれ      ウィザードッグでマス!  ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/6",
+   "source": " たくみ      ドラッキーだよ!     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/7",
+   "source": " かっぺぽ     RE:ドラッキーだよ!  ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/8",
+   "source": " すーじー     ジャンゴって       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/9",
+   "source": " ちかっち     ガンデルソル!      ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/10",
+   "source": " かんりにん    おわび          ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/11",
+   "source": " とも       こわかったー       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/12",
+   "source": " まゆみん     RE:こわかったー    ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/13",
+   "source": " うずまき     イベント?        ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/14",
+   "source": " カニデカ     ネットバトル大会     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/15",
+   "source": " ふじりん     RE:ネットバトル大会  ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/16",
+   "source": " ななせ      そういえば        ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/025/script/17",
+   "source": " ノア       RE:そういえば     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/027/script/0",
+   "source": " ジョーモンデンキ ごあいさつ        ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/027/script/1",
+   "source": " しんや      しんがたPET!     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/027/script/2",
+   "source": " みつのり     RE:しんがたPET!  ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/027/script/3",
+   "source": " ヒデ       プラグイン        ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/027/script/4",
+   "source": " ユキ       FW:プラグイン     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/027/script/5",
+   "source": " ユージ      タウンエリアに      ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/027/script/6",
+   "source": " アマヤン     おじいさん        ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/027/script/7",
+   "source": " カータン     RE:おじいさん     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/027/script/8",
+   "source": " プリミキ     やっちゃった       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/027/script/9",
+   "source": " ヌッキー     RE:やっちゃった    ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/027/script/10",
+   "source": " クロタン     しつもん         ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/027/script/11",
+   "source": " ぼうず      RE:しつもん      ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/027/script/12",
+   "source": " ぼうず      バトルチップ       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/027/script/13",
+   "source": " ジョーモンデンキ RE:バトルチップ    ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/027/script/14",
+   "source": " ヌッキー     RE:バトルチップ    ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/027/script/15",
+   "source": " ぼうず      RE:バトルチップ    ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/029/script/0",
+   "source": " ウラのジュウニン かきこんでくれ      ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/029/script/1",
+   "source": " NO NAME  エレンプラ        ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/029/script/2",
+   "source": " NO NAME  ダレカ・・・!      ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/029/script/3",
+   "source": " NO NAME  RE:ダレカ・・・!   ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/029/script/4",
+   "source": " NO NAME  RE:ダレカ・・・!   ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/029/script/5",
+   "source": " もとネビュラ   シェードマン       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/029/script/6",
+   "source": " NO NAME  つかえないチップ     ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/029/script/7",
+   "source": " NO NAME  RE:つかえないチップ  ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/029/script/8",
+   "source": " NO NAME  ビッグダークホール    ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/029/script/9",
+   "source": " NO NAME  ジャンゴ!?       ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/029/script/10",
+   "source": " NO NAME  RE:ジャンゴ!?    ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/029/script/11",
+   "source": " NO NAME  RE:ジャンゴ!?    ",
+   "consumer": "shared-tile-bbs-list",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/0",
+   "source": "ダークライン *\nバグチェーン *\nフォルテ   X",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 26,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/1",
+   "source": "ダークライン  *\nバグチェーン  *\nフォルテアナザーX",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/10",
+   "source": "バブルショット P\nバブルショット Q\nバブルショット R",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/100",
+   "source": "エアホッケー3 U\nエアホッケー3 V\nエアホッケー3 W",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/105",
+   "source": "マグボルト1 B\nマグボルト1 C\nマグボルト1 D",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 26,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/11",
+   "source": "バブルブイ C\nバブルブイ D\nバブルブイ E",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/110",
+   "source": "マグボルト2 E\nマグボルト2 F\nマグボルト2 G",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 26,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/115",
+   "source": "マグボルト3 A\nマグボルト3 B\nマグボルト3 C",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 26,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/12",
+   "source": "バブルサイド D\nバブルサイド E\nバブルサイド F",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 26,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/120",
+   "source": "ソード    E\nワイドソード E\nロングソード E",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 26,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/121",
+   "source": "ソード    L\nワイドソード L\nロングソード L",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 26,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/122",
+   "source": "ソード    S\nワイドソード S\nロングソード S",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 26,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/123",
+   "source": "ソード     S\nワイドブレード S\nロングブレード S",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/125",
+   "source": "ガンデルソル1 G\nガンデルソル2 G\nガンデルソル3 G",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/130",
+   "source": "カウントボム J\nカウントボム K\nカウントボム L",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 26,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/135",
+   "source": "ダークホール  *\nダークライン  *\nポイズンアヌビスA",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/140",
+   "source": "カワリミ    M\nナビスカウト  M\nムラマサブレードM",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/145",
+   "source": "スプレッドガン L\nスプレッドガン M\nスプレッドガン N",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/15",
+   "source": "キャノン A\nキャノン B\nキャノン C",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 20,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/20",
+   "source": "ハイキャノン C\nハイキャノン D\nハイキャノン E",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 26,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/25",
+   "source": "メガキャノン E\nメガキャノン F\nメガキャノン G",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 26,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/30",
+   "source": "ワイドショット1C\nワイドショット1D\nワイドショット1E",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/35",
+   "source": "ワイドショット2L\nワイドショット2M\nワイドショット2N",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/40",
+   "source": "ワイドショット3S\nワイドショット3T\nワイドショット3U",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/45",
+   "source": "フレイムライン1F\nフレイムライン1G\nフレイムライン1H",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/5",
+   "source": "ヒートショット B\nヒートショット C\nヒートショット D",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/50",
+   "source": "フレイムライン2D\nフレイムライン2E\nフレイムライン2F",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/55",
+   "source": "フレイムライン3J\nフレイムライン3K\nフレイムライン3L",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/6",
+   "source": "ヒートブイ C\nヒートブイ D\nヒートブイ E",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 23,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/60",
+   "source": "ブーメラン1 L\nブーメラン1 M\nブーメラン1 N",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 26,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/65",
+   "source": "ブーメラン2 L\nブーメラン2 M\nブーメラン2 N",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 26,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/7",
+   "source": "ヒートサイド D\nヒートサイド E\nヒートサイド F",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 26,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/70",
+   "source": "ブーメラン3 S\nブーメラン3 T\nブーメラン3 U",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 26,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/75",
+   "source": "ツインファング1A\nツインファング1B\nツインファング1C",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/8",
+   "source": "ヒートショット D\nヒートブイ   D\nヒートサイド  D",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/80",
+   "source": "ツインファング2O\nツインファング2P\nツインファング2Q",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/85",
+   "source": "ツインファング3F\nツインファング3G\nツインファング3H",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/90",
+   "source": "エアホッケー1 D\nエアホッケー1 E\nエアホッケー1 F",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/015/script/95",
+   "source": "エアホッケー2 I\nエアホッケー2 J\nエアホッケー2 K",
+   "consumer": "shared-tile-pa-memo",
+   "max_cells": 29,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/061/script/22",
+   "source": "      秋原町",
+   "consumer": "map-area-label",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/061/script/23",
+   "source": "電気街",
+   "consumer": "map-area-label",
+   "max_cells": 3,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/061/script/24",
+   "source": "デンサンドーム",
+   "consumer": "map-area-label",
+   "max_cells": 7,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/061/script/25",
+   "source": "シェロ・カスティロ",
+   "consumer": "map-area-label",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/061/script/26",
+   "source": "       空港",
+   "consumer": "map-area-label",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/061/script/27",
+   "source": "ニホン",
+   "consumer": "map-area-label",
+   "max_cells": 3,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/061/script/28",
+   "source": "アメロッパ",
+   "consumer": "map-area-label",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/061/script/29",
+   "source": "    アジーナ",
+   "consumer": "map-area-label",
+   "max_cells": 8,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/061/script/30",
+   "source": "アッフリク",
+   "consumer": "map-area-label",
+   "max_cells": 5,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/061/script/31",
+   "source": "     シャーロ",
+   "consumer": "map-area-label",
+   "max_cells": 9,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/111/script/34",
+   "source": [
+    "コ"
+   ],
+   "consumer": "shared-tile-shop",
+   "max_cells": 1,
+   "max_encoded_bytes": null
+  },
+  {
+   "id": "archive/223/script/34",
+   "source": [
+    "コ"
+   ],
+   "consumer": "shared-tile-shop",
+   "max_cells": 1,
+   "max_encoded_bytes": null
+  }
+ ],
+ "profiles": {
+  "blue_moon": {
+   "source_sha256": "f976a84ef226e47d4a65695052da09b415867b01586dd74bbb1c289a6f607b63",
+   "anchors": [
+    {
+     "offset": 2176636,
+     "size": 666,
+     "sha256": "ffe327c003f3368d9a65a0c2b9af9ee90ae140f6558f12e0a1366b500fa88cd4",
+     "role": "shared tile parser"
+    },
+    {
+     "offset": 193708,
+     "size": 54,
+     "sha256": "5add6a93ab7433a9a253c547684ff258d1f19874918140e25cc8f0cbb8e8f737",
+     "role": "unsupported folder chip tilemap parser"
+    },
+    {
+     "offset": 2177068,
+     "size": 40,
+     "sha256": "f5fefead83bfd8d17b7dfc3b0251a95423c89a8d61e4e52c0456e5a8ba1dd4b0",
+     "role": "native three-byte NAME consumer"
+    }
+   ],
+   "unsupported_chip_parser_entry": 134411436
+  },
+  "red_sun": {
+   "source_sha256": "1904692bc383fc2cb7e1d81e1c80bf2d8c616c0d1b1d396c689f71b49a2e3188",
+   "anchors": [
+    {
+     "offset": 2176636,
+     "size": 666,
+     "sha256": "ffe327c003f3368d9a65a0c2b9af9ee90ae140f6558f12e0a1366b500fa88cd4",
+     "role": "shared tile parser"
+    },
+    {
+     "offset": 193764,
+     "size": 54,
+     "sha256": "5add6a93ab7433a9a253c547684ff258d1f19874918140e25cc8f0cbb8e8f737",
+     "role": "unsupported folder chip tilemap parser"
+    },
+    {
+     "offset": 2177068,
+     "size": 40,
+     "sha256": "f5fefead83bfd8d17b7dfc3b0251a95423c89a8d61e4e52c0456e5a8ba1dd4b0",
+     "role": "native three-byte NAME consumer"
+    }
+   ],
+   "unsupported_chip_parser_entry": 134411492
+  }
+ },
+ "unsupported_consumers": {
+  "archive/041": "folder chip names use a BG tilemap parser, not the shared raster parser; F9 >= E5 terminates; VRAM glyph allocation/other callers remain open",
+  "NAME": "three single-byte glyph indexes from a 32-bit packed value; four-byte F9FC stream is not supported; save producer and menu name input remain to be extended",
+  "all_other_short_scripts": "requires explicit producer/decoder/buffer/font evidence before adoption"
+ },
+ "evidence": [
+  "analysis/menu_bench.json",
+  "analysis/MENU_RUNTIME_QA.json",
+  "analysis/runtime/blue_moon_chip_textread_01/result.json",
+  "analysis/runtime/red_sun_chip_textread_01/result.json",
+  "analysis/runtime/blue_moon_name_trace_01/result.json"
+ ],
+ "policy": "fail before compiler or ROM output for unclassified selection; no silent partial name",
+ "consumer_notes": {
+  "key-item-name": "archive 62 is read at seven places: five call the tile renderer 0x08053A04 (IWRAM 0x0300677C, whose F9 slot the menu extension already routes to the Hangul handler), one is the item-name table at 0x0804FA68 used by the dialogue name insert (64-byte buffer), and 0x08032E10/0x08032E64 has no caller anywhere in the ROM (direct or pointer) and is treated as dead code. Cell budget is the source length.",
+  "shared-tile-place": "archive 13 is read only at 0x0802DDF0, five calls of the tile renderer 0x08053A04 whose F9 slot routes Hangul; names keep the underscore padding that right-aligns the 13-cell PLACE field",
+  "shared-tile-network": "NETWORK menu (PET つうしん) labels of archive 1; every listed script was observed going through the tile renderer 0x0300677C (caller 0x08053A1A, F9 slot routes Hangul) with the user save, runs analysis/runtime/user_save_network_02..04. 187 and 193 (not shown with that save) are excluded",
+  "link-row-parser": "archive 1 script 177 is read only at 0x0802F0E8 (call 0x0802F0E4 from 0x0803D074, link-cable screen); the chip folder extension moves that call (window 0x0802F0F4/0x0802F0BC) to a copy of its F9FC row renderer, and the same screen family gets the cache reset at its font upload. Not runtime-tested (needs a link partner)",
+  "command-bearing-labels": "archive/013/script/242 (BUG PIECE counter, printBuffer + コ) and archive/001/script/179 (match record, printBuffer between 戦 and 勝) list their literals; the builder swaps each literal in place and checks the bytes, because TextPet reads a script that opens with F1 back as mmbn4",
+  "archive-005-all": "archive 5 has three claims: 0x0802F4B0 (folder name by index r7) and 0x0803CE3E/0x0804C3A6 (script 10 fixed, link screens); all call the tile renderer 0x08053A04 with eight cells, whose F9 slot routes Hangul. Scripts 2..7 share the index path proven for 0/1; リュック follows the dialogue word 가방",
+  "program-name": "archive 11 (Navi Customizer program names) has ten claims: eight load it for the tile renderer 0x08053A04 directly or through 0x08034148 (both route F9 to the Hangul handler), two sit in the item-name table at 0x0804FA68 used by the dialogue name insert (64-byte buffer), the same path as archive 62. Cell budget is the source length",
+  "shared-tile-status": "ROCKMAN status screen (PET ロックマン) labels of archive 1, each observed through the tile renderer 0x0300677C with the user save (analysis/runtime/user_save_rockman_01); 73 is aliased by 72 and 140 by 134..139. Number columns keep the source cell positions. 141..149 (other charge kinds) were not shown with that save and stay source",
+  "shared-tile-library": "DATA LIBRARY tab headers of archive 1 (120..123, 125), each observed through the tile renderer 0x0300677C with the user save while switching tabs (analysis/runtime/user_save_library_01)",
+  "mail-header-name": "archive 6 (LZ77, decoded to the moved buffer 0x0202C800) FROM/TO names; read by the tile renderer 0x030067A0 (analysis/runtime/user_save_mail_read_01); names keep the underscore padding of their field",
+  "mail-subject": "archive 6 SUBJECT lines; read by the ROM proportional renderer loop 0x08053BBE, whose F9 slot is routed to the Hangul hook in tools/rom_renderer_hangul.py",
+  "credits-rom-renderer": "archive 792 (staff credits, raw) has one claim (0x081103E0) used at 0x08110270, the only call of the ROM proportional renderer style-1 entry 0x08053A28; its F9 slot routes to tools/rom_renderer_hangul.py. Names are transliterated (국립국어원 일본어 표기) and right-aligned by leading spaces like the source. Not runtime-tested (end of game)",
+  "save-screen-count": "archive 1 script 12 (枚 after the battle-chip count on the SAVE screen) was drawn through the tile renderer 0x0300677C in analysis/runtime/user_save_network_03 (scripts 6..14 on the save screen); user screenshot 2026-10-04 showed it untranslated",
+  "battle-enemy-name": "archive 49 (enemy names) is a private clone for the battle name list (0x080166D4/0x0801687C, tile renderer with native style 0x0868E224) and the dialogue name-insert table (0x0804FA84); the three BG-parser readers (0x0803BF4C, 0x0803F5D8, 0x08040228) keep the Japanese source. User screenshot 2026-10-04 showed the battle list untranslated. Not runtime-tested yet (needs a battle)",
+  "pet-label-tile-or-message": "archive 1 remaining labels: archive-1 claims go to the tile renderer 0x08053A04 or the message box 0x0804DFA0/0x0804E2A4 (Hangul); the BG parsers read only script 177 (moved to the Hangul row renderer) and 199 (left in Japanese)",
+  "message-box-pet": "archive 2 is read only through the message box 0x0804DFA0 (0x080347A6, 0x0803F854, 0x08040468) and 0x080347CC; texts mirror the archive-1 wording; the message box reads the archive in place, so there is no byte cap (only the source cell count)",
+  "tile-and-message": "archives 12 and 58: tile renderer 0x08053A04 and message box 0x0804E2A4, plus the dialogue item-name table",
+  "dialogue-insert-word": "archive 16 (64 bytes per word copied to 0x0200B4D0 at 0x0804FB96 for the dialogue insert) and archive 635 (dialogue item-name table 0x0804FA88); wording follows the story lines that quote these words; budget is the 64-byte buffer (16 syllables), not the source cell count",
+  "shared-tile-training": "Operation Battle (training) menu labels, archive red 4 / blue 3 (the two revisions swap 3 and 4), decoded to 0x02028000 by 0x080406C2; scripts 0..2 are drawn by 0x080411B4 -> tile renderer 0x08053A04 with native style 0x086C6E60, whose F9 slot routes Hangul. The Mr. Famous lines of the same archive are story records",
+  "shared-tile-shop": "shop stock counter (printBuffer + コ) of the nine shop archives 31..39 listed by the shop table 0x08049BA0 (16-byte rows: archive, script base); every tile-renderer call of the shop screen (0x0804A550..0x0804A7C6) passes native style 0x086C6E60, whose F9 slot routes Hangul. Archives 111 and 223 hold the same counter at script 34 but are area archives read through other tables, so they stay untranslated until their reader is observed. Added later: 111/223 script 34 (same counter in two area archives); their reader was not isolated, adopted on the same whole-ROM evidence as map-area-label (every tile-renderer call uses a Hangul-routed style)",
+  "shared-tile-bbs-list": "BBS post list rows (author 8 cells + title 13 cells in a 23-cell row) of the six list archives 19..29 (odd), decoded to 0x02026000; the board screen draws each row with the tile renderer 0x08053A04 at 0x08049666/0x08049980, 23 cells, native style 0x086C6E60 whose F9 slot routes Hangul. Placeholder rows (BBS0 .. XXXX) stay as they are",
+  "shared-tile-pa-memo": "library P.A memo (archive 15, decoded to 0x02028000 by 0x080374F6): 0x08109D88 draws script (P.A id - 0x140)*5 + n with the tile renderer 0x08053A04, 9 cells x 4 rows, native style 0x0868E224 whose F9 slot routes Hangul. Chip names follow the chip folder wording; codes are aligned one column after the longest name as in the source",
+  "map-area-label": "travel map area names, archive 61 scripts 22..31 (decoded to 0x02028000 by 0x0804332E). The drawing call was not isolated and the map screen was not reached with the available save; adopted because every text path in the ROM handles F9FC: all 86 direct calls of the tile renderer 0x08053A04 pass style 0x0868E224 or 0x086C6E60, the IWRAM copy 0x0300677C is reached only through that stub, and the message boxes and the ROM renderer table carry the Hangul handler. Labels keep the source cell count and its leading-space alignment; ANSA (no kana) stays"
+ },
+ "archive_claims": {
+  "49": {
+   "blue_moon": [
+    91848,
+    92328,
+    326228
+   ],
+   "red_sun": [
+    91900,
+    92380,
+    326276
+   ]
+  }
+ }
+}

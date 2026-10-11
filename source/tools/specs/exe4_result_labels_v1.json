@@ -1,0 +1,103 @@
+{
+ "schema": 1,
+ "scope": "battle result window labels デリートタイム / バスティングレベル (raw BG map 24x17 + raw 4bpp tiles, palette 9)",
+ "evidence": "analysis/runtime/bat_result_snap step 77 (red, result window): BG3 char base 0x06008000 tiles 0x01..0x56 equal ROM red 0x0874E6C8+n*32 (blue 0x0874E1C0); the window map is raw 24 wide from screen (2,3), red 0x087509C8 (blue 0x087504C0); digits are written into map cells (row 3 col 14..20, row 6 col 16..20) at runtime",
+ "font_sha256": "4159d916b4b4f5173ae8e0d1d5ddfc8ae3ac6ec04d285b26a786231563495e01",
+ "bold": false,
+ "map_width": 24,
+ "map_height": 17,
+ "tile_count": 87,
+ "tiles_sha256": "37a4b1eefd09d20f6c4f655fe24a453c65277e7f147fac7022cdd267d9567e68",
+ "map_sha256": "0e646e94cb8fafb611d6f288ba0d1b28380a0edb833de638f6014ded53ed3d90",
+ "fills": [
+  25,
+  36
+ ],
+ "ink": 1,
+ "shadow": 8,
+ "top": 1,
+ "ink_rows": 13,
+ "labels": [
+  {
+   "source": "デリートタイム",
+   "text": "딜리트 타임",
+   "row": 3,
+   "first": 3,
+   "last": 13,
+   "left": 1
+  },
+  {
+   "source": "バスティングレベル",
+   "text": "버스팅 레벨",
+   "row": 6,
+   "first": 3,
+   "last": 15,
+   "left": 1
+  }
+ ],
+ "pool": [
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  37,
+  38,
+  39,
+  40,
+  41,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  21,
+  44
+ ],
+ "border_cells": [
+  [
+   2,
+   3
+  ],
+  [
+   5,
+   3
+  ],
+  [
+   5,
+   8
+  ],
+  [
+   5,
+   10
+  ]
+ ],
+ "border_tile": 20,
+ "profiles": {
+  "red_sun": {
+   "source_sha256": "1904692bc383fc2cb7e1d81e1c80bf2d8c616c0d1b1d396c689f71b49a2e3188",
+   "tiles": 7661256,
+   "map": 7670216
+  },
+  "blue_moon": {
+   "source_sha256": "f976a84ef226e47d4a65695052da09b415867b01586dd74bbb1c289a6f607b63",
+   "tiles": 7659968,
+   "map": 7668928
+  }
+ },
+ "ink_rows_note": "rows 0..12 of the 16-pixel band are fill (the bottom fill tile 0x24 turns into the frame line at its row 5)",
+ "font": "Galmuri9 (Galmuri11 needs 32 tiles, the label pool holds 30)"
+}

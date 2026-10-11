@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "scope": "two observed shared tile font styles; not all menu/battle/name consumers",
+ "evidence": [
+  "runtime/blue_moon_menu_survey_09/step_008_exectrace.json",
+  "runtime/blue_moon_menu_survey_10/step_008_exectrace.json"
+ ],
+ "font_sha256": "26321b2d780b859bfee7ca6cc561b50268efed139a852b470a589c0ba9901b24",
+ "font_direction": "functional Galmuri7 with vertical shadow; human visual approval pending",
+ "profiles": {
+  "blue_moon": {
+   "source_sha256": "f976a84ef226e47d4a65695052da09b415867b01586dd74bbb1c289a6f607b63",
+   "slot": {
+    "offset": 2176592,
+    "expected_hex": "2d690003",
+    "legacy_handler": 50358573
+   },
+   "renderer_runtime": 50358257,
+   "source_code_offset": 2176636,
+   "source_code_size": 666,
+   "source_code_sha256": "ffe327c003f3368d9a65a0c2b9af9ee90ae140f6558f12e0a1366b500fa88cd4",
+   "fonts": [
+    {
+     "source_address": 141090820,
+     "size": 28224,
+     "sha256": "0336d53fffa880c1cb9253fbbbc79d9184fee626740929fe66e9d5b2c4ff2416",
+     "background": 0,
+     "ink": 1,
+     "shadow": 2
+    },
+    {
+     "source_address": 141322652,
+     "size": 28224,
+     "sha256": "3a6c269513846a9dbc1f2e6a921ede546d22052f2bd25f7b2da9a6f9e29a9e65",
+     "background": 1,
+     "ink": 3,
+     "shadow": 4
+    }
+   ]
+  },
+  "red_sun": {
+   "source_sha256": "1904692bc383fc2cb7e1d81e1c80bf2d8c616c0d1b1d396c689f71b49a2e3188",
+   "slot": {
+    "offset": 2176592,
+    "expected_hex": "2d690003",
+    "legacy_handler": 50358573
+   },
+   "renderer_runtime": 50358257,
+   "source_code_offset": 2176636,
+   "source_code_size": 666,
+   "source_code_sha256": "ffe327c003f3368d9a65a0c2b9af9ee90ae140f6558f12e0a1366b500fa88cd4",
+   "fonts": [
+    {
+     "source_address": 141091364,
+     "size": 28224,
+     "sha256": "0336d53fffa880c1cb9253fbbbc79d9184fee626740929fe66e9d5b2c4ff2416",
+     "background": 0,
+     "ink": 1,
+     "shadow": 2
+    },
+    {
+     "source_address": 141323872,
+     "size": 28224,
+     "sha256": "3a6c269513846a9dbc1f2e6a921ede546d22052f2bd25f7b2da9a6f9e29a9e65",
+     "background": 1,
+     "ink": 3,
+     "shadow": 4
+    }
+   ]
+  }
+ },
+ "hangul_glyph_source": {
+  "path": "D:/Games/Kor Patch/CLude/록맨 에그제 2/Battle Network Rockman EXE 1 [K].gba",
+  "sha256": "c0753c1d3170f69e1eb8b03a02875ec63c5622185ac4afbb2b8688c53209d865",
+  "rule": "KS X 1001 syllables take the EXE 1 [K] 8x16 glyph (tools/exe1k_hangul.py: shift -1,-1, fold into the native rows 1..13 band; 68 o/u-over-final glyphs sit on rows 1..14 as in EXE3); other syllables keep Galmuri7",
+  "decision": "user, 2026-10-04: the EXE3 Korean folder/PLACE lettering looks better than the small Galmuri7 cells",
+  "policy": "local-only reference; never copied into the project"
+ }
+}

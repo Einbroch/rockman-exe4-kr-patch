@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "scope": "normal dialogue draw, cumulative-width scan and observed shared tile renderer only",
+  "encoding_candidate": "F9 FC + uint16 little endian Hangul syllable index (U+AC00 base); NON-DISTRIBUTION until consumer/collision population closed",
+  "profiles": {
+    "blue_moon": {
+      "source_sha256": "f976a84ef226e47d4a65695052da09b415867b01586dd74bbb1c289a6f607b63",
+      "main_dispatch_offset": 319376,
+      "main_dispatch_expected_sha256": "e4558edd01a08b81f17a194cf23f63066d2601067d1f7f46867bf77f93ba74ea",
+      "normal_f9_slot": {
+        "offset": 321556,
+        "expected_hex": "55f90408",
+        "handler_address": 134543701
+      },
+      "width_f9_slot": {
+        "offset": 321664,
+        "expected_hex": "19fe0408",
+        "handler_address": 134544921
+      },
+      "tile_f9_slot": {
+        "offset": 2176592,
+        "expected_hex": "2d690003",
+        "handler_address": 50358573
+      },
+      "renderer_offset": 2177352,
+      "renderer_runtime_address": 50358856,
+      "font_literal": {
+        "offset": 2177492,
+        "expected_address": 141119492
+      },
+      "advance_literal": {
+        "offset": 2177500,
+        "expected_address": 134550920
+      },
+      "main_continuation_address": 134537326,
+      "functions": {
+        "flag_test": 134538548,
+        "flag_set": 134538524,
+        "glyph_bookkeeping": 134539120
+      },
+      "sound_address": 134219096
+    },
+    "red_sun": {
+      "source_sha256": "1904692bc383fc2cb7e1d81e1c80bf2d8c616c0d1b1d396c689f71b49a2e3188",
+      "main_dispatch_offset": 319428,
+      "main_dispatch_expected_sha256": "b6cd6eb878fd3c0c6ec9a06b119e1e2d2ecaed851ca93b4bd8f4c99a14d5b214",
+      "normal_f9_slot": {
+        "offset": 321608,
+        "expected_hex": "85f90408",
+        "handler_address": 134543749
+      },
+      "width_f9_slot": {
+        "offset": 321716,
+        "expected_hex": "49fe0408",
+        "handler_address": 134544969
+      },
+      "tile_f9_slot": {
+        "offset": 2176592,
+        "expected_hex": "2d690003",
+        "handler_address": 50358573
+      },
+      "renderer_offset": 2177352,
+      "renderer_runtime_address": 50358856,
+      "font_literal": {
+        "offset": 2177492,
+        "expected_address": 141120036
+      },
+      "advance_literal": {
+        "offset": 2177500,
+        "expected_address": 134550968
+      },
+      "main_continuation_address": 134537378,
+      "functions": {
+        "flag_test": 134538600,
+        "flag_set": 134538576,
+        "glyph_bookkeeping": 134539172
+      },
+      "sound_address": 134219096
+    }
+  },
+  "rejected_candidates": [
+    "IWRAM 0x03002A66 and 0x0300488A E4/E5 immediate matches are image/palette data in the captured state, not decoder evidence.",
+    "Galmuri9 has 9-pixel Hangul ink and cannot be losslessly fitted to the observed 8-pixel tile cell.",
+    "Galmuri7 supplies 4363 Hangul syllables, so it cannot provide the full 11172 repertoire without a separate declared representation."
+  ],
+  "adoption": "normal dialogue draw and cumulative-width extension, verified revisions only; tile-menu extension not adopted; NON-DISTRIBUTION"
+}

@@ -1,0 +1,74 @@
+{
+ "schema": 1,
+ "scope": "battle chip names drawn from the two self-referencing [archive41, archive42] root tables: the helper 0x0801FCC0 (red) used by five tile-renderer callers, all with native style 0x0868E224 (0x0801505E queued name, 0x08016490 in-battle name sprite, 0x0801E62E/0x0801E752, 0x0801FB9A Custom caption), and 0x08021BF8",
+ "evidence": "user screenshot 2026-10-04 (エリアスチール in battle); the only reader of the self-referencing root table is 0x08021BF8 (red), which calls the tile renderer with native style 0x0868E224 into 0x020364B0/0x0600B680; not yet seen on screen in Korean; 0x08016490 draws through 0x0801657E into OBJ VRAM 0x06016C00/0x06017080 (the in-battle name sprite)",
+ "profiles": {
+  "blue_moon": {
+   "source_sha256": "f976a84ef226e47d4a65695052da09b415867b01586dd74bbb1c289a6f607b63",
+   "source_roots": [
+    141842900,
+    141845356
+   ],
+   "tables": [
+    138264,
+    130208,
+    304780
+   ],
+   "name_insert": {
+    "offsets": [
+     326204,
+     326208
+    ],
+    "source_values": [
+     141842900,
+     141845356
+    ]
+   },
+   "comm_names": {
+    "offsets": [
+     249484,
+     249488
+    ],
+    "source_values": [
+     141842900,
+     141845356
+    ]
+   }
+  },
+  "red_sun": {
+   "source_sha256": "1904692bc383fc2cb7e1d81e1c80bf2d8c616c0d1b1d396c689f71b49a2e3188",
+   "source_roots": [
+    141844120,
+    141846576
+   ],
+   "tables": [
+    138320,
+    130268,
+    304832
+   ],
+   "name_insert": {
+    "offsets": [
+     326252,
+     326256
+    ],
+    "source_values": [
+     141844120,
+     141846576
+    ]
+   },
+   "comm_names": {
+    "offsets": [
+     249536,
+     249540
+    ],
+    "source_values": [
+     141844120,
+     141846576
+    ]
+   }
+  }
+ },
+ "name_insert_note": "the dialogue name insert (printChip, table 0x0804FA68 red / 0x0804FA38 blue, copied 64 bytes into 0x0200B4D0) reads chip names from entries 1 and 2; they kept the Japanese archives 41/42, so a mystery-data chip appeared in Japanese inside Korean lines (user report 2026-10-10). They follow the same translated clones; the longest clone name is 33 bytes",
+ "shop_note": "shop chip list root table (red 0x0804A6C0 / blue 0x0804A68C, self-referencing like the announce tables) drawn by the shop tile-renderer calls (native style 0x086C6E60, Hangul routed); all 204 syllables of the translated chip names are in the 4,363-syllable tile set",
+ "comm_names_note": "link/compare screen chip names: 0x0803CE64 (red) loads 41/42 from its literal pool and draws 8 cells with the tile renderer, native style 0x0868E224 (Hangul routed). Not moved: 0x0803804C feeds 0x08038064, a one-byte tilemap writer that stops at the first byte >= E5 (no F9FC), and 0x0802F2F4 has no reader"
+}

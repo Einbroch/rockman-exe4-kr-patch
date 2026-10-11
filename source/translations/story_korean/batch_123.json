@@ -1,0 +1,1878 @@
+{
+  "schema": 1,
+  "batch": "123",
+  "state": "authored",
+  "scope": "archives 237, 411 and 583: Dekao and Chisao at home from the first tournament to the final, the patrol programs of the net, and the fake maintenance that locks the chip folder",
+  "provenance": "Claude, 2026-09-27; wording decided against translations/story_source.jsonl and the terminology adopted in earlier batches, with 4 lines seeded from decisions those batches already made",
+  "authored": "translations/story_authored/batch_123.json",
+  "authored_sha256": "e1224437016d710cf44d51f9158bad615b562f78e9b02217674f60479f2dda90",
+  "sheet_sha256": "29c4410ed42d3cbcf800e9552e1e81bcdd02298b1198be0653230a7349587470",
+  "archives": [
+    237,
+    411,
+    583
+  ],
+  "deferred": [],
+  "entries": [
+    {
+      "id": "archive/237/script/0/literal/0",
+      "ja": "デンサンバトルトーナメント\nゆうしょう おめでとよ!",
+      "ko": "덴산 배틀 토너먼트\n우승 축하한다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/0/literal/1",
+      "ja": "オレのライバルたるもの、\nそれくらい つよくなくちゃな!",
+      "ko": "내 라이벌이라면、\n그 정도는 강해야지!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/1/literal/0",
+      "ja": "にいちゃんは ボクと\nあそぶちゅ!",
+      "ko": "형아는 나랑\n놀 거쪄!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/1/literal/1",
+      "ja": "おまえと あそぶじかんは\nないちゅよ!",
+      "ko": "너랑 놀 시간은\n없어쪄!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/10/literal/0",
+      "ja": "熱斗、すまねーな、\n今日は チサオと",
+      "ko": "넷토、미안하다、\n오늘은 치사오랑",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/10/literal/1",
+      "ja": "たべほうだい\nスペシャルバイキングに\n行くんだ・・・",
+      "ko": "무한 리필\n스페셜 뷔페에\n가거든...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/10/literal/2",
+      "ja": "えっ、あそびのさそいに\nきたんじゃないのか?",
+      "ko": "엇、놀자고\n온 거 아니었어?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/11/literal/0",
+      "ja": "今日は にいちゃんと\nおでかけちゅ!!",
+      "ko": "오늘은 형아랑\n외출이쪄!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/11/literal/1",
+      "ja": "うれしいちゅっ!",
+      "ko": "신나쪄!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/15/literal/0",
+      "ja": "よぉ、熱斗!\nもちろん イーグルトーナメントの\nよせんは うけるんだよな?",
+      "ko": "여、넷토!\n물론 이글 토너먼트\n예선은 받는 거지?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/15/literal/1",
+      "ja": "えっ、オレか?",
+      "ko": "엇、나?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/15/literal/2",
+      "ja": "オレは こんかいはパスするぜ",
+      "ko": "나는 이번엔 패스할래",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/15/literal/3",
+      "ja": "チサオに かぞくサービスして\nやらねーと いけないしな!",
+      "ko": "치사오한테 가족 서비스를\n해 줘야 하니까!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/16/literal/0",
+      "ja": "もし にいちゃんが\nイーグルトーナメントにでてたら、\nぶっちぎりでゆうしょうちゅ!",
+      "ko": "만약 형아가\n이글 토너먼트에 나갔으면、\n압도적으로 우승이쪄!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/17/literal/0",
+      "ja": "よぉ、熱斗!\nもちろん ホークトーナメントの\nよせんは うけるんだよな?",
+      "ko": "여、넷토!\n물론 호크 토너먼트\n예선은 받는 거지?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/17/literal/1",
+      "ja": "えっ、オレか?",
+      "ko": "엇、나?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/17/literal/2",
+      "ja": "オレは こんかいはパスするぜ",
+      "ko": "나는 이번엔 패스할래",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/17/literal/3",
+      "ja": "チサオに かぞくサービスして\nやらねーと いけないしな!",
+      "ko": "치사오한테 가족 서비스를\n해 줘야 하니까!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/18/literal/0",
+      "ja": "もし にいちゃんが\nホークトーナメントにでてたら、\nぶっちぎりでゆうしょうちゅ!",
+      "ko": "만약 형아가\n호크 토너먼트에 나갔으면、\n압도적으로 우승이쪄!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/2/literal/0",
+      "ja": "シティバトルトーナメント\nゆうしょう おめでとよ!",
+      "ko": "시티 배틀 토너먼트\n우승 축하한다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/2/literal/1",
+      "ja": "オレのライバルたるもの、\nそれくらい つよくなくちゃ\nもえねーからな!!",
+      "ko": "내 라이벌이라면、\n그 정도는 강해야\n불타오르지!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/20/literal/0",
+      "ja": "おぉ!\nよせんをとっぱしたか!\nそれでこそ オレのライバルだぜ!",
+      "ko": "오오!\n예선을 돌파했냐!\n그래야 내 라이벌이지!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/20/literal/1",
+      "ja": "がんばれよ、熱斗!\nオレがついてるぜ!!",
+      "ko": "힘내라、넷토!\n내가 있잖아!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/21/literal/0",
+      "ja": "がんばって、ニホンイチに\nなるちゅよ!",
+      "ko": "힘내서、일본 제일이\n되는 거쪄!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/21/literal/1",
+      "ja": "そうじゃないと、\nにいちゃんの ライバルとは\nいえないちゅ!",
+      "ko": "안 그러면、\n형아의 라이벌이라고\n할 수 없어쪄!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/25/literal/0",
+      "ja": "今、チサオに ネットバトルの\nこころえを おしえてるんだ!",
+      "ko": "지금、치사오한테 넷배틀의\n마음가짐을 가르치고 있어!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/25/literal/1",
+      "ja": "「ひとつ!\\n きもちで まけない!」",
+      "ko": "「하나!\n 기세에서 지지 않는다!」",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/25/literal/2",
+      "ja": "ってな かんじだぜ!",
+      "ko": "이런 느낌이야!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/26/literal/0",
+      "ja": "「きもちで まけない」 ちゅね!\nココロに しみるちゅ!",
+      "ko": "「기세에서 지지 않는다」쪄!\n마음에 와닿아쪄!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/30/literal/0",
+      "ja": "熱斗、かちのこってるみたいだな!\nオレのぶんまで がんばってくれよ",
+      "ko": "넷토、계속 이기고 있구나!\n내 몫까지 힘내 줘",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/31/literal/0",
+      "ja": "「じぶんが さいきょうだと\\n おもいこめ!」",
+      "ko": "「자신이 최강이라고\n 믿어라!」",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/31/literal/1",
+      "ja": "さっき にいちゃんに\nおしえてもらったコトバちゅ",
+      "ko": "아까 형아한테\n배운 말이쪄",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/31/literal/2",
+      "ja": "さすが にいちゃんちゅ\nネットバトルの しんずいを\nしりつくしてるちゅ!",
+      "ko": "역시 형아야쪄\n넷배틀의 진수를\n꿰뚫고 있어쪄!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/35/literal/0",
+      "ja": "熱斗、いよいよだな!",
+      "ko": "넷토、드디어구나!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/35/literal/1",
+      "ja": "あまり おおくはいわねえ!\nなれよ、ニホンイチ!",
+      "ko": "길게는 말 안 한다!\n돼라、일본 제일!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/36/literal/0",
+      "ja": "「こまかいワザは いらねー\\n ただ おもいきりブンなぐれ!」",
+      "ko": "「잔기술은 필요 없다\n 그냥 힘껏 후려갈겨라!」",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/36/literal/1",
+      "ja": "これが にいちゃんの\nネットバトルのごくいちゅ!",
+      "ko": "이게 형아의\n넷배틀 비법이쪄!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/36/literal/2",
+      "ja": "オトコらしいちゅ!",
+      "ko": "사나이다워쪄!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/5/literal/0",
+      "ja": "さっき、イヌの ほえるこえが\nきこえたんだけどよ、",
+      "ko": "아까、개 짖는 소리가\n들렸는데 말이야、",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/5/literal/1",
+      "ja": "このへんで イヌをかってる\nいえって あったっけ?",
+      "ko": "이 근처에 개를 키우는\n집이 있었던가?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/6/literal/0",
+      "ja": "にいちゃんは ボクと\nしゃべってるんちゅ!",
+      "ko": "형아는 나랑\n얘기하는 중이쪄!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/237/script/6/literal/1",
+      "ja": "ジャマしないでほしいちゅ!",
+      "ko": "방해하지 말아 줘쪄!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "098ecde27fe8b296971ff448947f03d7364d5f3b02f9d73c925350aab5ea0813"
+        },
+        "red_sun": {
+          "payload_sha256": "04d82a71743e71f0ac8be283ddb6f3883e522df8ae82df9ea92b07d1cc7c890f",
+          "tpl_sha256": "829f70a1a707ecc4106ea5827910488a270ed9cd09af4d3e95d8767d44be93cc"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/0/literal/0",
+      "ja": "ミマワリ、ミマワリ\nタノシイナ~",
+      "ko": "순찰、순찰\n즐겁구나~",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/0/literal/1",
+      "ja": "タノシイ タノシイ\nタノシイナ~ット",
+      "ko": "즐거워 즐거워\n즐겁구나~ 하고",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/0/literal/2",
+      "ja": "フゥ、タノシイト\nオモイコマナキャ、",
+      "ko": "후우、즐겁다고\n믿지 않으면、",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/0/literal/3",
+      "ja": "コンナ タイクツナシゴト\nツヅケラレマセンヨ・・・",
+      "ko": "이런 지루한 일\n계속할 수 없어요...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/10/literal/0",
+      "ja": "タイクツダー・・・",
+      "ko": "지루하다...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/10/literal/1",
+      "ja": "ケド、コノ ジカンヲ\nユウコウニ ツカウコトハ\nデキナイダロウカ・・・",
+      "ko": "하지만、이 시간을\n유용하게 쓸 수는\n없을까...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/10/literal/2",
+      "ja": "ソウダ、ポエムヲ ツクロウ!!",
+      "ko": "그래、시를 짓자!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/10/literal/3",
+      "ja": "ソウサクカツドウ コソ、\nココロヲ ユタカニスル\nサイリョウノ シュダン!",
+      "ko": "창작 활동이야말로、\n마음을 풍요롭게 하는\n최고의 수단!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/15/literal/1",
+      "ja": "ワタシハ 0ト1ノ ラレツデス",
+      "ko": "나는 0과 1의 나열입니다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/15/literal/10",
+      "ja": "プログラムノ アイシュウヲ\nカンジマセンカ?",
+      "ko": "프로그램의 애수가\n느껴지지 않나요?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/15/literal/3",
+      "ja": "ワタシノ スベテハ 0ト1デス",
+      "ko": "나의 모든 것은 0과 1입니다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/15/literal/5",
+      "ja": "ワタシノ コノ モエアガル\nカンジョウスラモ\n0ト1ノ ラレツナノデス",
+      "ko": "나의 이 불타오르는\n감정조차도\n0과 1의 나열인 것입니다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/15/literal/6",
+      "ja": "・",
+      "ko": ".",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/15/literal/7",
+      "ja": "・",
+      "ko": ".",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/15/literal/8",
+      "ja": "・",
+      "ko": ".",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/15/literal/9",
+      "ja": "ドウデス、コノ ポエム",
+      "ko": "어때요、이 시",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/20/literal/0",
+      "ja": "シリマセーン!!\nボクジャアリマセーン!!\nボクハ ナニモヤッテナイデス!!",
+      "ko": "몰라요--!!\n제가 아니에요--!!\n저는 아무것도 안 했어요!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/20/literal/1",
+      "ja": "アリバイダッテ アルンデス!!",
+      "ko": "알리바이도 있다고요!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/21/literal/0",
+      "ja": "ダレもキミのコトは\nウタガってないよ",
+      "ko": "아무도 너를\n의심하지 않아",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/21/literal/1",
+      "ja": "ナニか シってるコトはナいかって\nキいてる だけじゃないか",
+      "ko": "뭔가 아는 게 없냐고\n묻고 있을 뿐이잖아",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/21/literal/2",
+      "ja": "ボクハ ヤッテマセン!!",
+      "ko": "저는 안 했어요!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/22/literal/0",
+      "ja": "オフィシャルが やたら\nウゴきマワってるけど、\nナニがあったんだ?",
+      "ko": "오피셜이 엄청\n돌아다니는데、\n무슨 일 있었어?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/25/literal/0",
+      "ja": "アキハラエリア2デ\nナビ フタリガ オソワレタ\nソウデス!",
+      "ko": "아키하라 에리어2에서\n내비 두 명이 습격당했\n대요!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/25/literal/1",
+      "ja": "サッキ、スゴク ワルソウナ\nナビガ タウンエリアノ ホウニ\nハシッテイクノヲ ミタンデスガ",
+      "ko": "아까、엄청 나빠 보이는\n내비가 타운 에리어 쪽으로\n달려가는 걸 봤는데요",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/25/literal/2",
+      "ja": "モシカシテ ソノ ハンニン?\nブルルルルルルルルルルルル!",
+      "ko": "혹시 그 범인?\n부르르르르르르르르르르르르!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/26/literal/0",
+      "ja": "インターネットをブンダンした\nハンニンが、",
+      "ko": "인터넷을 차단한\n범인이、",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/26/literal/1",
+      "ja": "ニホンのインターネットに\nシンニュウした ウタガいがある!",
+      "ko": "일본 인터넷에\n침입한 혐의가 있다!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/26/literal/2",
+      "ja": "ケイカイを もっと\nゲンジュウにしなければ!!",
+      "ko": "경계를 더\n엄중히 해야 한다!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/27/literal/0",
+      "ja": "なんか おっかないコトに\nなってきたぞ・・・",
+      "ko": "왠지 무서운 일이\n벌어지고 있어...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/27/literal/1",
+      "ja": "ハヤいトコ プラグアウト\nしてしまおっと・・・",
+      "ko": "얼른 플러그아웃\n해 버려야지...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/30/literal/0",
+      "ja": "ハンザイシャ タイサクトシテ、\nトリアエズ パワーアップ スル\nカスタマイズヲ ウケマシタ",
+      "ko": "범죄자 대책으로、\n일단 파워업하는\n커스터마이즈를 받았어요",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/30/literal/1",
+      "ja": "カラダジュウニ チカラガ\nミナギッテマスヨ!!",
+      "ko": "온몸에 힘이\n넘쳐흘러요!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/30/literal/2",
+      "ja": "・・・ポォーーーーーーッ!!",
+      "ko": "...포오------!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/31/literal/0",
+      "ja": "これイジョウの ヒガイを\nダすワケには いかん",
+      "ko": "더 이상의 피해를\n낼 수는 없다",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/31/literal/1",
+      "ja": "トにもカクにも\nゲンカイタイセイで\nケイビに あたらねば!!",
+      "ko": "어쨌든\n엄중 경계 태세로\n경비에 임해야 한다!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/35/literal/0",
+      "ja": "ワルモノメ ハヤクヤッテコイ!\nワタシガ アイテシテヤル!!",
+      "ko": "악당 녀석 빨리 와라!\n내가 상대해 주마!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/35/literal/1",
+      "ja": "プログラム パンチ!\nプログラム キック!",
+      "ko": "프로그램 펀치!\n프로그램 킥!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/35/literal/2",
+      "ja": "ヒッサツ、\nプログラム ビーーーンム!!",
+      "ko": "필살、\n프로그램 비---임!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/35/literal/3",
+      "ja": "・・・ビームハ デマセンヨ",
+      "ko": "...빔은 안 나와요",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/36/literal/0",
+      "ja": "キミハ ミンカンのナビか?\nだったら ハヤく\nプラグアウトしなさい!",
+      "ko": "너는 민간 내비인가?\n그렇다면 빨리\n플러그아웃해라!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/411/script/5/literal/0",
+      "ja": "フー、タイクツダー・・・",
+      "ko": "후、지루하다...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "cae54039f3d93e1efcd23bee73ffd185553506d8e4487072e407c1a624107a8d"
+        },
+        "red_sun": {
+          "payload_sha256": "0364eb2f6fbb0e93de21600cadf309c09ea017caab904141ffa00dc187a033ed",
+          "tpl_sha256": "8ea406092363cc1825fad7dcebf92fabaedf398bfbf5d0433aeb322ca65cc12d"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/0/literal/0",
+      "ja": "あのー、メール見てきたんですけど\nPETを見てくれるんですよね",
+      "ko": "저기요、메일 보고 왔는데요\nPET를 봐 주시는 거죠",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/1/literal/0",
+      "ja": "はい、それでは PETを\nかしてもらえますかぁ?",
+      "ko": "네、그럼 PET를\n빌려주시겠어요?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/10/literal/0",
+      "ja": "いっ、いやホラ、",
+      "ko": "아、아니 그게、",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/10/literal/1",
+      "ja": "こんかいの メンテナンスは\n大会しゅつじょうしゃ が\nたいしょうだから・・・",
+      "ko": "이번 메인터넌스는\n대회 출전자가\n대상이라서...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/10/literal/2",
+      "ja": "そ、そうだ!",
+      "ko": "그、그렇지!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/10/literal/3",
+      "ja": "おまけに いいフォルダを\nつけときましたから\nぜひ つかってくださーい!!",
+      "ko": "덤으로 좋은 폴더를\n넣어 뒀으니까\n꼭 써 주세요~!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/10/literal/4",
+      "ja": "ボ、ボク、いそがしいから\nこ、このへんで サイナラァー!",
+      "ko": "저、저는 바빠서\n이、이만 안녀엉~!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/11/literal/0",
+      "ja": "なんだったんだ あの人?\nなんか おとしていったぞ",
+      "ko": "뭐였던 거야 저 사람?\n뭔가 떨어뜨리고 갔어",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/12/literal/0",
+      "ja": "熱斗は、\n「",
+      "ko": "넷토는、\n「",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/12/literal/1",
+      "ja": "」\nを ゲットした!!",
+      "ko": "」\n획득!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/13/literal/0",
+      "ja": "なんだ? このかみきれ・・・",
+      "ko": "뭐지? 이 종잇조각...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/13/literal/1",
+      "ja": "ヘンな あんごうみたいなのが\nかいてあるけど、\nよくわかんないな・・・",
+      "ko": "이상한 암호 같은 게\n적혀 있는데、\n잘 모르겠네...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/13/literal/2",
+      "ja": "あ、そうだ ロックマン、\nどんなぐあいだ!?",
+      "ko": "아、맞다 록맨、\n상태는 어때!?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/14/literal/0",
+      "ja": "かわったトコロは あんまり・・・",
+      "ko": "달라진 곳은 별로...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/14/literal/1",
+      "ja": "あっ、タイヘンだよ 熱斗くん!",
+      "ko": "앗、큰일이야 넷토야!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/15/literal/0",
+      "ja": "なに、どうした!?",
+      "ko": "뭐、왜 그래!?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/16/literal/0",
+      "ja": "チップフォルダが・・・\nかきかえられちゃった!",
+      "ko": "칩 폴더가...\n바뀌어 버렸어!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/16/literal/1",
+      "ja": "ほかの フォルダに\nきりかえられないよ!!",
+      "ko": "다른 폴더로\n전환할 수가 없어!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/17/literal/0",
+      "ja": "なんだって!?",
+      "ko": "뭐라고!?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/17/literal/1",
+      "ja": "・・・ホ、ホントだ!!\nかんぜんに ロックされちゃってる",
+      "ko": "...저、정말이다!!\n완전히 잠겨 버렸어",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/17/literal/2",
+      "ja": "ロックマン、なんとか\nならないのか?",
+      "ko": "록맨、어떻게\n안 되는 거야?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/18/literal/0",
+      "ja": "ダメだよ、さっきの人に\nヘンなきかいを くみこまれた\nみたいで ボクにはなんとも・・・",
+      "ko": "안 돼、아까 그 사람이\n이상한 기계를 심은 것 같아\n나로선 어쩔 수 없어...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/18/literal/1",
+      "ja": "どこかで PETを\nみてもらわないと・・・",
+      "ko": "어디선가 PET를\n봐 달라고 해야...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/19/literal/0",
+      "ja": "このフォルダのままで\nしあいに でなきゃ\nいけないってコトか・・・",
+      "ko": "이 폴더 그대로\n시합에 나가야\n한다는 건가...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/19/literal/1",
+      "ja": "それは ちょっとヤバい!\nどこかで PETを\nみてもらわないとな!",
+      "ko": "그건 좀 곤란해!\n어디선가 PET를\n봐 달라고 해야지!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/19/literal/2",
+      "ja": "・・・けど、アイツ いったい\nだれだったんだ!?",
+      "ko": "...그런데、그 녀석 대체\n누구였던 거야!?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/2/literal/0",
+      "ja": "はーい、おねがいしまーす",
+      "ko": "네~、부탁드려요~",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/2/literal/1",
+      "ja": "ロックマン、\nちょっと ガマンしてくれよ",
+      "ko": "록맨、\n잠깐 참아 줘",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/3/literal/0",
+      "ja": "熱斗は、\n「PET」\nを てわたした!!",
+      "ko": "넷토는、\n「PET」를\n건넸다!!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/4/literal/0",
+      "ja": "・・・ロックマン",
+      "ko": "...록맨",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/5/literal/0",
+      "ja": "えっ?\nロックマンがどうかした?",
+      "ko": "엇?\n록맨이 왜요?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/6/literal/0",
+      "ja": "いっ、いえいえ なんでも\nありませんよぉ",
+      "ko": "아、아뇨아뇨 아무것도\n아니에요~",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/6/literal/1",
+      "ja": "じ、じゃあ、今からPETの中を\n見させてもらいますねぇ",
+      "ko": "그、그럼、지금부터 PET 안을\n보겠습니다~",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/6/literal/2",
+      "ja": "PETといっても、やっぱり\nきかいなんですよね",
+      "ko": "PET라고 해도、역시\n기계니까요",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/6/literal/3",
+      "ja": "たまには メンテしないと\nちょうし わるくなっちゃいます",
+      "ko": "가끔은 메인터넌스를 안 하면\n상태가 나빠져요",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/7/literal/0",
+      "ja": "カチャカチャ・・・",
+      "ko": "달칵달칵...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/7/literal/2",
+      "ja": "グリグリ・・・",
+      "ko": "빙글빙글...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/7/literal/3",
+      "ja": "カチッ!",
+      "ko": "딸깍!",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/8/literal/0",
+      "ja": "かなり つかいこんでますねぇ\nアチコチ いたんでましたよぉ",
+      "ko": "꽤 많이 쓰셨네요~\n여기저기 상해 있었어요~",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/8/literal/1",
+      "ja": "けど、もうだいじょうぶです\nよかったですねぇ\nしあいまえで・・・",
+      "ko": "하지만、이제 괜찮아요\n다행이네요~\n시합 전이라...",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    },
+    {
+      "id": "archive/583/script/9/literal/0",
+      "ja": "あれ? なんでオレが\nしあいまえだって しってるの?",
+      "ko": "어라? 왜 제가\n시합 전이란 걸 아세요?",
+      "source_bindings": {
+        "blue_moon": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "676b87fd4b1ccb3f40ff481924ba4c548da9d1c9102d48cfc6c488fb80cdda88"
+        },
+        "red_sun": {
+          "payload_sha256": "08a20134ee881877c7ebd7f3d15b9f3efae9efaf7ffcc570aa295dc076d6834c",
+          "tpl_sha256": "68eb5a48ed82b246eba1216ddb23573e258fc3a14181fdb0baa690b0ebd5f2ee"
+        }
+      }
+    }
+  ]
+}
